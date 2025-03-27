@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const { tag } = Astro.params;
+const posts = await getCollection('pl');
+const filtered = posts.filter(post => post.data.tags?.includes(tag));
+
+export async function getStaticPaths() {
+  const posts = await getCollection('pl');
+  const tags = new Set();
+  for (const post of posts) {
+    post.data.tags?.forEach(t => tags.add(t));
+  }
+  return [...tags].map(tag => ({ params: { tag } }));
+}
+---
+
+<BaseLayout title={`Tag: ${tag}`}>
+  <h1># {tag}</h1>
+  {filtered.length === 0 ? (
+    <p>Brak wpisów z tym tagiem.</p>
+  ) : (
+    <ul>
+      {filtered.map(post => (
+        <li style="margin-bottom: 1rem;">
+          <a href={`/pl/blog/${post.slug}`} style="font-weight: bold;">
+            {post.data.title}
+          </a>
+          <div><em>{post.data.pubDate.toDateString()}</em></div>
+        </li>
+      ))}
+    </ul>
+  )}
+</BaseLayout>
+
