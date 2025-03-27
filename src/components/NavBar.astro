@@ -1,44 +1,19 @@
 ---
-// src/components/NavBar.astro
 ---
 
-<style>
-  nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1rem;
-  }
-
-  .nav-links {
-    display: flex;
-    gap: 1rem;
-  }
-
-  .lang-switcher {
-    display: flex;
-    gap: 0.5rem;
-    align-items: center;
-  }
-
-  .lang-switcher img {
-    width: 24px;
-    height: 16px;
-    cursor: pointer;
-    border: 1px solid #ccc;
-  }
-</style>
-
-<nav>
-  <div class="nav-links">
-    <a href="/">🏠 Home</a>
-    <a href="/blog">Blog</a>
+// 💡 Plik: src/components/NavBar.astro
+<nav style="display: flex; justify-content: space-between; align-items: center; padding: 1rem;">
+  <!-- Linki po lewej -->
+  <div>
+    <a href="/">🏠 Home</a> |
+    <a href="/blog">Blog</a> |
     <a href="/pl/blog">Blog PL</a>
   </div>
 
-  <div class="lang-switcher">
-    <a href="/" title="English"><img src="/flag_uk.png" alt="EN" /></a>
-    <a href="/pl/" title="Polski"><img src="/flag_pl.png" alt="PL" /></a>
+  <!-- Flagi po prawej -->
+  <div style="display: flex; gap: 0.5rem;">
+    <a href="/"><img src="/flag_uk.png" alt="English" style="width: 24px; height: auto;" /></a>
+    <a href="/pl"><img src="/flag_pl.png" alt="Polski" style="width: 24px; height: auto;" /></a>
   </div>
 </nav>
 
