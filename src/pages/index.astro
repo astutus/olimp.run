@@ -1,5 +1,20 @@
 ---
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<h1>Welcome to Olimp.run</h1>
-<a href="/blog/garmin-week1">Garmin Week 1</a>
+
+<BaseLayout title="Olimp.run – Home">
+  <section style="text-align: center; margin-top: 4rem;">
+    <h1>Witaj na <strong>Olimp.run</strong></h1>
+    <p>Blog o treningu, technologii, kalistenice, zdrowiu i życiu w trybie „pełnej intensywności”.</p>
+
+    <div style="margin-top: 2rem;">
+      <a href="/blog" style="padding: 1rem 2rem; margin: 1rem; background: #0070f3; color: white; text-decoration: none; border-radius: 5px;">
+        🇬🇧 English blog
+      </a>
+      <a href="/pl/blog" style="padding: 1rem 2rem; margin: 1rem; background: #0070f3; color: white; text-decoration: none; border-radius: 5px;">
+        🇵🇱 Polski blog
+      </a>
+    </div>
+  </section>
+</BaseLayout>
 
