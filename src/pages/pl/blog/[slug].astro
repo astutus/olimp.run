@@ -1,6 +1,6 @@
 ---
 import { getEntryBySlug } from 'astro:content';
-import BaseLayout from '../../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
 
 const { slug } = Astro.params;
 const post = await getEntryBySlug('pl', slug);
