@@ -1,19 +1,17 @@
----
----
-
-// 💡 Plik: src/components/NavBar.astro
 <nav style="display: flex; justify-content: space-between; align-items: center; padding: 1rem;">
-  <!-- Linki po lewej -->
   <div>
     <a href="/">🏠 Home</a> |
     <a href="/blog">Blog</a> |
     <a href="/pl/blog">Blog PL</a>
   </div>
 
-  <!-- Flagi po prawej -->
-  <div style="display: flex; gap: 0.5rem;">
-    <a href="/"><img src="/flag_uk.png" alt="English" style="width: 24px; height: auto;" /></a>
-    <a href="/pl"><img src="/flag_pl.png" alt="Polski" style="width: 24px; height: auto;" /></a>
+  <div style="display: flex; align-items: center; gap: 0.5rem;">
+    <a href="/">
+      <img src="/flag_uk.png" alt="English" width="24" height="16" style="display: block;" />
+    </a>
+    <a href="/pl">
+      <img src="/flag_pl.png" alt="Polski" width="24" height="16" style="display: block;" />
+    </a>
   </div>
 </nav>
 
