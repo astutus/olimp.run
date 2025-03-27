@@ -21,7 +21,12 @@ export async function getStaticPaths() {
   <article>
     <h1>{post.data.title}</h1>
     <p><em>{post.data.pubDate.toDateString()}</em></p>
-    <div innerHTML={post.body} />
+
+    <!-- 🧪 Diagnostyka -->
+    <!-- <pre>{JSON.stringify(post, null, 2)}</pre> -->
+
+    <!-- ✅ Wymuszone renderowanie -->
+    <div innerHTML={await post.render().then(r => r.html)} />
   </article>
 </BaseLayout>
 
