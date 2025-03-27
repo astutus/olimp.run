@@ -1,27 +1,44 @@
 ---
-const navStyle = `
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 1rem;
-`;
-
-const linkStyle = `
-  margin: 0 0.5rem;
-  text-decoration: none;
-  color: inherit;
-`;
+// src/components/NavBar.astro
 ---
 
-<nav style={navStyle}>
-  <div>
-    <a href="/" style={linkStyle}>🏠 Home</a> |
-    <a href="/blog" style={linkStyle}>Blog</a> |
-    <a href="/pl/blog" style={linkStyle}>Blog PL</a>
+<style>
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .lang-switcher {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+  }
+
+  .lang-switcher img {
+    width: 24px;
+    height: 16px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+</style>
+
+<nav>
+  <div class="nav-links">
+    <a href="/">🏠 Home</a>
+    <a href="/blog">Blog</a>
+    <a href="/pl/blog">Blog PL</a>
   </div>
-  <div>
-    <a href="/blog" style={linkStyle}>🇬🇧</a>
-    <a href="/pl/blog" style={linkStyle}>🇵🇱</a>
+
+  <div class="lang-switcher">
+    <a href="/" title="English"><img src="/flag_uk.png" alt="EN" /></a>
+    <a href="/pl/" title="Polski"><img src="/flag_pl.png" alt="PL" /></a>
   </div>
 </nav>
 
