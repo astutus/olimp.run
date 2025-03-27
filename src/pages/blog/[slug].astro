@@ -13,9 +13,10 @@ const { Content } = await post.render();
 
 export async function getStaticPaths() {
   const posts = await getCollection('en');
+  console.log("DEBUG: POSTS FOUND FOR EN", posts);
   return posts.map((post) => ({
     params: { slug: post.slug },
-  }));
+    }));
 }
 ---
 
