@@ -9,6 +9,8 @@ if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
 }
 
+const { Content } = await post.render();
+
 export async function getStaticPaths() {
   const posts = await getCollection('pl');
   return posts.map((post) => ({
@@ -21,7 +23,8 @@ export async function getStaticPaths() {
   <article>
     <h1>{post.data.title}</h1>
     <p><em>{post.data.pubDate.toDateString()}</em></p>
-    <div innerHTML={post.body} />
+
+    <Content />
   </article>
 </BaseLayout>
 
