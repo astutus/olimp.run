@@ -1,12 +1,11 @@
 ---
-const { children } = Astro.props;
+const { title } = Astro.props;
 ---
 
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Olimp.run</title>
+    <title>{title || 'Olimp.run'}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/png" href="/favicon.png" />
   </head>
@@ -18,13 +17,11 @@ const { children } = Astro.props;
         <a href="/pl/blog">Blog PL</a>
       </nav>
     </header>
-
     <main>
-      {children}
+      <slot />  <!-- 🔥 Tu była brakująca magia -->
     </main>
-
     <footer>
-      <p>© {new Date().getFullYear()} Olimp.run</p>
+      <p>© 2025 Olimp.run</p>
     </footer>
   </body>
 </html>
