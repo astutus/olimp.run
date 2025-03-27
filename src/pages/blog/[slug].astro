@@ -20,6 +20,7 @@ export async function getStaticPaths() {
 ---
 
 <BaseLayout>
+  <pre>{JSON.stringify(post, null, 2)}</pre>
   <article>
     <h1>{post.data.title}</h1>
     <p><em>{post.data.pubDate.toDateString()}</em></p>
