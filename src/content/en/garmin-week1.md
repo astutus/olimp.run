@@ -4,5 +4,13 @@ pubDate: 2025-03-27
 tags: ["garmin", "running", "training"]
 ---
 
-This week, I started my Garmin Coach journey. Here's what I learned...
+# Test heading
+
+This is **real content**.
+
+- One
+- Two
+- Three
+
+✅ Render me, Astro!
 
