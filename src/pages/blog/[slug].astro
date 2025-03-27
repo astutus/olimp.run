@@ -3,6 +3,14 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const { post } = Astro.props;
+
+export async function getStaticPaths() {
+  const posts = await getCollection('en');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
 ---
 
 <BaseLayout>
@@ -12,14 +20,4 @@ const { post } = Astro.props;
     <div innerHTML={post.body} />
   </article>
 </BaseLayout>
-
----
-
-export async function getStaticPaths() {
-  const posts = await getCollection('en');
-  return posts.map((post) => ({
-    params: { slug: post.slug },
-    props: { post },
-  }));
-}
 
