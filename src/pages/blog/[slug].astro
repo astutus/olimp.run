@@ -9,7 +9,7 @@ if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
 }
 
-const rendered = await post.render();
+const { Content } = await post.render();
 
 export async function getStaticPaths() {
   const posts = await getCollection('en');
@@ -20,11 +20,11 @@ export async function getStaticPaths() {
 ---
 
 <BaseLayout>
-  <pre>{JSON.stringify(post, null, 2)}</pre>
   <article>
     <h1>{post.data.title}</h1>
     <p><em>{post.data.pubDate.toDateString()}</em></p>
-    <div innerHTML={rendered.html} />
+
+    <Content />
   </article>
 </BaseLayout>
 
