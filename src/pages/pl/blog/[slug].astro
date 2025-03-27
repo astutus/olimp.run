@@ -8,6 +8,14 @@ const post = await getEntryBySlug('pl', slug);
 if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
 }
+
+export async function getStaticPaths() {
+  const posts = await getCollection('pl');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
 ---
 
 <BaseLayout>
@@ -17,14 +25,4 @@ if (!post) {
     <div innerHTML={post.body} />
   </article>
 </BaseLayout>
-
----
-
-export async function getStaticPaths() {
-  const posts = await getCollection('pl');
-  return posts.map((post) => ({
-    params: { slug: post.slug },
-    props: { post },
-  }));
-}
 
