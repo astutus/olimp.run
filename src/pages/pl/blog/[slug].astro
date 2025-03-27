@@ -1,5 +1,5 @@
 ---
-import { getEntryBySlug } from 'astro:content';
+import { getEntryBySlug, getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 const { slug } = Astro.params;
@@ -17,4 +17,14 @@ if (!post) {
     <div innerHTML={post.body} />
   </article>
 </BaseLayout>
+
+---
+
+export async function getStaticPaths() {
+  const posts = await getCollection('pl');
+  return posts.map((post) => ({
+    params: { slug: post.slug },
+    props: { post },
+  }));
+}
 
