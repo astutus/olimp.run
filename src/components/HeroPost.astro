@@ -1,6 +1,6 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-const { post } = Astro.props;
+const { post, langPrefix = '', readMoreText = 'Read full post →' } = Astro.props;
 const { Content } = await post.render();
 ---
 
@@ -10,5 +10,6 @@ const { Content } = await post.render();
   <div class="excerpt" style="margin: 1rem 0;">
     <Content />
   </div>
-  <a href={`/blog/${post.slug}`} style="color: #60a5fa;">Read full post →</a>
+  <a href={`${langPrefix}/blog/${post.slug}`} style="color: #60a5fa;">{readMoreText}</a>
 </article>
+
