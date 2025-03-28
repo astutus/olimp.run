@@ -1,5 +1,11 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import HeroPost from '../components/HeroPost.astro';
+
+const posts = await getCollection('en');
+const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const latestPost = sorted[0];
 ---
 
 <BaseLayout title="Olimp.run – Home">
@@ -14,5 +20,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       Always about <strong>progress</strong>.
     </p>
   </section>
-</BaseLayout>
 
+  <section style="max-width: 600px; margin: 4rem auto;">
+    <HeroPost post={latestPost} />
+  </section>
+</BaseLayout>
