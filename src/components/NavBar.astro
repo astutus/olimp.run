@@ -1,20 +1,26 @@
 ---
 const currentPath = Astro.url.pathname;
-
-// Czy obecna ścieżka to język polski?
 const isPolish = currentPath.startsWith('/pl');
 
-// Dla przełącznika języka:
 const polishPath = isPolish ? currentPath : `/pl${currentPath}`;
 const englishPath = isPolish ? currentPath.replace(/^\/pl/, '') || '/' : currentPath;
 ---
 
 <nav>
-  <a href="/">🏠 Home</a> |
-  <a href="/about">About</a> |
-  <a href="/pl/about">O mnie</a> |
-  <a href="/blog">Blog</a> |
-  <a href="/pl/blog">Blog PL</a> |
-  <a href="{englishPath}">🇬🇧</a>
-  <a href="{polishPath}" style="margin-left: 0.5rem;">🇵🇱</a>
+  {isPolish ? (
+    <>
+      <a href="/pl">🏠 Strona Główna</a> |
+      <a href="/pl/about">O mnie</a> |
+      <a href="/pl/blog">Blog</a> |
+      <a href="{englishPath}" style="margin-left: 0.5rem;">🇬🇧</a>
+    </>
+  ) : (
+    <>
+      <a href="/">🏠 Home</a> |
+      <a href="/about">About</a> |
+      <a href="/blog">Blog</a> |
+      <a href="{polishPath}" style="margin-left: 0.5rem;">🇵🇱</a>
+    </>
+  )}
 </nav>
+
