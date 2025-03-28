@@ -4,7 +4,10 @@ const { post } = Astro.props;
 
 <article style="border-bottom: 1px solid #444; padding: 1rem 0;">
   <h2>
-    <a href={`/${post.collection}/blog/${post.slug}`} style="color: #ff3c3c; text-decoration: none;">
+    <a href={post.collection === 'pl' ? `/pl/blog/${post.slug}` : `/blog/${post.slug}`} style="color: #ff3c3c; text-decoration: none;">
+  {post.data.title}
+</a>
+
       {post.data.title}
     </a>
   </h2>
