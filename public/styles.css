@@ -1,15 +1,16 @@
-/* Base reset */
+/* Global styles */
+
 body {
+  background-color: #1a1a1a;
+  color: #f0f0f0;
   font-family: system-ui, sans-serif;
+  line-height: 1.6;
   margin: 0;
   padding: 0;
-  background-color: #121212;
-  color: #f0f0f0;
-  line-height: 1.6;
 }
 
 a {
-  color: #8be9fd;
+  color: #e63946; /* czerwony akcent */
   text-decoration: none;
 }
 
@@ -17,57 +18,20 @@ a:hover {
   text-decoration: underline;
 }
 
-header, footer {
-  padding: 1rem;
-  background-color: #1e1e1e;
+strong {
+  color: #e63946; /* czerwony akcent dla podkreśleń */
+}
+
+nav {
   text-align: center;
+  padding: 1rem;
+  background-color: #121212;
 }
 
-nav a {
-  margin: 0 0.5rem;
-  color: #f0f0f0;
-}
-
-main {
+footer {
+  text-align: center;
   padding: 2rem;
-}
-
-/* Blog layout */
-.blog-list {
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-  max-width: 700px;
-  margin: 0 auto;
-}
-
-.blog-card {
-  background-color: #1e1e1e;
-  padding: 1.5rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-}
-
-.blog-card h2 {
-  margin-top: 0;
-  font-size: 1.5rem;
-}
-
-.blog-card p {
-  color: #ccc;
-}
-
-.blog-tags {
-  margin-top: 0.5rem;
-}
-
-.blog-tag {
-  display: inline-block;
-  background-color: #333;
-  color: #fff;
-  padding: 0.2rem 0.5rem;
-  margin-right: 0.5rem;
-  font-size: 0.8rem;
-  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #888;
 }
 
