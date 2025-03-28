@@ -1,25 +1,23 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import PostPreview from '../components/PostPreview.astro';
 
 const posts = await getCollection('en');
 ---
 
 <BaseLayout title="Blog – Olimp.run">
-  <div class="blog-list">
-    {posts.map(post => {
-      const { title, pubDate, tags } = post.data;
-      return (
-        <article class="blog-card">
-          <h2><a href={`/blog/${post.slug}`}>{title}</a></h2>
-          <p><em>{pubDate.toDateString()}</em></p>
-          <div class="blog-tags">
-            {tags && tags.map(tag => <span class="blog-tag">#{tag}</span>)}
-          </div>
-          <p>{post.body?.substring(0, 150) ?? ''}...</p>
-        </article>
-      );
-    })}
-  </div>
+  <section style="max-width: 800px; margin: 4rem auto; text-align: center;">
+    <h1>Blog</h1>
+    <p>Browse the latest posts and insights.</p>
+  </section>
+
+  <section style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
+    {
+      posts.map((post) => (
+        <PostPreview post={post} />
+      ))
+    }
+  </section>
 </BaseLayout>
 

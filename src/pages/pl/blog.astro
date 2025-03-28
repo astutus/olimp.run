@@ -1,28 +1,23 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import PostPreview from '../../../components/PostPreview.astro';
 
 const posts = await getCollection('pl');
 ---
 
-<BaseLayout title="Blog – Polski">
-  <h1>📚 Blog po polsku</h1>
-  <ul>
-    {posts.map(post => (
-      <li style="margin-bottom: 1.5rem;">
-        <a href={`/pl/blog/${post.slug}`} style="font-weight: bold;">
-          {post.data.title}
-        </a>
-        <div><em>{post.data.pubDate.toDateString()}</em></div>
-        {post.data.tags && (
-          <div>
-            Tagi: {post.data.tags.map(tag => (
-              <span style="margin-right: 0.5rem;">#{tag}</span>
-            ))}
-          </div>
-        )}
-      </li>
-    ))}
-  </ul>
+<BaseLayout title="Blog – Olimp.run">
+  <section style="max-width: 800px; margin: 4rem auto; text-align: center;">
+    <h1>Blog PL</h1>
+    <p>Przeglądaj najnowsze wpisy i przemyślenia.</p>
+  </section>
+
+  <section style="max-width: 800px; margin: 0 auto; padding: 0 1rem;">
+    {
+      posts.map((post) => (
+        <PostPreview post={post} />
+      ))
+    }
+  </section>
 </BaseLayout>
 
