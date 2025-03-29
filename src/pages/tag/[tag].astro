@@ -2,7 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 
-const { tag } = Astro.params;
+const tag = Astro.params.tag as string;
 const posts = await getCollection('en');
 const filtered = posts.filter(post => post.data.tags?.includes(tag));
 
