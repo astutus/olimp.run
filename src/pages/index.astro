@@ -1,27 +1,22 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import { getCollection } from 'astro:content';
-import HeroPost from '../components/HeroPost.astro';
+import { AppConfig } from '@/utils/AppConfig';
+import Base from '@/layouts/Base.astro';
+import Hero from '@/components/Hero.astro';
+import LatestPosts from '@/components/LatestPosts.astro';
+import { sortPostsByDate } from '@/utils/data.util';
+import { MarkdownInstance } from 'astro';
 
-const posts = await getCollection('en');
-const sorted = posts.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
-const latestPost = sorted[0];
+const { title } = AppConfig;
+const { description } = AppConfig;
+
+const allPosts = Object.values(
+	import.meta.glob('./posts/*.md', { eager: true })
+) as MarkdownInstance<any>[];
+allPosts.sort(sortPostsByDate);
+const latestPosts = allPosts.slice(0, 3);
 ---
 
-<BaseLayout title="Olimp.run – Home">
-  <section style="max-width: 600px; margin: 4rem auto; text-align: center;">
-    <h1>Welcome to <strong>Olimp.run</strong></h1>
-    <p>
-      A personal blog about <strong>endurance</strong>, <strong>training</strong>, <strong>calisthenics</strong>, 
-      <strong>health</strong>, and the disciplined mindset behind growth.
-    </p>
-    <p>
-      Sometimes about tech. Sometimes about dogs.  
-      Always about <strong>progress</strong>.
-    </p>
-  </section>
-
-  <section style="max-width: 600px; margin: 4rem auto;">
-    <HeroPost post={latestPost} />
-  </section>
-</BaseLayout>
+<Base head={{ title, description }}>
+	<Hero />
+	<LatestPosts posts={latestPosts} />
+</Base>
