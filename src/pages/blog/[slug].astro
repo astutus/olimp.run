@@ -1,10 +1,9 @@
 ---
-import { getEntryBySlug, getCollection, type CollectionEntry } from 'astro:content';
+import { getEntry, getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug('en', slug) as CollectionEntry<'en'>;
-
+const post = await getEntry('en', slug);
 
 if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
@@ -20,7 +19,7 @@ export async function getStaticPaths() {
 }
 ---
 
-<Base head={{ title: post.data.title, description: post.data.description ?? post.data.excerpt ?? post.data.title  }}>
+<Base head={{ title: post.data.title, description: post.data.description ?? post.data.excerpt ?? post.data.title }}>
   <article style="max-width: 700px; margin: 4rem auto;">
     <h1 style="font-size: 2rem; margin-bottom: 0.5rem;">{post.data.title}</h1>
     <p style="color: #d1d5db; font-style: italic;">{post.data.pubDate.toDateString()}</p>

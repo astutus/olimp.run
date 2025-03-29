@@ -1,12 +1,9 @@
 ---
-import { getEntryBySlug, getCollection, type CollectionEntry } from 'astro:content';
+import { getEntry, getCollection, type CollectionEntry } from 'astro:content';
 import Base from '@/layouts/Base.astro';
 
-
 const { slug } = Astro.params;
-const post = await getEntryBySlug<'pl'>(slug) as CollectionEntry<'pl'>;
-const post = await getEntryBySlug('pl', slug) as CollectionEntry<'pl'>;
-
+const post = await getEntry('pl', slug);
 
 if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
@@ -31,3 +28,4 @@ export async function getStaticPaths() {
     </div>
   </article>
 </Base>
+
