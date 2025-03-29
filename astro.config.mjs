@@ -1,4 +1,4 @@
-import { defineCollection, z } from '@astrojs/content-collections';
+import { defineConfig } from 'astro/config';
 
 import { remarkReadingTime } from './src/utils/readingTime';
 import rehypePrettyCode from 'rehype-pretty-code';
