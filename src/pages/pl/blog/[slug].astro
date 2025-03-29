@@ -20,7 +20,7 @@ export async function getStaticPaths() {
 }
 ---
 
-<BaseLayout>
+<Base head={{ title: post.data.title, description: post.data.description ?? post.data.excerpt ?? post.data.title }}>
   <article style="max-width: 700px; margin: 4rem auto;">
     <h1 style="font-size: 2rem; margin-bottom: 0.5rem;">{post.data.title}</h1>
     <p style="color: #d1d5db; font-style: italic;">{post.data.pubDate.toDateString()}</p>
@@ -28,5 +28,4 @@ export async function getStaticPaths() {
       <Content />
     </div>
   </article>
-</BaseLayout>
-
+</Base>

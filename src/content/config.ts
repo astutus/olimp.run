@@ -8,7 +8,7 @@ const blogSchema = z.object({
 });
 
 export const collections = {
-  pl: defineCollection({ schema: blogSchema }),
-  en: defineCollection({ schema: blogSchema })
+  en: defineCollection({ schema: blogSchema }),
+  pl: defineCollection({ schema: blogSchema })
 };
 
