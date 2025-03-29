@@ -1,4 +1,5 @@
-import { defineConfig } from 'astro/config';
+import { defineCollection, z } from '@astrojs/content-collections';
+
 import { remarkReadingTime } from './src/utils/readingTime';
 import rehypePrettyCode from 'rehype-pretty-code';
 import vercelStatic from '@astrojs/vercel';
