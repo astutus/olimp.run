@@ -1,9 +1,9 @@
 ---
-import { getEntryBySlug, getCollection } from 'astro:content';
+import { getEntryBySlug, getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug('en', slug);
+const post = await getEntryBySlug<'en'>(slug) as CollectionEntry<'en'>;
 
 
 if (!post) {
