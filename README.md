@@ -72,3 +72,4 @@ If you find that something isn't working right then I'm always happy to hear it 
 
 ## ☕ Thank you!
 A big thank you to the creators of the awesome Astro static site generator and to all using this starter to make the web a bit more accessible for all people around the world :)
+
