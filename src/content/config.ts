@@ -1,4 +1,4 @@
-import { defineConfig } from 'astro/config';
+import { defineCollection, z } from 'astro:content'; // ✅ tu dodany z!
 
 const blogSchema = z.object({
   title: z.string(),
