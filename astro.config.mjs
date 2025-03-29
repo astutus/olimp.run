@@ -50,6 +50,12 @@ export default defineConfig({
 		}
 	}),
 	vite: {
-		plugins: [tailwindcss()]
-	}
+  plugins: [tailwindcss()],
+  resolve: {
+    alias: {
+      '@': new URL('./src', import.meta.url).pathname
+    }
+  }
+}
+
 });
