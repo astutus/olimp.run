@@ -1,0 +1,8 @@
+node_modules/
+.vscode/
+.vercel/
+dist/
+*.log
+npm-debug.log*
+.env
+

@@ -4,7 +4,8 @@ import Base from '@/layouts/Base.astro';
 
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug('pl', slug) as any; // 👈 typujemy jako any
+const post = await getEntryBySlug('pl', slug');
+
 
 if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
