@@ -4,7 +4,7 @@ import Base from '@/layouts/Base.astro';
 
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug('pl', slug');
+const post = await getEntryBySlug('pl', 'slug');
 
 
 if (!post) {
