@@ -5,6 +5,7 @@ import Base from '@/layouts/Base.astro';
 
 const { slug } = Astro.params;
 const post = await getEntryBySlug<'pl'>(slug) as CollectionEntry<'pl'>;
+const post = await getEntryBySlug('pl', slug) as CollectionEntry<'pl'>;
 
 
 if (!post) {

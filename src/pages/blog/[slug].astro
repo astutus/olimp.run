@@ -3,7 +3,7 @@ import { getEntryBySlug, getCollection, type CollectionEntry } from 'astro:conte
 import Base from '../../layouts/Base.astro';
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug<'en'>(slug) as CollectionEntry<'en'>;
+const post = await getEntryBySlug('en', slug) as CollectionEntry<'en'>;
 
 
 if (!post) {
