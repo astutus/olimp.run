@@ -3,7 +3,7 @@ import { getEntryBySlug, getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 
 const { slug } = Astro.params;
-const post = await getEntryBySlug('en', slug);
+const post = await getEntryBySlug('en', slug) as any; // 👈 typujemy jako any
 
 if (!post) {
   throw new Error(`Post not found for slug: ${slug}`);
@@ -13,7 +13,6 @@ const { Content } = await post.render();
 
 export async function getStaticPaths() {
   const posts = await getCollection('en');
-  console.log("DEBUG: POSTS FOUND FOR EN", posts);
   return posts.map((post) => ({
     params: { slug: post.slug },
   }));
