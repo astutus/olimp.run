@@ -1,5 +1,5 @@
-<svg width="128" height="128" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
   <rect width="128" height="128" fill="#d62828"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-        font-size="16" font-family="Arial" fill="white">OLIMP RUN</text>
+  <text x="50%" y="48%" text-anchor="middle" font-size="14" font-family="Arial" fill="white">OLIMP RUN</text>
+  <text x="50%" y="68%" text-anchor="middle" font-size="8" font-family="Arial" fill="white">Discipline. Reflection. Growth.</text>
 </svg>
