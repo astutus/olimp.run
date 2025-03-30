@@ -1,20 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <symbol id="mountain-flag" viewBox="0 0 128 128">
-    <!-- Powiększona góra z profilem -->
-    <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="url(#mountainGradient)" />
+  <!-- Gradient MUSI być poza <symbol>, żeby działał w <use> -->
+  <defs>
+    <linearGradient id="mountainGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e63946" />
+      <stop offset="100%" stop-color="#d62828" />
+    </linearGradient>
+  </defs>
 
-    <!-- Gradient -->
-    <defs>
-      <linearGradient id="mountainGradient" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0%" stop-color="#e63946" />
-        <stop offset="100%" stop-color="#d62828" />
-      </linearGradient>
-    </defs>
+  <symbol id="mountain-flag" viewBox="0 0 128 128">
+    <!-- Góra z profilem -->
+    <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="url(#mountainGradient)" />
 
     <!-- Maszt -->
     <line x1="82" y1="30" x2="82" y2="10" stroke="white" stroke-width="3"/>
 
-    <!-- Flaga powiększona i ciemniejsza -->
+    <!-- Flaga -->
     <polygon points="82,10 104,22 82,34" fill="#c1121f" stroke="white" stroke-width="1"/>
   </symbol>
 </svg>
