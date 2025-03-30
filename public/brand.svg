@@ -1,5 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
-  <symbol id="citrus" viewBox="0 0 128 128">
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="96" font-family="Arial" fill="#d62828">O</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <symbol id="mountain-flag" viewBox="0 0 128 128">
+    <!-- Powiększona góra z profilem -->
+    <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="url(#mountainGradient)" />
+
+    <!-- Gradient -->
+    <defs>
+      <linearGradient id="mountainGradient" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0%" stop-color="#e63946" />
+        <stop offset="100%" stop-color="#d62828" />
+      </linearGradient>
+    </defs>
+
+    <!-- Maszt -->
+    <line x1="82" y1="30" x2="82" y2="10" stroke="white" stroke-width="3"/>
+
+    <!-- Flaga powiększona i ciemniejsza -->
+    <polygon points="82,10 104,22 82,34" fill="#c1121f" stroke="white" stroke-width="1"/>
   </symbol>
 </svg>
+
