@@ -46,29 +46,27 @@ const size = {
   height: 630,
 };
 
-
 const markup = (title: string, pubDate: string) => html`
   <div
-    tw="flex flex-col justify-between w-full h-full p-16 text-white"
-    style="background: linear-gradient(to bottom right, #ba1a1a, #870000);"
+    style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; height: 100%; padding: 64px; background: linear-gradient(to bottom right, #ba1a1a, #870000); color: white;"
   >
     <div>
-      <p tw="text-3xl text-[#ffd7d7] mb-4">${pubDate}</p>
-      <h1 tw="text-6xl font-bold leading-tight">${title}</h1>
+      <p style="font-size: 1.875rem; margin-bottom: 1rem; color: #ffd7d7;">${pubDate}</p>
+      <h1 style="font-size: 3.75rem; font-weight: 700; line-height: 1.2;">${title}</h1>
     </div>
     <div
-      tw="flex items-end justify-between pt-8 border-t border-white/20 mt-12"
+      style="display: flex; align-items: flex-end; justify-content: space-between; padding-top: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.2); margin-top: 3rem;"
     >
-      <div tw="flex items-center">
+      <div style="display: flex; align-items: center;">
         <img
           src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IndoaXRlIi8+CiAgPGxpbmUgeDE9IjgyIiB5MT0iMzAiIHgyPSI4MiIgeTI9IjEwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmZkN2Q3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
           width="64"
           height="64"
           alt="Olimp Logo"
         />
-        <p tw="ml-4 text-5xl font-bold">Olimp Run</p>
+        <p style="margin-left: 1rem; font-size: 2.5rem; font-weight: 700;">Olimp Run</p>
       </div>
-      <p tw="text-3xl text-[#ffd7d7]">by ${siteConfig.author}</p>
+      <p style="font-size: 1.875rem; color: #ffd7d7;">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
