@@ -53,24 +53,38 @@ const ogOptions: SatoriOptions = {
 
 const markup = (title: string, date: string) => html`
   <div
-    style="width: 1200px; height: 630px;
-       background-image: url('${backgroundDataUrl}');
-       background-size: 100% 100%;
-       background-repeat: no-repeat;
-       background-position: center;
-       display: flex;
-       flex-direction: column;
-       justify-content: space-between;
-       padding: 60px;
-       color: white;"
+    style="
+      width: 1200px;
+      height: 630px;
+      background-image: url('${backgroundDataUrl}');
+      background-size: 100% 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 40px 60px 60px 60px;
+      color: white;
+      font-family: 'SF Pro Rounded', sans-serif;
+    "
   >
-    <div style="font-size: 32px; margin-bottom: 20px;">${date}</div>
-    <div style="font-size: 72px; font-weight: bold; line-height: 1.2;">${title}</div>
-    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 28px;">
-      <div style="display: flex; align-items: center; gap: 20px;">
-        <span>Olimp Run</span>
+    <div style="align-self: flex-start;">
+      <div style="font-size: 28px; margin-bottom: 10px;">${date}</div>
+      <div style="font-size: 64px; font-weight: bold; line-height: 1.2;">
+        ${title}
       </div>
-      <span style="font-size: 24px;">by ${siteConfig.author}</span>
+    </div>
+
+    <div
+      style="
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        font-size: 22px;
+      "
+    >
+      <span style="font-size: 20px;">🏔️</span>
+      <span style="font-weight: 600;">Olimp Run</span>
     </div>
   </div>
 `;
