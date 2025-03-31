@@ -46,30 +46,34 @@ const size = {
   height: 630,
 };
 
+const mountainSVGBase64 = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNIDAgNTYwIEwgMTIwIDQzMCBMIDIyMCA0NzAgTCAzMzAgMzkwIEwgNDAwIDQ0MCBMIDUwMCAzMjAgTCA2MDAgMzYwIEwgNzAwIDI4MCBMIDgwMCAzMzAgTCAxMDAwIDEwMCBMIDEyMDAgNTYwIFoiIC8+PC9zdmc+";
+
 const markup = (title: string, pubDate: string) => html`
   <div
-    tw="flex flex-col justify-between w-full h-full bg-gradient-to-br from-[#9a031e] to-[#d00000] text-white p-14"
+    tw="flex flex-col justify-between w-full h-full text-white p-14"
+    style="background: linear-gradient(to bottom right, #9a031e, #d00000); position: relative;"
   >
-    <div tw="flex flex-col">
+    <div
+      style="position: absolute; inset: 0; background-image: url('data:image/svg+xml;base64,${mountainSVGBase64}'); background-repeat: no-repeat; background-size: cover; background-position: bottom right; opacity: 0.3; z-index: 0;"
+    ></div>
+
+    <div tw="flex flex-col" style="z-index: 1;">
       <p tw="text-3xl text-[#fcd5ce] font-medium mb-4">${pubDate}</p>
       <h1 tw="text-6xl font-bold leading-tight text-white">${title}</h1>
     </div>
+
     <div
       tw="flex items-center justify-between border-t border-[#e0e0e0]/20 pt-6 mt-12"
+      style="z-index: 1;"
     >
       <div tw="flex items-center">
-        <img
-          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IiNmZWYyZjIiLz4KICA8bGluZSB4MT0iODIiIHkxPSIzMCIgeDI9IjgyIiB5Mj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmNhN2E3IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
-          width="64"
-          height="64"
-          alt="Logo"
-        />
-        <p tw="ml-4 text-5xl text-white font-bold">${siteConfig.title}</p>
+        <p tw="text-5xl font-bold text-white">${siteConfig.title}</p>
       </div>
       <p tw="text-3xl text-[#fcd5ce] font-medium">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
+
 
 export async function GET(context: APIContext) {
   const { pubDate, title } = context.props as {
