@@ -48,41 +48,25 @@ const size = {
 
 const markup = (title: string, pubDate: string) => html`
   <div
-    tw="flex flex-col justify-between w-full h-full bg-[#fef2f2] text-[#1f1f1f] p-14"
+    tw="flex flex-col justify-between w-full h-full bg-gradient-to-br from-[#9a031e] to-[#d00000] text-white p-14"
   >
     <div tw="flex flex-col">
-      <p tw="text-3xl text-[#d62828] font-medium mb-4">${pubDate}</p>
-      <h1 tw="text-6xl font-bold leading-tight text-[#ba1a1a]">${title}</h1>
+      <p tw="text-3xl text-[#fcd5ce] font-medium mb-4">${pubDate}</p>
+      <h1 tw="text-6xl font-bold leading-tight text-white">${title}</h1>
     </div>
     <div
-      tw="flex items-center justify-between border-t border-[#e0e0e0] pt-6 mt-12"
+      tw="flex items-center justify-between border-t border-[#e0e0e0]/20 pt-6 mt-12"
     >
       <div tw="flex items-center">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          viewBox="0 0 128 128"
+        <img
+          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IiNmZWYyZjIiLz4KICA8bGluZSB4MT0iODIiIHkxPSIzMCIgeDI9IjgyIiB5Mj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmNhN2E3IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiLz4KPC9zdmc+"
           width="64"
           height="64"
-        >
-          <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="#d62828" />
-          <line
-            x1="82"
-            y1="30"
-            x2="82"
-            y2="10"
-            stroke="white"
-            stroke-width="3"
-          />
-          <polygon
-            points="82,10 104,22 82,34"
-            fill="#9a031e"
-            stroke="white"
-            stroke-width="1"
-          />
-        </svg>
-        <p tw="ml-4 text-5xl text-[#9a031e] font-bold">${siteConfig.title}</p>
+          alt="Logo"
+        />
+        <p tw="ml-4 text-5xl text-white font-bold">${siteConfig.title}</p>
       </div>
-      <p tw="text-3xl text-[#b91c1c] font-medium">by ${siteConfig.author}</p>
+      <p tw="text-3xl text-[#fcd5ce] font-medium">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
