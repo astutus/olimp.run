@@ -51,7 +51,7 @@ const mountainSVGBase64 = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI
 const markup = (title: string, pubDate: string) => html`
   <div
     tw="flex flex-col justify-between w-full h-full text-white p-14"
-    style="background: linear-gradient(to bottom right, #9a031e, #d00000); position: relative;"
+    style="background: linear-gradient(to bottom right, #9a031e, #d00000); position: relative; display: flex; flex-direction: column; justify-content: space-between;"
   >
     <div
       style="position: absolute; inset: 0; background-image: url('data:image/svg+xml;base64,${mountainSVGBase64}'); background-repeat: no-repeat; background-size: cover; background-position: bottom right; opacity: 0.3; z-index: 0;"
