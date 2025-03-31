@@ -48,25 +48,25 @@ const size = {
 
 const markup = (title: string, pubDate: string) => html`
   <div
-    style="display: flex; flex-direction: column; justify-content: space-between; width: 100%; height: 100%; padding: 64px; background: linear-gradient(to bottom right, #ba1a1a, #870000); color: white;"
+    style="display: flex; flex-direction: column; justify-content: space-between; width: 1200px; height: 630px; padding: 64px; background: linear-gradient(to bottom right, #ba1a1a, #870000); color: white; box-sizing: border-box;"
   >
-    <div>
-      <p style="font-size: 1.875rem; margin-bottom: 1rem; color: #ffd7d7;">${pubDate}</p>
-      <h1 style="font-size: 3.75rem; font-weight: 700; line-height: 1.2;">${title}</h1>
+    <div style="display: flex; flex-direction: column;">
+      <p style="font-size: 32px; color: #ffd7d7; margin: 0 0 24px 0;">${pubDate}</p>
+      <h1 style="font-size: 72px; font-weight: 700; line-height: 1.2; margin: 0;">${title}</h1>
     </div>
     <div
-      style="display: flex; align-items: flex-end; justify-content: space-between; padding-top: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.2); margin-top: 3rem;"
+      style="display: flex; justify-content: space-between; align-items: flex-end; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 24px; margin-top: 48px;"
     >
       <div style="display: flex; align-items: center;">
         <img
-          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IndoaXRlIi8+CiAgPGxpbmUgeDE9IjgyIiB5MT0iMzAiIHgyPSI4MiIgeTI9IjEwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmZkN2Q3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
+          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IndoaXRlIi8+PGxpbmUgeDE9IjgyIiB5MT0iMzAiIHgyPSI4MiIgeTI9IjEwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPjxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmZkN2Q3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPjwvc3ZnPg=="
           width="64"
           height="64"
-          alt="Olimp Logo"
+          alt="Logo"
         />
-        <p style="margin-left: 1rem; font-size: 2.5rem; font-weight: 700;">Olimp Run</p>
+        <p style="margin-left: 16px; font-size: 48px; font-weight: bold; margin-bottom: 0;">Olimp Run</p>
       </div>
-      <p style="font-size: 1.875rem; color: #ffd7d7;">by ${siteConfig.author}</p>
+      <p style="font-size: 32px; color: #ffd7d7; margin: 0;">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
