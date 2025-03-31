@@ -46,35 +46,32 @@ const size = {
   height: 630,
 };
 
-const mountainSVGBase64 = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAwIiBoZWlnaHQ9IjYzMCIgdmlld0JveD0iMCAwIDEyMDAgNjMwIj48cGF0aCBmaWxsPSIjZmZmIiBkPSJNIDAgNTYwIEwgMTIwIDQzMCBMIDIyMCA0NzAgTCAzMzAgMzkwIEwgNDAwIDQ0MCBMIDUwMCAzMjAgTCA2MDAgMzYwIEwgNzAwIDI4MCBMIDgwMCAzMzAgTCAxMDAwIDEwMCBMIDEyMDAgNTYwIFoiIC8+PC9zdmc+";
 
 const markup = (title: string, pubDate: string) => html`
   <div
-    tw="flex flex-col justify-between w-full h-full text-white p-14"
-    style="background: linear-gradient(to bottom right, #9a031e, #d00000);"
+    tw="flex flex-col justify-between w-full h-full p-16 text-white"
+    style="background: linear-gradient(to bottom right, #ba1a1a, #870000);"
   >
-    <div tw="flex flex-col">
-      <p tw="text-3xl text-[#fcd5ce] font-medium mb-4">${pubDate}</p>
-      <h1 tw="text-6xl font-bold leading-tight text-white">${title}</h1>
+    <div>
+      <p tw="text-3xl text-[#ffd7d7] mb-4">${pubDate}</p>
+      <h1 tw="text-6xl font-bold leading-tight">${title}</h1>
     </div>
     <div
-      tw="flex items-center justify-between border-t border-[#e0e0e0]/20 pt-6 mt-12"
+      tw="flex items-end justify-between pt-8 border-t border-white/20 mt-12"
     >
       <div tw="flex items-center">
         <img
-          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA3NiA2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMyA2MCAyNSAyNyAzNSAzOSA0NyAyMSA3MyA2MCAzIDYweiIgZmlsbD0id2hpdGUiLz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+Cjwvc3ZnPgo="
+          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IndoaXRlIi8+CiAgPGxpbmUgeDE9IjgyIiB5MT0iMzAiIHgyPSI4MiIgeTI9IjEwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPgogIDxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmZkN2Q3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPgo8L3N2Zz4="
           width="64"
           height="64"
-          alt="Logo"
+          alt="Olimp Logo"
         />
-        <p tw="ml-4 text-5xl text-white font-bold">${siteConfig.title}</p>
+        <p tw="ml-4 text-5xl font-bold">Olimp Run</p>
       </div>
-      <p tw="text-3xl text-[#fcd5ce] font-medium">by ${siteConfig.author}</p>
+      <p tw="text-3xl text-[#ffd7d7]">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
-
-
 
 export async function GET(context: APIContext) {
   const { pubDate, title } = context.props as {
