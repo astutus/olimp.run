@@ -50,29 +50,30 @@ const mountainSVGBase64 = "PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciI
 
 const markup = (title: string, pubDate: string) => html`
   <div
-    tw="w-full h-full text-white p-14"
-    style="display: flex; flex-direction: column; justify-content: space-between; background: linear-gradient(to bottom right, #9a031e, #d00000); position: relative;"
+    tw="flex flex-col justify-between w-full h-full text-white p-14"
+    style="background: linear-gradient(to bottom right, #9a031e, #d00000);"
   >
-    <div
-      style="position: absolute; inset: 0; background-image: url('data:image/svg+xml;base64,${mountainSVGBase64}'); background-repeat: no-repeat; background-size: cover; background-position: bottom right; opacity: 0.3; z-index: 0;"
-    ></div>
-
-    <div tw="flex flex-col" style="z-index: 1;">
+    <div tw="flex flex-col">
       <p tw="text-3xl text-[#fcd5ce] font-medium mb-4">${pubDate}</p>
       <h1 tw="text-6xl font-bold leading-tight text-white">${title}</h1>
     </div>
-
     <div
       tw="flex items-center justify-between border-t border-[#e0e0e0]/20 pt-6 mt-12"
-      style="z-index: 1;"
     >
       <div tw="flex items-center">
-        <p tw="text-5xl font-bold text-white">${siteConfig.title}</p>
+        <img
+          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNzYiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA3NiA2NCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMyA2MCAyNSAyNyAzNSAzOSA0NyAyMSA3MyA2MCAzIDYweiIgZmlsbD0id2hpdGUiLz4KICA8ZGVmcz4KICAgIDxsaW5lYXJHcmFkaWVudCBpZD0ibGciIHgxPSIwIiB5MT0iMCIgeDI9IjAiIHkyPSIxIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZiIgLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjZmZjIiAvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+Cjwvc3ZnPgo="
+          width="64"
+          height="64"
+          alt="Logo"
+        />
+        <p tw="ml-4 text-5xl text-white font-bold">${siteConfig.title}</p>
       </div>
       <p tw="text-3xl text-[#fcd5ce] font-medium">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
+
 
 
 export async function GET(context: APIContext) {
