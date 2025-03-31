@@ -1,3 +1,5 @@
+import { readFileSync } from "fs";
+import path from "path";
 import SFProRoundedBold from "@/assets/fonts/SF-Pro-Rounded-Bold.latin.base.ttf";
 import SFProRoundedSemibold from "@/assets/fonts/SF-Pro-Rounded-Semibold.latin.base.ttf";
 import SFProRoundedMedium from "@/assets/fonts/SF-Pro-Rounded-Medium.latin.base.ttf";
@@ -9,6 +11,14 @@ import { Resvg } from "@resvg/resvg-js";
 import type { APIContext } from "astro";
 import satori, { type SatoriOptions } from "satori";
 import { html } from "satori-html";
+
+// Załaduj background jako data:image/png;base64
+const backgroundDataUrl = (() => {
+  const imgPath = path.resolve("./public/images/og-background.png");
+  const buffer = readFileSync(imgPath);
+  const base64 = buffer.toString("base64");
+  return `data:image/png;base64,${base64}`;
+})();
 
 const ogOptions: SatoriOptions = {
   width: 1200,
@@ -41,20 +51,10 @@ const ogOptions: SatoriOptions = {
   ],
 };
 
-const size = {
-  width: 1200,
-  height: 630,
-};
-
-
-const backgroundImage =
-  "https://astro-citrus-dy7tku6w8-olimp-bockowskis-projects.vercel.app/images/og-background.png";
-
 const markup = (title: string, date: string) => html`
   <div
-    style="width: 1200px; height: 630px; background-image: url('${backgroundImage}'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: space-between; padding: 60px; color: white;"
+    style="width: 1200px; height: 630px; background-image: url('${backgroundDataUrl}'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: space-between; padding: 60px; color: white;"
   >
-    <div style="font-size: 32px;">${date}</div>
     <div style="font-size: 72px; font-weight: bold; line-height: 1.2;">${title}</div>
     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 28px;">
       <div style="display: flex; align-items: center; gap: 20px;">
@@ -65,11 +65,10 @@ const markup = (title: string, date: string) => html`
         </svg>
         <span>Olimp Run</span>
       </div>
-      <span style="font-size: 24px;">by Olimp</span>
+      <span style="font-size: 24px;">by ${siteConfig.author}</span>
     </div>
   </div>
 `;
-
 
 export async function GET(context: APIContext) {
   const { pubDate, title } = context.props as {
