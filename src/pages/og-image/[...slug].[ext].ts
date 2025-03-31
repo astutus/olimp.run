@@ -69,8 +69,8 @@ const markup = (title: string, date: string) => html`
     "
   >
     <div style="align-self: flex-start;">
-      <div style="font-size: 28px; margin-bottom: 10px;">${date}</div>
-      <div style="font-size: 64px; font-weight: bold; line-height: 1.2;">
+      <div style="font-size: 28px; margin-bottom: 20px;">${date}</div>
+      <div style="font-size: 58px; font-weight: bold; line-height: 1.2;">
         ${title}
       </div>
     </div>
@@ -80,11 +80,11 @@ const markup = (title: string, date: string) => html`
         display: flex;
         align-items: center;
         gap: 12px;
-        font-size: 22px;
+        font-size: 18px;
+	font-weight: 600;
       "
     >
-      <span style="font-size: 20px;">🏔️</span>
-      <span style="font-weight: 600;">Olimp Run</span>
+      <span>Olimp Run</span>
     </div>
   </div>
 `;
