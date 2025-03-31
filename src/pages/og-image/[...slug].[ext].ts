@@ -53,7 +53,16 @@ const ogOptions: SatoriOptions = {
 
 const markup = (title: string, date: string) => html`
   <div
-    style="width: 1200px; height: 630px; background-image: url('${backgroundDataUrl}'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: space-between; padding: 60px; color: white;"
+    style="width: 1200px; height: 630px;
+       background-image: url('${backgroundDataUrl}');
+       background-size: contain;
+       background-repeat: no-repeat;
+       background-position: center;
+       display: flex;
+       flex-direction: column;
+       justify-content: space-between;
+       padding: 60px;
+       color: white;"
   >
     <div style="font-size: 72px; font-weight: bold; line-height: 1.2;">${title}</div>
     <div style="display: flex; justify-content: space-between; align-items: center; font-size: 28px;">
