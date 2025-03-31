@@ -52,58 +52,18 @@ const backgroundImage =
 
 const markup = (title: string, date: string) => html`
   <div
-    style="
-      width: 1200px;
-      height: 630px;
-      background-image: url('${backgroundImage}');
-      background-size: cover;
-      background-position: center;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      padding: 60px;
-      color: white;
-      font-family: 'SF Pro Rounded', sans-serif;
-    "
+    style="width: 1200px; height: 630px; background-image: url('${backgroundImage}'); background-size: cover; background-position: center; display: flex; flex-direction: column; justify-content: space-between; padding: 60px; color: white;"
   >
     <div style="font-size: 32px;">${date}</div>
-
-    <div
-      style="
-        font-size: 72px;
-        font-weight: bold;
-        line-height: 1.2;
-      "
-    >
-      ${title}
-    </div>
-
-    <div
-      style="
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        font-size: 28px;
-      "
-    >
+    <div style="font-size: 72px; font-weight: bold; line-height: 1.2;">${title}</div>
+    <div style="display: flex; justify-content: space-between; align-items: center; font-size: 28px;">
       <div style="display: flex; align-items: center; gap: 20px;">
-        <svg
-          width="64"
-          height="64"
-          viewBox="0 0 128 128"
-          fill="none"
-          xmlns="http://www.w3.org/2000/svg"
-        >
+        <svg width="64" height="64" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
           <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="white" />
           <line x1="82" y1="30" x2="82" y2="10" stroke="#fff" stroke-width="3" />
-          <polygon
-            points="82,10 104,22 82,34"
-            fill="#ffd7d7"
-            stroke="#fff"
-            stroke-width="1"
-          />
+          <polygon points="82,10 104,22 82,34" fill="#ffd7d7" stroke="#fff" stroke-width="1" />
         </svg>
-        <span style="font-size: 28px;">Olimp Run</span>
+        <span>Olimp Run</span>
       </div>
       <span style="font-size: 24px;">by Olimp</span>
     </div>
