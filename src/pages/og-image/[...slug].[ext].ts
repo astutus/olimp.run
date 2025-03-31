@@ -48,25 +48,25 @@ const size = {
 
 const markup = (title: string, pubDate: string) => html`
   <div
-    style="display: flex; flex-direction: column; justify-content: space-between; width: 1200px; height: 630px; padding: 64px; background: linear-gradient(to bottom right, #ba1a1a, #870000); color: white; box-sizing: border-box;"
+    tw="flex flex-col justify-between w-full h-full bg-gradient-to-br from-[#9a031e] to-[#d00000] text-white p-20"
+    style="display: flex"
   >
-    <div style="display: flex; flex-direction: column;">
-      <p style="font-size: 32px; color: #ffd7d7; margin: 0 0 24px 0;">${pubDate}</p>
-      <h1 style="font-size: 72px; font-weight: 700; line-height: 1.2; margin: 0;">${title}</h1>
+    <div tw="flex flex-col gap-6">
+      <p tw="text-3xl font-medium text-white">${pubDate}</p>
+      <h1 tw="text-7xl font-bold leading-tight text-white">${title}</h1>
     </div>
-    <div
-      style="display: flex; justify-content: space-between; align-items: flex-end; border-top: 1px solid rgba(255,255,255,0.2); padding-top: 24px; margin-top: 48px;"
-    >
-      <div style="display: flex; align-items: center;">
-        <img
-          src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAsMTIwIEw0OCwyOCBMNjYsNTggTDgyLDMwIEwxMjgsMTIwIFoiIGZpbGw9IndoaXRlIi8+PGxpbmUgeDE9IjgyIiB5MT0iMzAiIHgyPSI4MiIgeTI9IjEwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMyIvPjxwb2x5Z29uIHBvaW50cz0iODIsMTAgMTA0LDIyIDgyLDM0IiBmaWxsPSIjZmZkN2Q3IiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMSIvPjwvc3ZnPg=="
-          width="64"
-          height="64"
-          alt="Logo"
-        />
-        <p style="margin-left: 16px; font-size: 48px; font-weight: bold; margin-bottom: 0;">Olimp Run</p>
+
+    <div tw="flex items-end justify-between mt-10">
+      <div tw="flex items-center gap-6">
+        <!-- INLINE SVG – flaga na górze -->
+        <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M0 80 L36 18 L50 44 L62 22 L96 80 Z" fill="white" />
+          <path d="M62 22 L62 14" stroke="white" stroke-width="3"/>
+          <polygon points="62,14 78,22 62,30" fill="#fcd5ce" stroke="white" stroke-width="1"/>
+        </svg>
+        <p tw="text-5xl font-bold text-white">Olimp Run</p>
       </div>
-      <p style="font-size: 32px; color: #ffd7d7; margin: 0;">by ${siteConfig.author}</p>
+      <p tw="text-3xl text-white font-medium">by ${siteConfig.author}</p>
     </div>
   </div>
 `;
