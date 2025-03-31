@@ -46,30 +46,61 @@ const size = {
   height: 630,
 };
 
-const markup = (title: string, pubDate: string) => html`
+const backgroundImage = 'https://astro-citrus-dy7tku6w8-olimp-bockowskis-projects.vercel.app/images/og-background.png'; // wrzuć tam gdzie trzymasz assets
+
+export const markup = (
   <div
-    tw="flex flex-col justify-between w-full h-full bg-gradient-to-br from-[#9a031e] to-[#d00000] text-white p-20"
-    style="display: flex"
+    style={{
+      width: '1200px',
+      height: '630px',
+      backgroundImage: `url(${backgroundImage})`,
+      backgroundSize: 'cover',
+      backgroundPosition: 'center',
+      display: 'flex',
+      flexDirection: 'column',
+      justifyContent: 'space-between',
+      padding: '60px',
+      color: 'white',
+      fontFamily: 'Inter',
+    }}
   >
-    <div tw="flex flex-col gap-6">
-      <p tw="text-3xl font-medium text-white">${pubDate}</p>
-      <h1 tw="text-7xl font-bold leading-tight text-white">${title}</h1>
+    <div style={{ fontSize: '32px' }}>{date}</div>
+
+    <div style={{ fontSize: '72px', fontWeight: 'bold', lineHeight: 1.2 }}>
+      {title}
     </div>
 
-    <div tw="flex items-end justify-between mt-10">
-      <div tw="flex items-center gap-6">
-        <!-- INLINE SVG – flaga na górze -->
-        <svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M0 80 L36 18 L50 44 L62 22 L96 80 Z" fill="white" />
-          <path d="M62 22 L62 14" stroke="white" stroke-width="3"/>
-          <polygon points="62,14 78,22 62,30" fill="#fcd5ce" stroke="white" stroke-width="1"/>
+    <div
+      style={{
+        display: 'flex',
+        justifyContent: 'space-between',
+        alignItems: 'center',
+        fontSize: '28px',
+      }}
+    >
+      <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
+        <svg
+          width="64"
+          height="64"
+          viewBox="0 0 128 128"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="white" />
+          <line x1="82" y1="30" x2="82" y2="10" stroke="#fff" strokeWidth="3" />
+          <polygon
+            points="82,10 104,22 82,34"
+            fill="#ffd7d7"
+            stroke="#fff"
+            strokeWidth="1"
+          />
         </svg>
-        <p tw="text-5xl font-bold text-white">Olimp Run</p>
+        <span>Olimp Run</span>
       </div>
-      <p tw="text-3xl text-white font-medium">by ${siteConfig.author}</p>
+      <span style={{ fontSize: '24px' }}>by Olimp</span>
     </div>
   </div>
-`;
+);
 
 export async function GET(context: APIContext) {
   const { pubDate, title } = context.props as {
