@@ -115,7 +115,7 @@ export default defineConfig({
   // https://docs.astro.build/en/guides/prefetch/
   prefetch: true,
   // ! Please remember to replace the following site property with your own domain
-  site: "https://astro-citrus-68mtu04g4-olimp-bockowskis-projects.vercel.app/",
+  site: "https://astro-citrus-en9uow6hb-olimp-bockowskis-projects.vercel.app/",
   vite: {
     build: {
       sourcemap: true, // Source maps generation
