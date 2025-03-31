@@ -68,7 +68,7 @@ const markup = (title: string, date: string) => html`
       font-family: 'SF Pro Rounded', sans-serif;
     "
   >
-    <div style="align-self: flex-start;">
+    <div style="align-self: flex-start; display: flex; flex-direction: column;">
       <div style="font-size: 28px; margin-bottom: 20px;">${date}</div>
       <div style="font-size: 58px; font-weight: bold; line-height: 1.2;">
         ${title}
@@ -81,7 +81,7 @@ const markup = (title: string, date: string) => html`
         align-items: center;
         gap: 12px;
         font-size: 18px;
-	font-weight: 600;
+        font-weight: 600;
       "
     >
       <span>Olimp Run</span>
