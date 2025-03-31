@@ -57,7 +57,7 @@ const markup = (title: string, pubDate: string) =>
         padding: 56px;
       "
     >
-      <div>
+      <div style="display: flex; flex-direction: column;">
         <p style="font-size: 36px; color: #d62828; font-weight: 500; margin-bottom: 16px;">
           ${pubDate}
         </p>
@@ -65,6 +65,7 @@ const markup = (title: string, pubDate: string) =>
           ${title}
         </h1>
       </div>
+
       <div
         style="
           display: flex;
