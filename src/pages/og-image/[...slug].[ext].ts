@@ -46,39 +46,47 @@ const size = {
   height: 630,
 };
 
-const backgroundImage = 'https://astro-citrus-dy7tku6w8-olimp-bockowskis-projects.vercel.app/images/og-background.png'; // wrzuć tam gdzie trzymasz assets
 
-export const markup = (
+const backgroundImage =
+  "https://astro-citrus-dy7tku6w8-olimp-bockowskis-projects.vercel.app/images/og-background.png";
+
+const markup = (title: string, date: string) => html`
   <div
-    style={{
-      width: '1200px',
-      height: '630px',
-      backgroundImage: `url(${backgroundImage})`,
-      backgroundSize: 'cover',
-      backgroundPosition: 'center',
-      display: 'flex',
-      flexDirection: 'column',
-      justifyContent: 'space-between',
-      padding: '60px',
-      color: 'white',
-      fontFamily: 'Inter',
-    }}
+    style="
+      width: 1200px;
+      height: 630px;
+      background-image: url('${backgroundImage}');
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      padding: 60px;
+      color: white;
+      font-family: 'SF Pro Rounded', sans-serif;
+    "
   >
-    <div style={{ fontSize: '32px' }}>{date}</div>
+    <div style="font-size: 32px;">${date}</div>
 
-    <div style={{ fontSize: '72px', fontWeight: 'bold', lineHeight: 1.2 }}>
-      {title}
+    <div
+      style="
+        font-size: 72px;
+        font-weight: bold;
+        line-height: 1.2;
+      "
+    >
+      ${title}
     </div>
 
     <div
-      style={{
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        fontSize: '28px',
-      }}
+      style="
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-size: 28px;
+      "
     >
-      <div style={{ display: 'flex', alignItems: 'center', gap: '20px' }}>
+      <div style="display: flex; align-items: center; gap: 20px;">
         <svg
           width="64"
           height="64"
@@ -87,20 +95,21 @@ export const markup = (
           xmlns="http://www.w3.org/2000/svg"
         >
           <path d="M0,120 L48,28 L66,58 L82,30 L128,120 Z" fill="white" />
-          <line x1="82" y1="30" x2="82" y2="10" stroke="#fff" strokeWidth="3" />
+          <line x1="82" y1="30" x2="82" y2="10" stroke="#fff" stroke-width="3" />
           <polygon
             points="82,10 104,22 82,34"
             fill="#ffd7d7"
             stroke="#fff"
-            strokeWidth="1"
+            stroke-width="1"
           />
         </svg>
-        <span>Olimp Run</span>
+        <span style="font-size: 28px;">Olimp Run</span>
       </div>
-      <span style={{ fontSize: '24px' }}>by Olimp</span>
+      <span style="font-size: 24px;">by Olimp</span>
     </div>
   </div>
-);
+`;
+
 
 export async function GET(context: APIContext) {
   const { pubDate, title } = context.props as {
