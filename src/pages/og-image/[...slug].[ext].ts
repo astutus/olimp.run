@@ -2,7 +2,7 @@ import SFProRoundedBold from "@/assets/fonts/SF-Pro-Rounded-Bold.latin.base.ttf"
 import SFProRoundedSemibold from "@/assets/fonts/SF-Pro-Rounded-Semibold.latin.base.ttf";
 import SFProRoundedMedium from "@/assets/fonts/SF-Pro-Rounded-Medium.latin.base.ttf";
 import SFProRoundedRegular from "@/assets/fonts/SF-Pro-Rounded-Regular.latin.base.ttf";
-import { getCollection } from "astro:content";
+import { getAllPosts } from "@/data/post";
 import { siteConfig } from "@/site.config";
 import { getFormattedDate } from "@/utils/date";
 import { Resvg } from "@resvg/resvg-js";
@@ -11,34 +11,34 @@ import satori, { type SatoriOptions } from "satori";
 import { html } from "satori-html";
 
 const ogOptions: SatoriOptions = {
+  width: 1200,
+  height: 630,
   fonts: [
     {
+      name: "SF Pro Rounded",
       data: Buffer.from(SFProRoundedRegular),
-      name: "SF Pro Rounded",
-      style: "normal",
       weight: 400,
+      style: "normal",
     },
     {
+      name: "SF Pro Rounded",
       data: Buffer.from(SFProRoundedMedium),
-      name: "SF Pro Rounded",
-      style: "normal",
       weight: 500,
+      style: "normal",
     },
     {
+      name: "SF Pro Rounded",
       data: Buffer.from(SFProRoundedSemibold),
-      name: "SF Pro Rounded",
-      style: "normal",
       weight: 600,
+      style: "normal",
     },
     {
-      data: Buffer.from(SFProRoundedBold),
       name: "SF Pro Rounded",
-      style: "normal",
+      data: Buffer.from(SFProRoundedBold),
       weight: 700,
+      style: "normal",
     },
   ],
-  height: 630,
-  width: 1200,
 };
 
 const markup = (title: string, pubDate: string) =>
@@ -92,16 +92,12 @@ const markup = (title: string, pubDate: string) =>
   `;
 
 export async function GET(context: APIContext) {
-  const slug = context.params.slug;
-  const posts = await getCollection("post");
-  const post = posts.find((p) => p.slug === slug);
+  const { pubDate, title } = context.props as {
+    pubDate: string;
+    title: string;
+  };
 
-  if (!post) {
-    return new Response("Not found", { status: 404 });
-  }
-
-  const title = post.data.title;
-  const postDate = getFormattedDate(post.data.publishDate, {
+  const postDate = getFormattedDate(pubDate, {
     month: "long",
     weekday: "long",
   });
@@ -128,5 +124,19 @@ export async function GET(context: APIContext) {
   }
 
   return new Response("Unsupported format", { status: 400 });
+}
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+
+  return posts
+    .filter(({ data }) => !data.ogImage)
+    .flatMap((post) => ["png", "svg"].map((ext) => ({
+      params: { slug: post.id, ext },
+      props: {
+        pubDate: post.data.updatedDate ?? post.data.publishDate,
+        title: post.data.title,
+      },
+    })));
 }
 
