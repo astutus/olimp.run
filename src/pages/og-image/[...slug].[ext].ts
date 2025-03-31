@@ -2,16 +2,15 @@ import SFProRoundedBold from "@/assets/fonts/SF-Pro-Rounded-Bold.latin.base.ttf"
 import SFProRoundedSemibold from "@/assets/fonts/SF-Pro-Rounded-Semibold.latin.base.ttf";
 import SFProRoundedMedium from "@/assets/fonts/SF-Pro-Rounded-Medium.latin.base.ttf";
 import SFProRoundedRegular from "@/assets/fonts/SF-Pro-Rounded-Regular.latin.base.ttf";
-import { getAllPosts } from "@/data/post";
+import { getCollection } from "astro:content";
 import { siteConfig } from "@/site.config";
 import { getFormattedDate } from "@/utils/date";
 import { Resvg } from "@resvg/resvg-js";
-import type { APIContext, InferGetStaticPropsType } from "astro";
+import type { APIContext } from "astro";
 import satori, { type SatoriOptions } from "satori";
 import { html } from "satori-html";
 
 const ogOptions: SatoriOptions = {
-  // debug: true,
   fonts: [
     {
       data: Buffer.from(SFProRoundedRegular),
@@ -19,7 +18,6 @@ const ogOptions: SatoriOptions = {
       style: "normal",
       weight: 400,
     },
-	
     {
       data: Buffer.from(SFProRoundedMedium),
       name: "SF Pro Rounded",
@@ -93,18 +91,23 @@ const markup = (title: string, pubDate: string) =>
     </div>
   `;
 
-
-type Props = InferGetStaticPropsType<typeof getStaticPaths>;
-
 export async function GET(context: APIContext) {
-  const { pubDate, title } = context.props as Props;
-  const postDate = getFormattedDate(pubDate, {
+  const slug = context.params.slug;
+  const posts = await getCollection("post");
+  const post = posts.find((p) => p.slug === slug);
+
+  if (!post) {
+    return new Response("Not found", { status: 404 });
+  }
+
+  const title = post.data.title;
+  const postDate = getFormattedDate(post.data.publishDate, {
     month: "long",
     weekday: "long",
   });
+
   const svg = await satori(markup(title, postDate), ogOptions);
 
-  // Проверяем, запрашивает ли пользователь PNG
   if (context.url.pathname.endsWith(".png")) {
     const png = new Resvg(svg).render().asPng();
     return new Response(png, {
@@ -115,7 +118,6 @@ export async function GET(context: APIContext) {
     });
   }
 
-  // Проверяем, запрашивает ли пользователь SVG
   if (context.url.pathname.endsWith(".svg")) {
     return new Response(svg, {
       headers: {
@@ -125,30 +127,6 @@ export async function GET(context: APIContext) {
     });
   }
 
-  // Если запрос не заканчивается на .png или .svg, возвращаем ошибку
   return new Response("Unsupported format", { status: 400 });
 }
 
-export async function getStaticPaths() {
-  const posts = await getAllPosts();
-  return posts
-    .filter(({ data }) => !data.ogImage)
-    .flatMap((post) => {
-      return [
-        {
-          params: { slug: post.id, ext: "png" },
-          props: {
-            pubDate: post.data.updatedDate ?? post.data.publishDate,
-            title: post.data.title,
-          },
-        },
-        {
-          params: { slug: post.id, ext: "svg" },
-          props: {
-            pubDate: post.data.updatedDate ?? post.data.publishDate,
-            title: post.data.title,
-          },
-        },
-      ];
-    });
-}
