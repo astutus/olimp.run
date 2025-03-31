@@ -55,7 +55,7 @@ const markup = (title: string, date: string) => html`
   <div
     style="width: 1200px; height: 630px;
        background-image: url('${backgroundDataUrl}');
-       background-size: contain;
+       background-size: 100% 100%;
        background-repeat: no-repeat;
        background-position: center;
        display: flex;
