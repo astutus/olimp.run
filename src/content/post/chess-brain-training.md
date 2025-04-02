@@ -40,16 +40,35 @@ All three daughters became grandmasters. Judit Polgár, the youngest, went on to
 
 This story shatters the myth that you have to be born a genius to succeed. Intelligence helps, but nothing replaces deliberate, focused training. Even Magnus Carlsen confirmed this during his appearance on the Joe Rogan podcast, saying that to become really good at chess, you don’t necessarily need to be brilliant — you just need to *memorize a lot*. Only at the very top do raw processing skills make the difference.
 
+## 💡 Transferrable Power
+
+While chess might not always lead to fame or fortune, it's impossible to overlook the powerful habits and traits it instills in those who pursue it seriously.
+
+To improve in chess, you need structure, focus, consistency, and long-term discipline. These are not just chess skills — they’re life skills. The ability to sit down, concentrate deeply, study systematically, and push through failure? That’s something you can take with you into any field — from science to business to engineering.
+
+In my view, people (especially kids) who stay on the path of improvement — even just for a while — reveal an enormous hidden potential. They prove they can work hard, delay gratification, and think independently. With that mindset, they could thrive in almost any demanding domain.
+
+Chess may not always reward you with medals or money —  
+But it can give you something far more valuable:  
+**Character.**
+
 ## 💸 Chess Is Not a Career *(For Almost Anyone)*
 
 And here’s the uncomfortable truth: even if you reach the elite level, the financial rewards are shockingly modest — especially when compared to other competitive professions or sports.
 
-I’ve seen income reports of players ranked among the top 15 in the world. And even at that level, most of them earn far less than professionals in equally demanding fields. Unlike football or tennis — where even moderately known players earn handsomely — top chess players often struggle to monetize their exceptional skill.
+I’ve seen income reports of players ranked among the top 15 in the world. And even at that level, most of them earn far less than professionals in equally demanding fields. Unlike soccer (football in Europe) — where even moderately known players earn handsomely — top chess players often struggle to monetize their exceptional skill.
 
 In Poland, for example, there are around 40 active grandmasters — and only one or two can truly live comfortably from chess. But millions of people in the country know how to play, and tens of thousands engage with the game at some level.  
 That means for almost anyone — even the extremely talented — chess is unlikely to become a viable career.
 
-And this isn’t just a Polish issue. Across Europe — East or West — being a grandmaster rarely guarantees financial freedom. The reward is mostly prestige, not prosperity.
+Out of curiosity, I’ve followed the journeys of young Polish talents like Jakub Kosakowski and Antoni Kozak — players clearly on the path to becoming grandmasters. And to be honest, it felt a bit sad to see how little financial support or recognition such promising individuals receive. With the kind of work ethic they’ve developed through chess, I have no doubt they could excel in any field — if only they were given a real chance.
+
+And perhaps the most striking sign of how demanding and unforgiving the chess world truly is?
+
+Some of the greatest minds in chess — like Alexander Grischuk and even Magnus Carlsen — have said they wouldn’t want their own children to pursue chess professionally.  
+Carlsen himself explained that there are simply easier and more rewarding paths in life.
+
+That says a lot more than any statistics ever could.
 
 ## 🤯 Mental Health: The Hidden Cost
 
