@@ -1,5 +1,5 @@
 ---
-title: 3 Years with Garmin Coach: From Rehab to Personal Records (And Back to Balance)
+title: "3 Years with Garmin Coach: From Rehab to Personal Records (And Back to Balance)"
 description: A personal story of structured running, discipline, and knowing when to stop chasing numbers.
 publishDate: "2025-02-01"
 tags: ["running", "training", "garmin"]
