@@ -3,102 +3,124 @@ title: "What Spartacus Taught Me About Violence and Myself"
 description: "A personal reflection on masculinity, bloodlust, and what the series Spartacus revealed to me — not just about ancient Rome, but about myself."
 publishDate: "2025-04-03"
 tags: ["reflection", "spartacus", "violence", "masculinity", "personal story"]
-draft: true
 ---
 
-It’s not easy to admit this, but my favorite series of all time is *Spartacus: Blood and Sand* — along with the prequel *Gods of the Arena*.  
-And I say “not easy” because, without proper context, most people would likely default to a **heuristic judgment** — the kind Daniel Kahneman describes in *Thinking, Fast and Slow* — and quickly classify me as someone with lowbrow taste and primitive instincts.
+It’s not easy to admit this, but my favorite series of all time is *Spartacus: Blood and Sand* — along with the prequel *Gods of the Arena* (not the full five-season franchise).  
+And I say “not easy” because, in the wrong context, it sounds… simplistic.  
+Like I’m a fan of cheap blood and nudity, someone with shallow taste.
 
-But that judgment would miss something important.
+Most people would likely default to a **heuristic judgment** — the kind Daniel Kahneman describes in *Thinking, Fast and Slow* — and quickly classify me as someone with lowbrow taste and primitive instincts.
 
-> It’s worth clarifying: I’m not talking about the full five-season franchise.  
-> Only *Blood and Sand* and *Gods of the Arena* made a lasting impact on me.  
-> The later seasons, after the tragic passing of Andy Whitfield, never came close.
+But nothing could be further from the truth.  
+To understand why this show impacted me so deeply, you have to go back — decades back.
 
 ---
 
 ## A Childhood of Muscle and Myth
 
-I was born in 1980, raised in an era that glorified masculinity.  
-My childhood heroes were Rambo, He-Man, Schwarzenegger. Strength, battle, honor — these were magnetic to me.
+I was born in 1980.  
+My childhood heroes were Rambo, He-Man, Schwarzenegger.  
+I grew up in the golden age of masculinity — strength, battle, honor. I loved it all.  
+Naturally, ancient Greece and Rome fascinated me — half-gods, gladiators, the arena.
 
-Naturally, I fell in love with ancient Greece and Rome. Half-gods. Gladiators. The arena.
-
----
-
-## From Bloodlust to Reflection
-
-By 1997, I discovered MMA. The raw beginnings of the UFC.  
-It was brutal, yes — but fascinating. I became a fanboy. Defended it at every turn.
-
-Fast forward to 2012. UFC 146. Cain Velasquez vs. Antônio Silva.  
-I cheered for blood. I screamed, “Kill him!”  
-And when the fight was stopped, I suddenly saw myself — not as a modern man, but as a Roman in the stands.
-
-It shook me.
+By the late ’90s, I found my ultimate passion: combat sports.  
+I was there when UFC was still raw and chaotic. I lived and breathed PRIDE FC.  
+Despite the controversy, I defended it. Even when people said it would desensitize us — I laughed it off.
 
 ---
 
-## Spartacus: The Arena, the System… and Me
+## A Moment of Horror
 
-When I first watched *Blood and Sand* in 2015, I wasn’t looking for entertainment.  
-I was training my English. And I figured: Rome, gladiators — maybe it’s worth my time.
+One night in 2012, I was watching UFC 146 live.  
+Cain Velasquez vs. Antônio Silva.
 
-It was.  
-But not for the violence.
+I was a Velasquez fan. He dominated. Ground and pound. Silva was covered in blood.  
+And I stood in front of my TV screaming, “Kill him! Kill him!”
 
-The writing caught me off guard. The twists. The betrayals.  
-It challenged my mind — and then it challenged my heart.
+Then the ref stepped in. Fight over. I exhaled, sat down… and froze.  
+What just happened?
 
-Because for all its drama, *Spartacus* exposed the **system of cruelty** that Rome was built on:  
-- Humans as property  
-- Death as spectacle  
-- Power as domination
-
-And I realized: *This system still exists.*
-
-Fighters now may not die in the arena. But they trade their bodies for the roar of the crowd.  
-Promoters are today’s lanistas.  
-The difference? Just a layer of polish.
+Me — the guy who used to wince at blood — was now **cheering for destruction**.  
+And for the first time, I understood what those critics meant.  
+Maybe this really does do something to the soul.
 
 ---
 
-## Andy Whitfield: A Hero Beyond the Screen
+## Enter Spartacus
 
-The impact of the series was magnified by the tragic story of its lead actor, **Andy Whitfield**.  
-At the peak of his fame, just after finishing *Blood and Sand*, he was diagnosed with cancer.  
-He fought bravely, with dignity, and allowed cameras to document his final journey in the deeply emotional film *Be Here Now*.  
-He passed away at just 39.
+In 2015, I decided to finally watch a series — not for entertainment, but to sharpen my English.  
+I rarely watched fiction. I valued my time. But *Spartacus* called to me — ancient Rome, gladiators, politics. I was curious.
 
-And suddenly the hero of the arena became a real-life symbol of grace, strength, and mortality.
+It hooked me immediately.
 
-His death added a layer of **poignancy** to everything that series represented.
+Not just because of action or brutality — though there was plenty.  
+But because the writing was *smart*.  
+Twists, betrayals, moral dilemmas — I was impressed. It challenged my mind.
+
+But it also shocked me.
 
 ---
 
-## The Mirror of Sand and Blood
+## A Mirror to Rome… and to Me
 
-*Spartacus* forced me to look in the mirror.  
-To ask myself if I was any different than the Roman nobles in the stands.
+I had always admired ancient Rome. But this show?  
+It **forced me to see its cruelty**.
 
-Yes, I loved the tension, the strategy, the surprises.  
-But I also paid to watch pain.  
-And I could no longer ignore that.
+The degradation. The dehumanization. The hedonism.  
+It was disgusting… and familiar.
 
-So I stopped.  
-I still follow the sport from a distance, but I no longer fund it.  
-I won’t cheer from the stands again.
+Because really — what had changed?  
+We may no longer have sand and blood in an arena… but people like me were still **paying money to watch human beings hurt each other**.
+
+Modern promoters are today’s lanistas. Fighters are still gladiators.  
+And had it not been for legal limits, I’m convinced people would still pay to see death matches.
+
+That realization **shook me**.
+
+---
+
+## Spartacus Gave Me More Than Entertainment
+
+It satisfied my craving for strategy, surprise, and tension.  
+But it gave me something greater: **a moral punch in the face**.
+
+It made me ask:
+- Who am I when no one is watching?
+- Do I cheer for pain?
+- Am I different from those Roman nobles?
+
+And I had to admit… I wasn’t.
+
+Since that time, I’ve stopped financially supporting combat sports.  
+I still follow the headlines. I care about the athletes.  
+But **I no longer feed the machine**.
+
+---
+
+## A Final Reflection: Andy Whitfield
+
+Part of what made *Blood and Sand* so powerful was its lead actor: **Andy Whitfield**.  
+At the time, he wasn’t a global star — but he delivered a performance of tremendous weight and presence.
+
+Shortly after filming, he was diagnosed with cancer.  
+He documented his brave battle in the emotional documentary *Be Here Now* — a powerful story of dignity in the face of tragedy.  
+He passed away at just 39, right at the height of his career.
+
+That story — layered onto everything the series meant — stayed with me.
 
 ---
 
 ## Final Thoughts
 
-*Spartacus* is more than a guilty pleasure.  
-It’s a turning point.
+*Spartacus* gave me one of the most powerful gifts any art can offer:  
+**It made me reflect.**
 
-It showed me how thin the line is between civilization and savagery.  
-It taught me how easy it is to become desensitized.  
-And it reminded me that we’re not so different from the Romans.
+On my nature.  
+On my past.  
+On a society that still craves “blood and sand.”
 
-But maybe… just maybe… recognizing that is the first step to being better.
+So no — I’m not ashamed to say this is my favorite series.  
+Because it’s not about what it showed me on screen.
+
+It’s about what it showed me in the mirror.
 
