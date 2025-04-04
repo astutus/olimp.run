@@ -1,5 +1,5 @@
 ---
-title: Starting Calisthenics Level 3 – Calisthenics Advanced Program
+title: Starting Level 3 – Calisthenics Advanced Program
 publishDate: "2025-01-20T08:00:00Z"
 ---
 
