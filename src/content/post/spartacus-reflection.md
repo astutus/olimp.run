@@ -2,7 +2,7 @@
 title: "What Spartacus Taught Me About Violence and Myself"
 description: "A personal reflection on masculinity, bloodlust, and what the series Spartacus revealed to me — not just about ancient Rome, but about myself."
 publishDate: "2025-04-03"
-tags: ["reflection", "spartacus", "violence", "masculinity", "personal story"]
+tags: ["reflection", "spartacus", "personal story"]
 ---
 
 It’s not easy to admit this, but my favorite series of all time is *Spartacus: Blood and Sand* — along with the prequel *Gods of the Arena* (not the full five-season franchise).  
@@ -18,9 +18,8 @@ To understand why this show impacted me so deeply, you have to go back — decad
 
 ## A Childhood of Muscle and Myth
 
-I was born in 1980.  
-My childhood heroes were Rambo, He-Man, Schwarzenegger.  
-I grew up in the golden age of masculinity — strength, battle, honor. I loved it all.  
+I was born in 1980, in a time when **muscle and masculinity were glorified**.  
+My world was filled with superhero icons: He-Man, Rambo, Schwarzenegger — towering figures of strength and dominance.  
 Naturally, ancient Greece and Rome fascinated me — half-gods, gladiators, the arena.
 
 By the late ’90s, I found my ultimate passion: combat sports.  
@@ -49,13 +48,17 @@ Maybe this really does do something to the soul.
 ## Enter Spartacus
 
 In 2015, I decided to finally watch a series — not for entertainment, but to sharpen my English.  
-I rarely watched fiction. I valued my time. But *Spartacus* called to me — ancient Rome, gladiators, politics. I was curious.
+I didn’t waste time on endless streaming or mindless shows — I was a focused, practical person.  
+I often sharpened my English with purposeful viewing, and *Spartacus* combined the useful with the enjoyable: historical context, ancient Rome, the arena, and moral dilemmas — all wrapped in dramatic storytelling.
 
 It hooked me immediately.
 
-Not just because of action or brutality — though there was plenty.  
+Not just because of action or brutality — though that mirrored how twisted I’d become from years of MMA fandom.  
 But because the writing was *smart*.  
 Twists, betrayals, moral dilemmas — I was impressed. It challenged my mind.
+
+And the **acting**? Incredible.  
+John Hannah. Andy Whitfield. Dustin Clare. Even the supporting cast — it was pure **craft**.
 
 But it also shocked me.
 
@@ -75,6 +78,8 @@ We may no longer have sand and blood in an arena… but people like me were stil
 Modern promoters are today’s lanistas. Fighters are still gladiators.  
 And had it not been for legal limits, I’m convinced people would still pay to see death matches.
 
+I saw myself: a Roman citizen in the stands, bloodthirsty and entertained.
+
 That realization **shook me**.
 
 ---
@@ -84,16 +89,17 @@ That realization **shook me**.
 It satisfied my craving for strategy, surprise, and tension.  
 But it gave me something greater: **a moral punch in the face**.
 
-It made me ask:
-- Who am I when no one is watching?
-- Do I cheer for pain?
-- Am I different from those Roman nobles?
+It made me ask — not rhetorically, but **viscerally**:
+Who was I becoming?  
+Was I cheering for pain?  
+Were my mirror neurons now trained to enjoy suffering?
 
-And I had to admit… I wasn’t.
+I hadn’t become someone else. I had become **less sensitive**.  
+Desensitized. Rewired.
 
 Since that time, I’ve stopped financially supporting combat sports.  
 I still follow the headlines. I care about the athletes.  
-But **I no longer feed the machine**.
+But **I no longer feed the machine** — no Pay-Per-Views, no tickets.
 
 ---
 
@@ -106,7 +112,8 @@ Shortly after filming, he was diagnosed with cancer.
 He documented his brave battle in the emotional documentary *Be Here Now* — a powerful story of dignity in the face of tragedy.  
 He passed away at just 39, right at the height of his career.
 
-That story — layered onto everything the series meant — stayed with me.
+That story — layered onto everything the series meant — stayed with me.  
+A symbol of strength, grace, and impermanence.
 
 ---
 
