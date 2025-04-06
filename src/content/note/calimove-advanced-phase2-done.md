@@ -1,5 +1,5 @@
 ---
-title: Finished Phase 2 – Calisthenics Begins
+title: Finished Phase 2 of Calimove Advanced (Level 3/5)
 publishDate: "2025-04-05T10:00:00Z"
 ---
 
