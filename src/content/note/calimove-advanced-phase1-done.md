@@ -1,5 +1,5 @@
 ---
-title: Calimove Advanced – Phase 1 Complete
+title: Finished Phase 1 of Calimove Advanced (Level 3/5)
 publishDate: "2025-02-22T10:00:00Z"
 ---
 
