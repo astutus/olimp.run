@@ -74,8 +74,11 @@ That mindset shift is what led me to Garmin Coach.
 
 ## The Fenix 7 Era
 
-By 2022, I was running more and needed more.  
-The Fenix 5 was lagging — especially in forests, where tree cover made it show **11:00/km** instead of my real pace (~6:00/km). Frustrating.
+By 2022, I was running more and needed more.
+
+The Fenix 5 began to struggle — especially in forests, where GPS signal fluctuated wildly.  
+One moment it showed me running at 12:00/km, the next at 4:00/km — even though my pace was steady.  
+It was frustrating.
 
 Also, I had more body awareness. My back was often stiff.  
 I needed yoga, mobility, stretching.
@@ -84,7 +87,6 @@ So I upgraded to the **Fenix 7**, and it was like entering a new universe:
 
 - ✅ **Multiband GPS** — finally accurate in the woods  
 - ✅ **Preloaded workouts** — yoga, pilates, mobility, strength  
-- ✅ **Smart alerts** — move reminders, activity prompts  
 - ✅ **Truly reliable sleep and HRV tracking**  
 - ✅ **Garmin gamification system** — levels, points, achievements  
 
@@ -111,9 +113,12 @@ That’s **real behavior change**.
 The Fenix 7 shocked me again with its **precise sleep and HRV analysis**.  
 This wasn’t vague “wellness” nonsense — this was **real data**.
 
-It caught every micro-wake, tracked REM, and showed me how I was really recovering.
+It caught every micro-wake, tracked REM, and showed me how I was really recovering.  
+It even offered suggestions — how to improve my evening routine, how to get better rest.  
+And I took it seriously, especially during a period when I was struggling badly with sleep.  
+I adjusted, experimented, and — for the first time in my life — I started *really* caring about my sleep quality.
 
-And then came the alcohol revelations.
+Then came the alcohol revelations.
 
 All my life, people told me alcohol was bad. Killed brain cells, harmed the heart, wrecked sleep… but I never truly cared.  
 Why would I? I felt fine two days later.
@@ -137,7 +142,9 @@ Fast-forward to 2025.
 - I stretch and do mobility  
 - I sleep well — and track it  
 - I don’t drink  
-- I feel physically **better at 45 than I did at 25**
+- I feel physically **better at 45 than I did at 25**  
+- And as a **side effect**, I lost **14 kg** (at one point even **18**) — without chasing weight loss.  
+  (Frankly, I even prefer a rounder, fuller face 😄)
 
 And while yes, I’ve reached **Level 6** on Garmin Connect with nearly **1000 points** — that’s not the flex.
 
