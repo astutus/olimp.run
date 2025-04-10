@@ -1,5 +1,5 @@
 ---
-title: Neck Reset – Daily Micro-Routine for Traps & Tension Headaches
+title: Neck Reset – Micro-Routine for Tension Relief
 publishDate: "2025-04-10T10:00:00Z"
 ---
 
