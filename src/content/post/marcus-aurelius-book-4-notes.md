@@ -1,6 +1,9 @@
 ---
 title: Meditations – Book IV Notes (Marcus Aurelius)
-publishDate: "2025-04-09T21:00:00Z"
+publishDate: "2025-04-10T21:00:00Z"
+tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
+
+draft: true
 ---
 
 **Book IV feels personal.**  
