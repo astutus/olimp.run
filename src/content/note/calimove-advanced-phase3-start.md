@@ -54,6 +54,7 @@ Each day contains a superset-style pairing (with ~2 min rest between sets):
 ---
 
 ### 🧠 Focus for This Phase
+- Continue dedicated handstand practice – refine control, balance and bodyline positioning
 - Maintain tendon health (esp. shoulder/dip area)
 - L-Sit: Push toward full extension gradually
 - Pistol: Continue prehab and mobility
