@@ -33,11 +33,8 @@ To systematically strengthen my cognitive performance and neural resilience for:
 | **CoQ10 (Ubiquinol)**  | Mitochondrial support, ATP production, cardiovascular health    |
 | **Resveratrol Elite**  | Hormonal modulation, sirtuin activation, anti-inflammatory      |
 | **NAC**                | Glutathione precursor, detoxification, anti-oxidative protection|
+| **Acetyl L-Carnitine** | Mitochondrial energy, cognitive stamina, neuroprotection        |
 | **Thorne 2/Day**       | High-quality multivitamin to cover all micronutrient bases      |
-| **Creatine (Thorne)**  | Cognitive & muscular energy system, neuroprotection             |
-| **Beta-Alanine**       | CNS fatigue resistance, muscular endurance                      |
-| **Micellar Casein**    | Nighttime protein for neural and muscular recovery              |
-| **ISO100 Hydrolysate** | Post-workout protein spike, fast absorption                     |
 
 ---
 
@@ -45,23 +42,24 @@ To systematically strengthen my cognitive performance and neural resilience for:
 
 ### ☕ Morning (fasted or with light food):
 - Alpha-GPC – 300 mg
-- Phosphatidylserine – 100 mg
 - Neuro-Mag (Magnesium L-Threonate) – 1 capsule
 - Uridine – 1 capsule
 - PQQ – 1 capsule
 - CoQ10 (Ubiquinol) – 1 capsule
 - Resveratrol Elite – 1 capsule
 - NAC – 1 capsule
+- Acetyl L-Carnitine – 1 capsule
 - Thorne 2/Day – 1 capsule (AM dose)
 
 ### 🏃 Pre-workout (30 min before training):
 - Creatine (Thorne) – 5 g
 - Beta-Alanine – 3–4 g
+- Acetyl L-Carnitine – 1 capsule (second dose)
 - ISO100 protein (hydrolysate) – 25–30 g (post-workout)
 
 ### 🌃 Evening (60 min before sleep):
 - Neuro-Mag – 1 capsule (second dose)
-- Phosphatidylserine – 100 mg (optional for calming effect)
+- Phosphatidylserine – 100 mg (calming effect, optional)
 - Micellar Casein protein – 30–40 g
 - Thorne 2/Day – 1 capsule (PM dose)
 
@@ -87,5 +85,3 @@ Let’s see what can truly be rebuilt.
 Let’s forge something strong.
 
 **NeuroForge begins.**
-
-
