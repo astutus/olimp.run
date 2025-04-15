@@ -3,7 +3,7 @@ title: Meditations – Book IV Notes (Marcus Aurelius)
 description: "Notes from Book IV of Marcus Aurelius' Meditations — on resilience, inner retreat, virtue over fame, and the quiet power of reason and dignity."
 publishDate: "2025-04-10T21:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
 ---
 
 **Book IV feels personal.**  

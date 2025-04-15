@@ -3,7 +3,8 @@ title: "Meditations – Book V Notes (Marcus Aurelius)"
 description: "Reflections on Book V of Marcus Aurelius' Meditations — morning resolve, the discipline of thought, and small lessons from daily struggle."
 publishDate: "2025-04-11T08:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
+
 ---
 
 **Book V reads more like a personal morning journal than a grand reflection.**  

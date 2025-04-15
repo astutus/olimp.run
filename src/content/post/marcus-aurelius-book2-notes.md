@@ -3,7 +3,7 @@ title: "Meditations – Book II Notes (Marcus Aurelius)"
 description: "Key reflections from Book II of Marcus Aurelius' Meditations — calm, direct, and timeless in their honesty."
 publishDate: "2025-04-07T21:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
 ---
 
 **Book II marks the real beginning of Aurelius’ internal philosophy.**  

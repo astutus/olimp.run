@@ -3,7 +3,8 @@ title: "Meditations - Book VIII: Shame, Purpose & Transforming Evil"
 description: "Reflections on Book VIII of Marcus Aurelius' Meditations — quiet echoes of earlier lessons, with powerful reminders about shame, purpose, and the transformative power of adversity."
 publishDate: "2025-04-14T08:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
+
 ---
 
 **Book VIII feels like an echo chamber.**  
