@@ -3,7 +3,16 @@ import { type CollectionEntry, getCollection } from "astro:content";
 /** filter out draft posts based on the environment */
 export async function getAllPosts(): Promise<CollectionEntry<"post">[]> {
 	return await getCollection("post", ({ data }) => {
-		return import.meta.env.PROD ? !data.draft : true;
+		if (import.meta.env.PROD) {
+			return !data.draft && !data.hidden;
+		}
+		return !data.hidden; // dev: tylko hidden chowamy
+	});
+}
+
+export async function getAllPostsIncludingHidden(): Promise<CollectionEntry<"post">[]> {
+	return await getCollection("post", ({ data }) => {
+		return !data.draft; // hidden OK, ale draft nie
 	});
 }
 
