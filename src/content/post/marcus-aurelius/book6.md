@@ -3,7 +3,8 @@ title: "Meditations – Book VI Notes (Marcus Aurelius)"
 description: "Reflections on Book VI of Marcus Aurelius' Meditations — practical philosophy, quiet revolutions of thought, and a deeper confrontation with the question: what were we created for?"
 publishDate: "2025-04-12T08:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "faith", "existence", "reflection"]
-draft: true
+hidden: true
+
 ---
 
 **Book VI of *Meditations* felt like a shift in tone.**  

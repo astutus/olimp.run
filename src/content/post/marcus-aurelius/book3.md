@@ -3,7 +3,7 @@ title: "Meditations – Book IV Notes (Marcus Aurelius)"
 description: "Reflections on Book IV of Marcus Aurelius' Meditations — inner resilience, perspective on mortality, and the quiet dignity of self-mastery."
 publishDate: "2025-04-09T21:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
 ---
 
 **Book III dives deeper into practical ethics and internal discipline.**  

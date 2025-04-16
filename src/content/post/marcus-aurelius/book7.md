@@ -3,7 +3,7 @@ title: "Meditations – Book VII: Calm, Judgment & Inner Good"
 description: "Reflections on Book VII of Marcus Aurelius' Meditations — scattered wisdom, questions about judgment, the nature of inner goodness, and quiet lessons on how to stay calm in a chaotic world."
 publishDate: "2025-04-13T08:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-draft: true
+hidden: true
 ---
 
 **Book VII felt like the most fragmented so far.**  
