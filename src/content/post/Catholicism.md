@@ -3,7 +3,6 @@ title: "Holy Week Reflections: Why I Still Choose Catholicism"
 description: "In the quiet weight of Holy Week, a personal reflection on the beauty, contradictions, and enduring truth within the Catholic tradition."
 publishDate: "2025-04-17T10:00:00Z"
 tags: ["faith", "catholicism", "spirituality", "holy-week", "reflection"]
-draft: true
 ---
 
 During Holy Week, a time traditionally devoted to reflection and renewal, I’ve taken the chance to revisit my own stance toward the Catholic Church — both emotionally and intellectually. It started with a question: **Why am I still Catholic, knowing what I know?**
