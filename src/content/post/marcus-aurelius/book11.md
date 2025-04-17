@@ -3,7 +3,7 @@ title: "Meditations – Book XI: Mercy, Judgment, Clarity"
 description: "Personal reflections on Book XI of Marcus Aurelius’ Meditations — how to judge less, love more, and stay inwardly clear."
 publishDate: "2025-04-17T19:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
-hidden: false
+hidden: true
 ---
 
 Book XI didn’t introduce radically new ideas, but it brought refinement — particularly on the themes of judgment, mercy, and inward clarity. The soul of this chapter rests in **point 18**, where Marcus lays out a sequence of inner commitments — and especially the tenth of them:
