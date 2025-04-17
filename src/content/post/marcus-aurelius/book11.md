@@ -6,7 +6,7 @@ tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
 hidden: false
 ---
 
-Book XI didn’t introduce radically new ideas, but it brought refinement — particularly on the themes of judgment, mercy, and inward clarity. The soul of this chapter rests in **point 18**, where Marcus lays out a sequence of inner commitments — and especially the ninth of them:
+Book XI didn’t introduce radically new ideas, but it brought refinement — particularly on the themes of judgment, mercy, and inward clarity. The soul of this chapter rests in **point 18**, where Marcus lays out a sequence of inner commitments — and especially the tenth of them:
 
 > *“It is madness to expect that bad people should not do bad things.”*
 
