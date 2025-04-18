@@ -1,7 +1,7 @@
 ---
 title: "Meditations – Book IX: Loss, Judgment & True Prayer"
 description: "Reflections on Book IX of Marcus Aurelius' Meditations — from justice and decay to a striking meditation on what it really means to pray with maturity and strength."
-publishDate: "2025-04-14T08:00:00Z"
+publishDate: "2025-04-15T08:00:00Z"
 tags: ["stoicism", "marcus aurelius", "meditations", "philosophy", "reflection"]
 hidden: true
 ---

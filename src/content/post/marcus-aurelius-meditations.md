@@ -69,6 +69,26 @@ As I wrote in my own words:
 
 ---
 
+### Twelve Books, Twelve Days
+
+I gave myself twelve days to read the *Meditations* — one book each day. Some hit harder than others, but all left a mark. Here's how each one stayed with me:
+
+- Book II: a reminder that life is short — painfully short — so wasting it is the greatest tragedy.
+- Book III: live by principles.
+- Book IV: full of wisdom, and surprising alignment between Marcus and me.
+- Book V: praise of work, even in nature. Bees. Ants. Purpose.
+- Book VI: the deepest one — pushed me to reflect on the very purpose of life.
+- Book VII: slower, but echoes of Frankl made it memorable.
+- Book VIII: the wisdom of contrast — others have suffered more, and they endured.
+- Book IX: a critique of prayer that hit me like lightning.
+- Book X: made me realize how much of my life is “checklist thinking.”
+- Book XI: radical kindness — the kind that Jesus taught.
+- Book XII: peace. A man ready to let go.
+
+👉 [Read the entries here](/tags/marcus%20aurelius)
+
+---
+
 ### What Changed in Me
 
 Something subtle shifted.  
@@ -99,9 +119,4 @@ He gave me **permission** to become the man I already glimpsed inside myself.
 
 He forgave the world. And held himself to a higher standard.  
 That… I want to live like that.
-
----
-
-For the full journey, see all **twelve reflections**:  
-👉 [Twelve Books of Meditations](/tags/marcus%20aurelius)
 
