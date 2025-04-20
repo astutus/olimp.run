@@ -49,12 +49,15 @@ No time to waste.
 No time to sleepwalk through life.  
 I want to live, serve, act.
 
-**3. I have goodness in me — and the will to grow it.**  
-Over and over, Marcus spoke of kindness. Of forgiving others.  
-Of meeting evil with understanding, not rage.  
-It struck me:  
-I *want* to be this man.  
-Not to be admired — but to be **strong enough to be good**.
+**3. I see the weight of goodness — but also its cost.**  
+Marcus spoke often of kindness. Of choosing forgiveness.  
+Of meeting cruelty not with outrage, but with understanding.  
+I see the power in that. I really do.  
+But it’s not easy. It’s not natural.  
+It’s something I can admire — maybe even aim toward —  
+but I don’t pretend it’s a switch I can flip.  
+It’s a kind of goodness that requires strength most of us rarely access.  
+And yet… it feels like the right direction.
 
 **4. I’m not finished yet.**  
 Knowledge isn’t enough.  
