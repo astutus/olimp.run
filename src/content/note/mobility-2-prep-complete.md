@@ -1,5 +1,5 @@
 ---
-title: Completed Prep Phase – Mobility 2.0 (Calimove Level 3/5)
+title: Completed Prep Phase – Mobility 2.0
 publishDate: "2025-04-20T10:00:00Z"
 ---
 
