@@ -3,49 +3,14 @@ title: "Holy Week Reflections: Why I Still Choose Catholicism"
 description: "In the quiet weight of Holy Week, a personal reflection on the beauty, contradictions, and enduring truth within the Catholic tradition."
 publishDate: "2025-04-17T10:00:00Z"
 tags: ["faith", "catholicism", "spirituality", "holy-week", "reflection"]
+hidden: true
 ---
 
-During Holy Week, a time traditionally devoted to reflection and renewal, I’ve taken the chance to revisit my own stance toward the Catholic Church — both emotionally and intellectually. It started with a question: **Why am I still Catholic, knowing what I know?**
+During Holy Week, a time traditionally devoted to reflection and renewal, I’ve taken the chance to revisit my own stance toward the Catholic Church — both emotionally and intellectually. It started with a question:
 
-What followed was a deep conversation — part reflection, part late-night dialogue with a good friend. A friend with insight, honesty, and no fear of asking the hard questions.
+> **Why am I still Catholic, knowing what I know?**
 
----
-
-## What sets Catholicism apart?
-
-- **Sacramental worldview** – Seeing grace made visible in the material world. Bread, wine, water, oil, the body — all become vessels of God’s presence.
-- **Mystical tradition** – A deep contemplative current: Teresa of Ávila, John of the Cross, Brother Lawrence, Meister Eckhart — saints who sought union with God not just in doctrine but in direct experience.
-- **Historical continuity** – Through all its mess, Catholicism has preserved an unbroken line of teaching and sacramental life going back to Christ and the Apostles.
-- **Universality** – A Church that includes monks and mystics, revolutionaries and rulers, peasants and philosophers — all under one roof.
-- **Spiritual tools** – Fasting, confession, spiritual direction, liturgical rhythm, prayer of the hours, the Rosary. We’ve forgotten many of these tools — but they are still ours. Catholicism contains within it a whole system of **ascetic discipline** and **spiritual scaffolding**. Muslims haven’t forgotten theirs. Maybe it’s time we picked ours back up.
-
----
-
-## Why does Islamic discipline fascinate me?
-
-- **Clear structure**: Five daily prayers, Ramadan fasting, no alcohol.
-- **Communal rhythm**: The Muslim world moves as one — same fast, same prayer, same reverence.
-- **No compromise**: For the faithful, God is truly first. Not metaphorically — but tangibly, in time, in choices, in life.
-
-This is what impresses me: discipline with heart. No gap between values and action.
-
-It’s no surprise that someone like **Khabib Nurmagomedov** shines so brightly. His faith is his compass. His strength is his serenity. His example is the message.
-
-> Stoic virtue + Islamic consistency = a figure Aurelius would have admired.
-
-But does that mean Catholics are meant to be lazier? No.
-
----
-
-## Catholics have the same tools — we just forgot how to use them
-
-We too have a sacred rhythm:
-
-- The **Liturgy of the Hours** (matins, vespers, compline)
-- The **Rosary**, the **Angelus**
-- **Friday fasts**, **Advent**, **Lent**
-
-We’re not missing instruments — just the will to play them. The problem isn’t doctrine. It’s **distraction, dilution, and decadence**. We’ve grown soft. But the way back is already here.
+What followed was not just solitary reflection — but also a string of late-night conversations with a good friend. Someone open, honest, and unafraid to ask hard questions. And those questions shook something loose.
 
 ---
 
@@ -53,28 +18,51 @@ We’re not missing instruments — just the will to play them. The problem isn�
 
 Yes and no.
 
-There were – and still are – grievous abuses. Corruption, greed, manipulation, arrogance. The Church is not immune to sin; in fact, it often amplifies it through power.
+There were — and still are — grievous abuses.  
+Corruption. Greed. Manipulation. Arrogance.  
+The Church is not immune to sin; in fact, it often amplifies it through power.
 
-But there’s a deeper lens:
+But even after everything — the **teachings of Jesus** are still proclaimed.  
+They haven’t been silenced.  
+They haven’t been destroyed.  
+They still reach hearts —  
+even if sometimes the Church twists or waters them down to serve its own interests.  
+(Think of Jesus driving out the moneychangers — and then remember the long history of simony.)
 
-> "The Church is not a museum for saints, but a hospital for sinners."
+Maybe the point isn’t to expect perfection —  
+but to understand that **healing** is part of the Church’s nature.  
+Like a hospital full of patients…
 
-Or better yet:
+Some come to be healed.  
+Some are infected.  
+And yes — even some of the doctors are corrupt.
 
-> "The Church is a paradox — the divine Gospel flowing through human plumbing. Some of the pipes are rusted, some burst, but the water is still living."
+But when a hospital faces corruption — you don’t abandon healing.  
+You **root it out**.  
+You protect the mission.  
+You thank the whistleblowers.  
+You clean house — and keep caring for the sick.
 
-And Jesus himself warned us:
+Maybe the Church should do the same.  
+With humility.  
+With repentance.  
+With truth — not PR.
 
-> *"Let both grow together until the harvest. At that time I will tell the harvesters: First collect the weeds and tie them in bundles to be burned; then gather the wheat and bring it into my barn."* (Matthew 13:30)
+The Church shouldn’t silence those who expose its failures.  
+It should thank them.  
+Because **light heals**. And the Church exists to bring light.
 
-The weeds grow with the wheat. And sometimes, it’s only at the very end that the difference becomes clear.
+> *“Let both grow together until the harvest.”*  
+> *(Matthew 13:30)*
+
+Even Jesus warned: the weeds grow alongside the wheat. And sometimes only the final harvest shows which is which.
 
 ---
 
 ## What is the most faithful path to Jesus?
 
-It’s not a denomination.
-It’s a way of being.
+It’s not a denomination.  
+It’s a way of being.  
 It’s becoming a **light**.
 
 > *"You are the light of the world. A city on a hill cannot be hidden."* (Matthew 5:14)
@@ -93,43 +81,71 @@ And yet… Catholicism, at its best, **equips** the soul to become that light. T
 
 ---
 
-## On spiritual corruption and institutional sin
+## Why does Islamic discipline fascinate me?
 
-I used to be furious about the Church's hypocrisy. I still struggle with it. But then I noticed something deeper:
+Oddly enough, I began reflecting more seriously on my own faith **because of Muslims** —  
+athletes, colleagues, and friends whose consistency and devotion made me feel lazy by comparison.
 
-Even through corrupt clergy and institutional shadows, the light doesn’t vanish. Quiet people still kneel in pews. Candles still burn. Old women pray faithfully. Something sacred **survives**.
+No excuses. No wavering. No bargaining with themselves.
 
-Maybe this is the paradox: the very ugliness of the Church **forces a deeper faith** — one that sees through the mess to the Messiah.
+I even remember seeing an Orthodox Jew praying in an airport —  
+devout, focused, undistracted —  
+and wondering: if a Catholic did that in public, people would assume he was crazy.
 
-And as Pope John Paul II once wrote:
-> *The Church is being purified — those who are here out of tradition are leaving. What remains is the faithful core.*
+How did we drift so far?
+
+What struck me about Islam was the visible alignment between **faith and life**.  
+They don’t just *say* God is first — they **live** it.
+
+- **Clear structure**: five daily prayers, Ramadan, abstinence from alcohol.
+- **Communal rhythm**: one global body, moving in sync.
+- **No compromise**: God really is the center.
+
+No surprise that someone like **Khabib Nurmagomedov** shines so brightly.  
+His faith is his compass. His life matches his values.  
+It’s Stoic virtue with Islamic integrity — and Marcus Aurelius would’ve nodded with approval.
+
+---
+
+## Catholics have the same tools — we just forgot how to use them
+
+We too have a sacred rhythm:
+
+- The **Liturgy of the Hours** (matins, vespers, compline)
+- The **Rosary**, the **Angelus**
+- **Friday fasts**, **Advent**, **Lent**
+
+We’re not missing instruments — we’ve just **forgotten how to play them**.
+
+We stopped fasting.  
+We stopped praying.  
+We started treating spiritual devotion like a chore — or worse, a joke.  
+Not only did we forget discipline — we began to mock it.
+
+And yet… it’s all still there.  
+The scaffolding. The structure. The tradition. The tools.  
+We don’t need to invent anything new — we just need to remember.
 
 ---
 
 ## From darkness, light
 
-Evil doesn’t get the final word.
+I used to rage against the Church’s hypocrisy.  
+Now I grieve it — and also see the sacred fire still burning beneath the ash.
 
-God is the master of turning crucifixion into resurrection.
-Abuse into reform.
-Disgust into discernment.
-Collapse into clarity.
+Quiet old women still light candles.  
+Simple voices still pray the Rosary.  
+Strangers still kneel in empty churches.  
+Grace still flows.
 
-> If the Church is cracked — maybe it’s so that more light can pour through.
+> *“If I look with the eyes of scandal, I see a mess.  
+> If I look with the eyes of the Spirit, I see mystery.”*
 
-I don’t follow the Church because it’s perfect. I follow it because **even through all its imperfection**, I see Jesus.
+The Church is cracked — maybe so **more light can shine through**.
 
-I follow it because somehow, **grace still flows**.
+This Holy Week, I don’t try to fix the Church.
 
----
+I try to be **one burning candle** within it.
 
-> “If I look with the eyes of scandal, I see a mess. If I look with the eyes of the Spirit, I see mystery.”
-
-And maybe that’s enough.
-
-In this Holy Week — I don’t try to fix the Church.
-I try to be one burning candle within it.
-
-**Fiat lux.**
-
+Fiat lux.
 
