@@ -3,7 +3,7 @@ title: A Slow Body Transformation That Changed Everything
 description: I didn't plan to lose weight. I wasn't chasing aesthetics. But over time, consistency and small choices reshaped not just my body — but my entire life.
 publishDate: "2025-04-22"
 tags: ["transformation", "lifestyle", "health", "fitness", "personal story"]
-image: /images/bodyTransformation.jpg
+image: /images/bodyTransformation.jpeg
 ---
 
 In 2021, I weighed 102 kg and had a 102 cm waist.  
@@ -78,7 +78,7 @@ And I realized:
 It was a change in trajectory.**
 
 
-![Before and After](/images/bodyTransformation.jpg)
+![Before and After](/images/bodyTransformation.jpeg)
 
 *18 months apart. Quiet effort, visible change.*
 
