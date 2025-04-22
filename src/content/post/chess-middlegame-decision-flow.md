@@ -37,6 +37,10 @@ A logic-based, tactical and strategic algorithm for consistent decision-making d
 #### → Enemy’s Plan:
 - What does he want in next 1–2 moves?
 
+#### → Reassess? (anti-tunnel vision)
+- Position changed and outdated plan?
+
+
 **✅ If clear → go to Candidate Moves**  
 **❌ If not → continue**
 
