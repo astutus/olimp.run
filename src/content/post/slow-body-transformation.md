@@ -77,6 +77,11 @@ And I realized:
 **This wasn't just a change in body.  
 It was a change in trajectory.**
 
+
+![Before and After](/images/bodyTransformation.jpg)
+
+*18 months apart. Quiet effort, visible change.*
+
 ---
 
 Now I can — just for example — spend a whole day skiing with my kids,  
