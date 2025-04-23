@@ -18,7 +18,7 @@ A clear, repeatable structure for middlegame thinking — born from hard games, 
 - **Capture? / Hanging?** – can I take something for free? is anything hanging (mine or his)?
 
 ✅ If YES → act or calculate immediately  
-❌ If NO → proceed to Evaluation
+❌ If NO → proceed to **1. Evaluation**
 
 ---
 
@@ -41,8 +41,9 @@ A clear, repeatable structure for middlegame thinking — born from hard games, 
 - Position changed?  
 - Outdated plan?
 
-✅ If clear → go to Strategy  
-❌ If not → continue
+✅ If target is clear → go to **3. Candidate Moves**  
+❌ If not → continue to **2. Strategy**
+
 
 ---
 
@@ -54,7 +55,7 @@ A clear, repeatable structure for middlegame thinking — born from hard games, 
 - Prophylaxis & Restriction  
 - Dynamic goals (attack, initiative, tempo)
 
-✅ If goal is clear → go to Candidate Moves  
+✅ If goal is clear → go to **3. Candidate Moves**
 ❌ If not → play improving move (safe by default)
 
 ---
