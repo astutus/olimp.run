@@ -1,5 +1,5 @@
 ---
-title: Garmin Coach – Phase 1: BASE Summary
+title: "Garmin Coach – Phase 1: BASE Summary"
 publishDate: "2025-03-16T08:00:00Z"
 ---
 

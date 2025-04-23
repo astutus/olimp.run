@@ -1,5 +1,5 @@
 ---
-title: Garmin Coach – BUILD Phase Complete (Mar 17 – Apr 23)
+title: "Garmin Coach – BUILD Phase Complete (Mar 17 – Apr 23)"
 publishDate: "2025-04-23T18:00:00Z"
 ---
 
