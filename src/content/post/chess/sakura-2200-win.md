@@ -1,11 +1,11 @@
 ---
 title: "Defeating Sakura Bot 2200 – Playing at IM Strength"
 description: "After building and refining my OLIMP™ middlegame decision system, I tested it under pressure — and achieved a lifetime best performance."
-publishDate: "2025-04-22"
+publishDate: "2025-04-26"
 tags: ["chess", "strategy", "victory-log"]
 ---
 
-## 🏆 Victory Log #001: Defeating Sakura 2200 — Playing at IM Strength (2450)
+## 🏆 Defeating Sakura 2200 — Playing at IM Strength (2450)
 
 - Opponent: Sakura (Chess.com bot, rated 2200)
 - Time Control: No limit (unlimited time per move)
