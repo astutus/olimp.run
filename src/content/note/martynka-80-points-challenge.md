@@ -1,7 +1,7 @@
 ---
 title: "Martynka's 80-Point Challenge: Grit, Growth, Fun"
 description: A structured development plan combining running, chess, English, reading, and a touch of creativity, designed to build discipline, thinking skills, and patience in a 9-year-old.
-publishDate: "2025-04-26"
+publishDate: "2025-04-26T21:00:00Z"
 tags: ["development", "parenting", "training", "system"]
 hidden: true
 ---
