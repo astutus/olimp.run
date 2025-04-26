@@ -41,11 +41,10 @@
 📈 HRV: 115 – 120  ↓  = -5
 ❤️ Resting HR: 41 bpm – stabilny
 
-🏃 Run: np. 41 min base – 5:50/km avg – HR 151 – light effort"
+🏃 Run: 41 min base – 5:52/km avg – HR 142 (szok!), super lekko
 🧱 Calisthenics: nie ma
 
 📝 Notes:
-- taki raczej zmeczony
-- obserwacje z biegu i cali (np. przyciągnięcie w pachwinie, spadek siły, duszność)
+- chodz taki raczej zmeczony to bieg to byla bajka, relaks, tak lekko jak nigdy w zyciu!
 
 
