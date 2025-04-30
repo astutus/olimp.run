@@ -47,4 +47,27 @@
 📝 Notes:
 - chodz taki raczej zmeczony to bieg to byla bajka, relaks, tak lekko jak nigdy w zyciu!
 
+📅 Date: 2025-04-27  
+🧠 Subjective feeling: 3/5 – np. neutralnie  
+⚡ Snap test: brak  
+😴 Sleep: 7:32h – jakość snu (8/10), wybudzenia 1 dlugie, 1:13 REM, 35 minut deep  
+
+💪 Soreness / Tension (0–5):  
+- legs (quads, hamstrings, calves): 1/5  
+- tendons / ankles / knees: 2/5  
+- groin / hip flexors / adductors: 2/5  
+- lower abs / obliques (kontuzjowany punkt): 2/5  
+- back / spine tension: 2/5  
+- shoulders / traps / delts: 2/5  
+- arms (triceps, biceps, forearms): 2/5  
+- core (DOMS after wheel/L-sit): 2/5  
+
+📈 HRV: 126 – 115 ↑ +11  
+❤️ Resting HR: 42 bpm – minimalny wzrost (+1)
+
+🏃 Run: np. 1:24" base – 5:47/km avg – HR 146 – normal, jakis kosmos pierwsze 4 km tak lekko, druga 5tka ciezsze nogi ostatnia 5tka normalnie
+🧱 Calisthenics: nie bylo   
+
+📝 Notes:  
+- nie wiem czy to jakis blad zegarka czy kolosalny progres   
 

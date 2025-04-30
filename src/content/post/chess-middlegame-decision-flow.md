@@ -28,11 +28,10 @@ A clear, repeatable structure for middlegame thinking — born from hard games, 
 
 1. King safety → mate / check threats?  
 2. Queen exposure → capture threat?  
-3. Key squares (back rank, mate square) → double attack?  
-4. Threats? – is something (mine or his) exposed to trap, loss, or forced reaction?  
-5. Unprotected pieces → double attack? skewer? fork?  
-6. Weakly defended pieces → double attack? eliminating the defender?  
-7. Pieces on same file/rank/diagonal → pin? skewer?
+3. Threats? – key squares (back rank, mate square etc), or something exposed to trap, loss, or forced reaction?
+4. Unprotected pieces → double attack? skewer? fork?  
+5. Weakly defended pieces → double attack? eliminating the defender?  
+6. Pieces on same file/rank/diagonal → pin? skewer?
 
 #### → Enemy’s Plan:
 - What does he want in the next 1–2 moves?
