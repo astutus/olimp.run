@@ -8,7 +8,7 @@ tags: ["running", "training", "reflection", "VO2max", "fitness"]
 
 ## 🧠 A Shift in Thinking
 
-2025 has been the first year I truly began to **train mądrze** — wisely. Not just run, not just follow plans, not just fight through discomfort. But think.
+2025 has been the first year I truly began to **train wisely**. Not just run, not just follow plans, not just fight through discomfort. But think.
 
 In past years (especially 2023–2024), I relied on **ambition, grit, and raw willpower**. My mentality was: *“Push harder. If it hurts, it means I’m doing something right.”* I chased personal bests with sheer force, thinking that high heart rate, suffering, and depletion were markers of growth.
 
