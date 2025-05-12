@@ -238,7 +238,7 @@
 
 📅 Date: 2025-05-04
 🧠 Subjective feeling: 4/5 – zaskakująco dobre samopoczucie pomimo 15 km biegu 2 dni temu i intensywnej kalisteniki w międzyczasie.
-⚡ Snap test: brak typowego „zrywu”, ale ruchy płynne, brak uczucia ociężałości.
+⚡ Snap test: Done in evening before calisthenics. Weak start, but strength stabilized during session. Explosiveness best in archer rows.
 😴 Sleep: 7.5h, 8/10 – brak wybudzeń, deep 0:28h, REM 1:25h – sen spokojny i regenerujący.
 
 💪 Soreness / Tension (0–5):
@@ -256,7 +256,12 @@
 ❤️ Resting HR: 42 ↓ (z 44)
 
 🏃 Run: 6.06 km – avg pace 5:47/km – avg HR 147 – perceived as easy, motorek się załączał, trzeba było zwalniać.
-🧱 Calisthenics: planned for evening: superserie archer body rows + dips (9x), handstand routine, hanging side lean (4x4 per side with 3s hold).
+🧱 Calisthenics: 
+* Handstand routine: Snap test at start felt poor, but improved over session. Moderate shoulder activation.
+* Superserie 9x: (archer body rows + dips) — dips felt flat at first, but rows had noticeable power and control. Used more advanced range by extending elbow and moving across bar like a typewriter pull.
+* Hanging side leans 4x4 per side, 3s hold — controlled, though fatigue present.
+
+
 
 📝 Notes:
 
@@ -264,5 +269,139 @@
 * Garmin uznał progres i podniósł VO2max z 49 na 50.
 * Czuć, że forma bazowa jest bardzo mocna i bieg na 5:47/km przy 147 HR to nowy standard.
 * Ogólne wnioski: 2025 to rok dojrzałości treningowej, lepszego zarządzania wysiłkiem i rozumienia fizjologii. Poprzednie sezony były prowadzone „na ambicji”, obecnie – „na mądrości”.
+* Hard to get started with calisthenics today — likely accumulated fatigue from previous day’s long run and today’s base. But once warmed up, the body responded well.
+* 1.5h total with warmup. Ended the day with strong activation despite slow start.
+
+📅 Date: 2025-05-07
+🧠 Subjective feeling: 4/5 – fresh, focused, energized after run nap reset
+⚡ Snap test: handstand stable, crow pose 30s, first real L-sit (5s hold!)
+😴 Sleep: 7.5h – quality 8/10, deep sleep only 25m but REM solid at 1:25
+
+📈 HRV: 122 ↓ (-2)
+❤️ Resting HR: 43 bpm ↑ (+1)
+
+🏃 Run: 31 min base on trail – 5.44 km, avg HR 145, avg pace 5:44/km
+
+* Great feel and rhythm, HR climbed slowly, then stabilized low 140s
+* First 1.5 km HR under 140, very efficient circulation
+* Performance condition +2, felt strong and springy throughout
+* Garmin noted progress and tagged it as 3.1/5 Base
+
+🧱 Calisthenics (18:00 session):
+
+* Snap test: good readiness in shoulders and core
+* Handstand: stable, one-leg lifts held longer, control increased
+* Crow pose: held for 30 seconds
+* Pistol squats: 5 sets — first time feeling confident and strong
+* Skin the Cat: 5 sets, careful control to protect previous strain
+* L-sit: 5 sets of 20s tucks, tested full L-sit twice and held for 5s (!)
+
+📝 Notes:
+
+* Trail run with perfect cool May weather (\~10°C) boosted comfort and performance
+* Slight HRV drop might be delayed response to cumulative training stress
+* Surprise nap before calisthenics fully reset CNS, led to an outstanding session
+* Achieving first real L-sit and pistol squat confidence marks a key milestone
+* Overall: clear signs of supercompensation across both endurance and strength
+
+📅 Date: 2025-05-08
+🧠 Subjective feeling: 3/5 – senność, ale bez zjazdu. Mentalnie neutralnie
+⚡ Snap test: brak (planowo rest dla kalisteniki)
+😴 Sleep: 7h – jakość snu 7/10, 2 wybudzenia, REM 1:36, deep tylko 20 min
+
+💪 Soreness / Tension (0–5):
+
+* legs (quads, hamstrings, calves): 1/5
+* tendons / ankles / knees: 1/5
+* groin / hip flexors / adductors: 2/5
+* lower abs / obliques (kontuzjowany punkt): 2/5
+* back / spine tension: 0/5
+* shoulders / traps / delts: 0/5
+* arms (triceps, biceps, forearms): 3/5
+* core (DOMS after wheel/L-sit): 0/5
+
+📈 HRV: 114 ↓ – spadek z 122, spora zmiana
+❤️ Resting HR: 42 bpm – stabilny
+
+🏃 Run: 1:01 total – 2x18 min threshold – avg tempo 5:16/km – HR zaniżony (czytnik z nadgarstka), realnie ~174 bpm w segmencie intensywnym
+🧱 Calisthenics: brak – przesunięcie na kolejny dzień, tylko lekkie rozciąganie
+
+📝 Notes:
+
+* Dwa razy po 18 minut w tempie 4:47 i 4:49 — dobra kontrola, mimo braku precyzyjnego HR (padła bateria w HRM).
+* Jeden moment wszedł na vo2max (~30s), ale świadoma korekta.
+* Na końcu cool down wbity w niebieski zakres, oddychanie przez nos przy 5:55/km – dobry sygnał.
+* Garmin pewnie nie uwzględni realnego obciążenia z powodu błędnego pomiaru HR.
+* Mentalnie dobry dzień – skupienie, kontrola, zero przepału. Potwierdza, że forma rośnie.
+
+📅 Date: 2025-05-10
+🧠 Subjective feeling: 2/5 – zmęczenie, wyraźny zjazd po biegu
+⚡ Snap test: brak – wystąpiła silna senność i „spowolnienie” po treningu
+😴 Sleep (noc wcześniej): 8/10 – deep 50 min, REM 1:43, HRV 116, HR 42
+
+💪 Soreness / Tension (0–5):
+
+* legs (quads, hamstrings, calves): 2/5
+* tendons / ankles / knees: 2/5
+* groin / hip flexors / adductors: 2/5
+* lower abs / obliques: 0/5
+* back / spine tension: 1/5
+* shoulders / traps / delts: 0/5
+* arms (triceps, biceps, forearms): 0/5
+* core (DOMS after wheel/L-sit): 0/5
+
+📈 HRV: 116 (=) – przed biegiem
+❤️ Resting HR: 42 (=)
+
+🏃 Run: 1:38 h / 17.09 km – 5:44/km avg – HR 152 avg – total ascent: 118 m
+
+Garmin Training Effect: 4.0 / 5 – Base
+Max HR: 159 – większość biegu w zakresie 154
+Tempo równe, stabilne – ale za szybkie względem założeń, ambicjonalnie dociśnięte
+Bieg uznany za progresujący również dla VO₂max
+
+🧱 Calisthenics: brak
+📝 Notes:
+
+* Zjazd energetyczny po biegu: senność, ospałość, konieczność power napa
+* Organizm mocno odczuł trening, mimo braku maksymalnego tętna – wskazuje to na silne zużycie zasobów
+* Prawdopodobnie konieczny dzień regeneracji / niska intensywność jutro
+* Wnioski: mimo bardzo dobrej realizacji, należy bardziej kontrolować ambicję na długich dystansach – tempo zbyt wysokie jak na typowy long base run
+* Noc po biegu będzie ważna – obserwuj HRV i sen
+
+📅 Date: 2025-05-11
+🧠 Subjective feeling: 4/5 – rano regeneracja, spokój i energia; wieczorem ospałość i niska chęć do treningu
+⚡ Snap test: bardzo słaby – najsłabszy od miesięcy; brak snapa przy wejściu w ćwiczenia siłowe
+😴 Sleep: ~7.5h – jakość snu 8.5/10, jedno wybudzenie, deep ok. 1h (realnie), REM 1:21
+
+💪 Soreness / Tension (0–5):
+
+* legs (quads, hamstrings, calves): 1/5
+* tendons / ankles / knees: 3/5
+* groin / hip flexors / adductors: 3/5
+* lower abs / obliques (kontuzjowany punkt): 3/5
+* back / spine tension: 0/5
+* shoulders / traps / delts: 0/5
+* arms (triceps, biceps, forearms): 0/5
+* core (DOMS after wheel/L-sit): 0/5
+
+📈 HRV: 119 ↑ – świetne odbicie po long runie
+❤️ Resting HR: 42 bpm = stabilnie
+
+🏃 Run: 38 min base – 5:51/km avg – HR 142 – super lekki effort, performance +3 → +1
+🧱 Calisthenics:
+
+* Handstand routine – bez snapa, ale technicznie bez pogorszenia
+* Superserie: 9x (typewriter pull-ups + archer push-ups) – bardzo trudne wejście, brak świeżości, robione na dyscyplinie
+* Abs wheel – ostrożnie z obawą o kontuzję, bez bólu ale ze sporym napięciem
+
+📝 Notes:
+
+* Świetna odpowiedź organizmu po długim biegu – poranna świeżość, świetne tętno i HRV
+* Garmin źle oznaczył sen, ale faktycznie głęboki i regeneracyjny
+* Bieg w Mizuno Daichi 10 – mimo cięższych butów świetne parametry
+* Wieczorem bardzo ciężki start do kalisteniki – ospałość, brak snapa, pierwsza seria "na siłę"
+* Możliwe, że superkompensacja mięśniowa przepadła przez jednodniowe przesunięcie treningu
+* Mentalnie: mocno z głowy, ale udało się utrzymać jakość techniczną
 
 
