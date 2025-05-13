@@ -404,4 +404,30 @@ Bieg uznany za progresujący również dla VO₂max
 * Możliwe, że superkompensacja mięśniowa przepadła przez jednodniowe przesunięcie treningu
 * Mentalnie: mocno z głowy, ale udało się utrzymać jakość techniczną
 
+📅 Date: 2025-05-12  
+🧠 Subjective feeling: 4/5 – spokojnie, mimo mikrourazów ciało działa  
+⚡ Snap test: recovery day – normalnie 
+😴 Sleep: ~7.5h – jakość snu 9/10, deep 0:57, REM 1:58 – najlepsze parametry w roku  
+
+💪 Soreness / Tension (0–5):  
+- legs (quads, hamstrings, calves): 1/5  
+- tendons / ankles / knees: 2/5  
+- groin / hip flexors / adductors: 3/5  
+- lower abs / obliques (kontuzjowany punkt): 2/5  
+- back / spine tension: 1/5  
+- shoulders / traps / delts: 2/5  
+- arms (triceps, biceps, forearms): 1/5  
+- core (DOMS after wheel/L-sit): 0/5  
+
+📈 HRV: 133 ↑ – najwyższy w roku  
+❤️ Resting HR: 40 bpm ↓ – rekordowo niskie  
+
+🏃 Run: recovery – luzik  
+🧱 Calisthenics: brak (dzień po ciężkiej sesji 11.05)  
+
+📝 Notes:  
+- Zaskakująca odpowiedź organizmu – HRV i tętno spoczynkowe rekordowe mimo późnego treningu siłowego wczoraj  
+- Pomimo świetnych danych organizm nadal sygnalizuje drobne przeciążenia: kostka, pachwiny, ogólne zmęczenie mięśniowe  
+- O 16:00 power nap – aż 50 minut. Możliwe, że ciało potrzebowało jeszcze regeneracji po 17 km biegu + cali  
+- Mentalnie: luz, energia obecna, ciało "mruczy", ale nie protestuje. Superkompensacja postępuje
 
