@@ -129,27 +129,29 @@ That still burns.
 
 ### Not All Souls Are the Same?
 
-The parable of the weeds and wheat (Matthew 13) haunts me.
+The parable of the weeds and wheat (Matthew 13) shook me.
 
 Jesus says:
-- The good seed are “children of the kingdom.”  
+- The good seed are “children of the kingdom.”
 - The bad seed are “children of the evil one.”
 
-I asked myself:
-> Are all humans really the same inside?
+But here’s the twist that haunted me:
+Jesus is the sower of good seed.  
+And the evil one? He sows too.
 
-The Church says: everyone has free will.  
-But Jesus talks about *those who belong to darkness* — who don’t want light.
+So maybe not all humans are born as neutral soil.  
+Maybe not everyone is “a good person deep down.”  
+Maybe some are — from the start — sown as darkness.
 
-Paul says some are “vessels of wrath.”  
-John speaks of “children of the devil.”
+At first, you can’t tell the difference.  
+The weeds and wheat grow side by side.  
+But as time passes… their nature is revealed.
 
-Maybe some people are so deeply committed to evil…  
-that they’ve lost the desire to change.
+And maybe that’s why Jesus says:  
+**“Let them grow together until the end.”**
 
-I’m not here to judge.  
-But it comforts me to think:  
-**Only angels will separate wheat from weeds.**
+Because we can’t always know.  
+But the angels will.
 
 ---
 
