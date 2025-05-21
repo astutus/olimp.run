@@ -1,5 +1,5 @@
 ---
-title: "Cognitive Optimization: Mapping Strengths, Limits, and Learning Strategy"
+title: "Cognitive Optimization: Learning Strategy That Fits Me"
 description: "What happens when you stop copying others and start designing learning systems that match your actual brain? Here’s a raw exploration of memory, limits, hacks, and breakthroughs."
 publishDate: "2025-05-21T22:30:00Z"
 tags: ["learning", "memory", "metacognition", "brain", "strategy", "optimization"]
