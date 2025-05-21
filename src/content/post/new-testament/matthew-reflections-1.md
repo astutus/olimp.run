@@ -1,7 +1,7 @@
 ---
 title: "Maybe That’s What He Meant – Matthew, Part 1 of 2"
 description: "What happens when you stop reciting childhood religion and start listening with your own adult soul? These are my thoughts, tensions, and discoveries while reading the Gospel of Matthew."
-publishDate: "2025-05-16T21:00:00Z"
+publishDate: "2025-05-21T21:00:00Z"
 tags: ["gospel", "jesus", "kingdom of heaven", "spirituality", "matthew", "doubt"]
 hidden: false
 ---
