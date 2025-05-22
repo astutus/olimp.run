@@ -29,6 +29,20 @@ Before getting personal, I needed theory — to understand where my learning sys
 * **Generation & Depth Effects:** You remember more when you *generate* info, not just review. The deeper you process it — with meaning, connection, questions — the better.
 * **Desirable Difficulty:** Learning must feel slightly hard. If it’s too easy, it doesn’t stick.
 * **Expertise Reversal Effect:** What helps novices can hurt experts. It’s a key reason experienced learners should avoid overly guided material.
+* **Bloom’s Taxonomy:** Knowing ≠ understanding ≠ mastery. Remembering is only the first step. Real learning is layered. Here's the progression:
+
+  1. **Remember** → You can recall it. Facts, terms, data.
+  2. **Understand** → You grasp what it means. You can explain it.
+  3. **Apply** → You can use it in a new situation.
+  4. **Analyze** → You can break it down and see how it works.
+  5. **Evaluate** → You can judge it. Argue for or against it.
+  6. **Create** → You can build from it. Combine, design, invent.
+
+  Most people stop at step 2 and think they’re done. They're not.
+* **Plateaus, Dips, and Leaps Model:** Progress is not linear. Spikes in ability often follow dips in performance. Dips mean your system is testing new methods. Leaps mean it found one that works. Expect instability before breakthroughs.
+* **Spiral Learning Theory:** Just because you didn’t “get” something the first time doesn’t mean you never will. Concepts return — richer, more meaningful, and ready for synthesis once your brain has built the scaffolding. Not everything lands on first contact.
+* **Forgetting Curve ≠ One Curve:** Ebbinghaus studied how fast we forget meaningless noise — like “ZOF” or “BOK.” That curve drops fast. But meaningful abstract concepts — like “dychotomy” or “inversion” — decay much slower *if* you understand them. Bahrick showed that well-learned info (like languages) fades slowly. And Linton found that personal memories can last for decades. Forgetting isn’t about time alone — it’s about depth, structure, and meaning.
+* **Depth & Distribution Fight Forgetting:** The more personally meaningful, deeply processed, and widely used the knowledge — the slower the decay. What the brain deems useful, it keeps.
 
 Now — let’s go personal.
 
