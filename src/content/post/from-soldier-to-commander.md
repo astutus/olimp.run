@@ -1,5 +1,5 @@
 ---
-title: "From Soldier to Commander: Strategic Growth Through Self-Respect"
+title: "From Soldier to Commander: Strategic Growth and Respect"
 description: "I won countless battles — physical, intellectual, personal. But the time came to stop charging ahead and start commanding with purpose. This is about evolving from pure discipline to wise direction."
 publishDate: "2025-05-23T21:00:00Z"
 tags: ["reflection", "discipline", "strategy", "personal growth", "mental models"]
