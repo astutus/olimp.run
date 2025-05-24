@@ -115,6 +115,55 @@ Some are just **lived, silently**, one repetition at a time.
 
 ---
 
+### Chapter 6 — Motivation Is Overrated; Environment Often Matters More
+
+Clear opens with another behavioral study: when a hospital cafeteria made water more accessible than sugary drinks, people bought more water. Revolutionary? Not really. But it confirms something simple and powerful:
+
+> **What’s visible is what gets acted on.**
+
+I saw this in my own life with supplements. A friend once told me he was taking the same stack I was — but irregularly. Me? I never missed a day. Why? Because they were **always visible** — and I took them right after my morning water. Habit stacking, again. Not motivation. Just design.
+
+Clear builds on this by referencing a behavioral psychologist who defined behavior as “a function of the person and their environment.” Fancy words for a basic truth: your surroundings shape your actions.
+
+But I’d go further:  
+> It’s not just environment. It’s **environment over time.**
+
+Even someone with strong willpower will crack if they’re exposed repeatedly to temptation. Not every time — maybe one out of five. But that’s enough. Just like erosion wears down a rock — slowly, inevitably.
+
+This is why **avoidance > resistance**. Why posture matters more than power. Don’t fight off the candy — just don’t sit next to the bowl.
+
+Clear reinforces this with more data: households in the Netherlands reduced energy use by 30% just by having their electric meter visible. The brain responds to metrics — if you can *see* the consequence, you act differently.
+
+He also talks about **contextual cues** — that the brain associates behaviors with places. Like how sleep experts say, “Don’t work from bed.” I used to think that was nonsense. But when I worked from bed during a period of back pain, my sleep tanked. Not because of the pain — but because the context collapsed. My brain no longer knew what the bed was for.
+
+Now? I have clear boundaries:
+- Work happens at the desk.
+- Recovery happens on the couch.
+- Sleep happens in bed.
+
+And honestly, I think that’s part of what keeps my system stable.  
+Different places, different functions. One action, one anchor.
+
+---
+
+### 🛠️ Environment Isn’t Just a Threat — It’s a Tool
+
+But there’s also the flip side — not just avoiding bad cues, but **placing good ones in your way**.
+
+Clear says it best when he talks about making the cue for a good habit visible, obvious, and impossible to ignore.  
+Not just hiding candy — but leaving your running shoes by the door. Not just removing Netflix — but keeping a book on the pillow.
+
+I’ve done that myself with supplements. They’re visible. They’re next to my water. So I take them.  
+Same logic could apply to anything:
+- Guitar in the middle of the room = more likely to play.
+- Foam roller next to the couch = more likely to stretch.
+
+**Environment doesn’t just tempt you. It can nudge you forward.**
+
+That’s the real design move: **build environments that act as signals for the behavior you want.**
+
+---
+
 ### Takeaways:
 - Most habits are unconscious and must be named before they can be changed.
 - Habits aren’t morally good or bad — they’re effective or ineffective.
@@ -122,4 +171,8 @@ Some are just **lived, silently**, one repetition at a time.
 - Implementation intentions are helpful for structure, but often lack craving and reward.
 - Tiny Habits Recipe (habit stacking) works because it builds on existing cues and rhythms.
 - Even automated actions reflect identity — quietly but powerfully.
+- **Environment shapes behavior more than motivation does — especially over time.**
+- **Avoidance is stronger than resistance: don’t fight cues, eliminate or design them.**
+- **Good habits need visible cues — place them in your path, not your drawer.**
+- **Assign clear functions to physical spaces — reinforce context for consistent behavior.**
 
