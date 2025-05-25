@@ -3,7 +3,7 @@ title: "Atomic Habits – Foundations and First Reflections"
 description: "Reflections on the introduction and first chapters of James Clear’s Atomic Habits — where the value of tiny gains, system-based thinking, and identity-driven habits begins to unfold."
 publishDate: "2025-05-18T21:00:00Z"
 tags: ["atomic habits", "james clear", "habits", "systems", "books"]
-hidden: true
+hidden: false
 ---
 
 ### Introduction & Chapter 1 — The Surprising Power of Atomic Habits
