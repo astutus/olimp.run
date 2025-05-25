@@ -1,6 +1,6 @@
 ---
 title: "Law 1: Make It Obvious"
-description: "Breaking down the first law of behavior change: how to surface subconscious habits and examine them through the lens of long-term identity."
+description: "Habits can change through force — but smart design makes change sustainable. This breakdown of Law 1 covers the psychology of cues, how to bring habits into awareness, and how to shape your environment to win without fighting."
 publishDate: "2025-05-22T21:00:00Z"
 tags: ["atomic habits", "law 1", "habits", "identity", "james clear"]
 hidden: false
