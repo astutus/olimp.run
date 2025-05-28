@@ -4,7 +4,7 @@ title: "Garmin Coach – Phase 3: PEAK Summary"
 publishDate: "2025-05-18T20:00:00Z"
 -----------------------------------
 
-## Summary of PEAK Phase (Apr 24 – May 18)
+### Summary of PEAK Phase (Apr 24 – May 18)
 
 This was the final, most demanding stretch of the 17-week Garmin Coach plan — the **PEAK phase**. And it lived up to its name.
 
