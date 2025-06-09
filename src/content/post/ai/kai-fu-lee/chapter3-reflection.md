@@ -1,9 +1,8 @@
 ---
-
 title: "AI Superpowers – The Rise of Chinese Entrepreneurs"
 description: "Personal reflections on Chapter 3 of AI Superpowers — from state-guided ecosystems to the power of disciplined execution."
 publishDate: "2025-06-04T08:00:00Z"
-tags: \["kai-fu lee", "AI", "china", "entrepreneurship", "innovation", "books"]
+tags: ["kai-fu lee", "AI", "china", "entrepreneurship", "innovation", "books"]
 hidden: false
 -------------
 
