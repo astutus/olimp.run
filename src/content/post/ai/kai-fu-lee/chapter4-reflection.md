@@ -4,7 +4,7 @@ title: "AI Superpowers – The Rise of Chinese Engineers"
 description: "Reflections on Chapter 4 of Kai-Fu Lee’s book — a look at how China is shifting from copying to creating in the world of AI engineering."
 publishDate: "2025-06-04T08:00:00Z"
 tags: ["kai-fu lee", "AI", "china", "usa", "open science", "deeptech", "books"]
-hidden: false
+hidden: true
 -------------
 
 ### Chapter 4 — My Take on "Copycats, Masters, and Makers"

@@ -4,7 +4,7 @@ title: "AI Superpowers – Copycats or Future Titans"
 description: "Reflections on the moral bias of innovation, the Chinese hustle culture, and why copying isn’t always stealing."
 publishDate: "2025-06-04T08:00:00Z"
 tags: ["kai-fu lee", "AI", "china", "copycat", "startup culture", "lean startup", "books"]
-hidden: false
+hidden: true
 -------------
 
 ### Chapter 2 — Reflection & Commentary
