@@ -1,10 +1,18 @@
 ---
-title: "Post-Garmin Strategic Build: 8-Week Quality Focus"
-description: After 700km in 17 weeks, time for a different approach. Filling the gaps with sprints, hills, and smart recovery while protecting what matters.
+title: "Training Lab: 8-Week Integrated Experiment"
+description: Three-pronged approach to building a resilient body. Running, calisthenics, and mobility working in synergy.
 publishDate: "2025-06-11"
-tags: ["running", "training", "recovery", "strategy"]
+tags: ["training", "experiment", "running", "calisthenics", "mobility"]
 hidden: true
 ---
+
+## 🧪 The Experiment
+
+Starting June 16, 2025: An 8-week synchronized training block addressing all systems. Commander's approach - strategic, not grinding.
+
+---
+
+# Section 1: Running - Strategic Build
 
 ## 🎯 The Context – Where I'm Starting
 
@@ -288,14 +296,172 @@ Start first 10min @Z1, finish last 5min @Z1
 - 2 weeks swimming/mobility only
 - Reassess with sports medicine
 
-## 🧠 Philosophy Reminder
+---
 
-This isn't about one PR. It's about:
-- Building a body that performs when needed
-- Protecting hormonal health
-- Maintaining life balance
-- Training like a commander, not just a soldier
+# Section 2: Calisthenics - Strength & Skill Focus
 
-The 17 weeks of volume built the engine. These 8 weeks add the turbo while keeping the engine intact.
+## 🎯 Context & Goals
 
-Remember: Symbiosis over specialization. Performance as a tool, not an identity.
+After 3+ months of Calimove Advanced (Level 3), time for strategic shift:
+- **Groin injury**: Requires complete rest from L-sit variations and hollow body work
+- **Volume fatigue**: Moving from 9x9 grinding to quality strength work
+- **New focus**: Muscle-up progression and handstand development
+- **Smart loading**: 5x5-6 with reserve, adding weight progressively
+
+## 🏗️ Weekly Structure
+
+- **Monday**: Strength A
+- **Wednesday**: Technique/Muscle-up
+- **Friday**: Strength B
+- **Weekend**: Optional light technique or rest
+
+## 💪 STRENGTH A (Mondays)
+
+### Weeks 1-2 (June 16-23, June 23-30)
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Chin-ups | 5 × 5 | Large reserve, dynamic |
+| Dips | 4 × 5-6 | Control, far from failure |
+| Goblet Squat | 3 × 8-10 | 5kg weighted vest |
+| Bird Dog | 3 × 10/side | Slow, 2s hold |
+| Side Plank | 3 × 30s/side | Perfect line |
+
+### Weeks 3-4 (June 30 - July 7, July 7-14)
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Chin-ups | 6 × 5 | Still with reserve |
+| Dips | 4 × 8 | OR 4 × 5 +5kg (based on feel) |
+| Goblet Squat | 3 × 10-12 | 10kg weighted vest |
+| Pallof Press | 3 × 12/side | Medium resistance |
+| Side Plank | 3 × 40s/side | Time progression |
+
+### Weeks 5-6 (July 14-21, July 21-28)
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Weighted Chin-ups | 4 × 4-5 | +5kg |
+| Weighted Dips | 4 × 5 | +5-10kg (careful!) |
+| Step-ups | 3 × 10/leg | 10kg weighted vest |
+| McGill Curl-up | 3 × 10 | 5s hold each |
+| Bird Dog | 3 × 12/side | 3s hold |
+
+### Weeks 7-8 (July 28 - Aug 4, Aug 4-11)
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Weighted Chin-ups | 5 × 3-4 | +10kg |
+| Weighted Dips | 4 × 5-6 | +10kg (STOP if armpit tension) |
+| Bulgarian Split Squat | 3 × 8/leg | Bodyweight |
+| Pallof Press | 3 × 15/side | Higher resistance |
+| Side Plank | 3 × 60s/side | Max stabilization |
+
+## 🎯 TECHNIQUE/MUSCLE-UP (Wednesdays)
+
+### Weeks 1-2
+| Exercise | Sets × Reps | Focus |
+|----------|-------------|-------|
+| Chest-to-wall Handstand | 5 × 30-45s | Hollow body position |
+| Scapular Pull-ups | 3 × 8-10 | Scapular activation |
+| False Grip Hold | 3 × 15s | On rings |
+| Archer Bodyrow | 3 × 6-8/side | 2s pause at top |
+| Hollow Body Hang | 3 × 15s | Active hang |
+
+### Weeks 3-4
+| Exercise | Sets × Reps | Focus |
+|----------|-------------|-------|
+| Chest-to-wall Handstand | 5 × 45-60s | Try lifting legs |
+| High Pull-ups | 4 × 5 | To chest |
+| Kip Swing | 3 × 10 | Controlled |
+| False Grip Pull-ups | 3 × 3-5 | Slow, technical |
+| McGill's Big 3 | 2 full sets | Core stabilization |
+
+### Weeks 5-6
+| Exercise | Sets × Reps | Focus |
+|----------|-------------|-------|
+| Handstand (wall departure) | 10 min practice | Balance work |
+| Muscle-up Negatives | 3 × 3-5 | Slow descent |
+| Transition Work (low bar) | 4 × 5-8 | Transition practice |
+| High Pull-ups | 3 × 6-8 | Explosive |
+| Ring Support Hold | 3 × 20-30s | Stabilization |
+
+### Weeks 7-8
+| Exercise | Sets × Reps | Focus |
+|----------|-------------|-------|
+| Handstand practice | 15 min | Free-standing attempts |
+| Muscle-up attempts | 5-8 attempts | Max 2-3 good attempts |
+| Band-assisted Muscle-up | 3 × 3-5 | If needed |
+| Typewriter Pull-ups | 3 × 4-6/side | Upper strength |
+| Skin the Cat (ONLY if no pain!) | 3 × 5 | Careful! |
+
+## 💪 STRENGTH B (Fridays)
+
+### Weeks 1-2
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Pull-ups (wide grip) | 5 × 5 | With reserve |
+| Pike Push-ups | 4 × 8-10 | HSPU progression |
+| Bench Pistols | 3 × 5-8/leg | Assisted if needed |
+| Plank | 3 × 45s | Perfect form |
+| Easy Bridge | 3 × 20s | Instead of Skin the Cat |
+
+### Weeks 3-4
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Pull-ups | 6 × 5 | Various grips |
+| Pike Push-ups (elevated) | 4 × 6-8 | Progression |
+| Box Pistols | 3 × 8/leg | Lower box |
+| McGill Curl-up | 3 × 12 | Longer hold |
+| Archer Push-ups | 3 × 5-6/side | Control |
+
+### Weeks 5-6
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Weighted Pull-ups | 4 × 4-5 | +5kg |
+| Deficit Pike Push-ups | 4 × 5-6 | Increased ROM |
+| Shrimp Squats | 3 × 6-8/leg | Pistol alternative |
+| Pallof Press | 3 × 15/side | Resistance progression |
+| Ring Push-ups | 3 × 10-12 | Instability |
+
+### Weeks 7-8
+| Exercise | Sets × Reps | Notes |
+|----------|-------------|-------|
+| Weighted Pull-ups | 5 × 3-4 | +10kg |
+| Wall HSPU negatives | 3 × 3-5 | If possible |
+| Assisted Pistols | 3 × 5/leg | Minimal assistance |
+| Bird Dog | 3 × 15/side | 5s hold |
+| Archer Push-ups | 3 × 8/side | Full control |
+
+## 📝 Key Notes
+
+1. **Groin injury**: If anything hurts - STOP. No "pushing through"
+2. **Progression**: Add weight/difficulty only when previous week felt easy
+3. **Muscle-up**: Technique > strength. Don't rush
+4. **Core**: McGill, Bird Dog, Pallof, Side Plank are your friends
+5. **Handstand**: Additional 5-10 min daily practice if feeling good
+6. **Recovery**: Weekend = rest or MAX 20 min light technique
+
+## 🚨 Red Flags - Stop if:
+- Groin pain intensifies
+- Feel "tearing" with any movement
+- L5/S1 pain appears
+- Extreme fatigue (remember 3x/week running!)
+
+---
+
+# Section 3: Mobility - Consistency is Key
+
+## 🎯 The Approach
+
+Continuing with Calimove Mobility 2.0 every other day. Progress in mobility is subtle and cumulative - the goal is consistency, not intensity. Adding McGill's Big 3 to each session for spine hygiene and core stability without aggravating the groin injury.
+
+**Current status**: Maintaining the routine, building slowly toward better movement quality.
+
+---
+
+## 🧠 Integration Philosophy
+
+This 8-week block represents the evolution from soldier to commander:
+- **Symbiosis**: Three training modalities supporting each other
+- **Strategic loading**: Quality over quantity in every domain
+- **Injury respect**: Working around limitations, not through them
+- **Hormonal health**: Total stress management across all activities
+
+The body should be a capable tool, not a broken specialist.

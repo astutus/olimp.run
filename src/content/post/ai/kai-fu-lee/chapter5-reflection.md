@@ -4,7 +4,7 @@ title: "The Four Waves of AI – My View on a Transforming World"
 description: "Reflections on Chapter 5 of Kai-Fu Lee’s AI Superpowers — where I confront the evolving waves of AI with my personal experience and growing awareness of how even highly skilled engineers like me are being touched by this revolution."
 publishDate: "2025-06-09T08:00:00Z"
 tags: ["kai-fu lee", "AI", "narrow AI", "deep learning", "finance", "autonomy", "perception", "books"]
-hidden: false
+hidden: true
 -------------
 
 ### Chapter 5 — My Take on "The Four Waves of AI"
