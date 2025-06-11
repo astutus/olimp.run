@@ -1,0 +1,301 @@
+---
+title: "Post-Garmin Strategic Build: 8-Week Quality Focus"
+description: After 700km in 17 weeks, time for a different approach. Filling the gaps with sprints, hills, and smart recovery while protecting what matters.
+publishDate: "2025-06-11"
+tags: ["running", "training", "recovery", "strategy"]
+hidden: true
+---
+
+## 🎯 The Context – Where I'm Starting
+
+After completing 100 runs and 700km in the Garmin Coach Adaptive plan, I'm taking a strategic pivot. Two weeks of deload revealed some important signals:
+
+- **RHR climbed**: 40 → 42 bpm
+- **HRV dropped**: 120-130 → 112
+- **Base HR drifting**: Used to hold 146 bpm @5:45/km, now drifts to 155 after 1-2km
+- **Missing pieces**: Zero structured sprints or hills for 17 weeks
+- **The cost**: Testosterone took a hit from volume (libido = best biomarker)
+
+Time for the commander to make decisions, not just execute.
+
+## 🏗️ Training Zones (LTHR: 175, Max HR: 190)
+
+- **Z1**: 105-140 bpm (Recovery/Walk)
+- **Z2**: 142-150 bpm (Base)  
+- **Z3**: 152-161 bpm (Tempo)
+- **Z4**: 163-165 bpm (Threshold)
+- **Z5**: 166-191 bpm (VO2max/Speed)
+
+## 📅 Week 1 (Jun 11-17) – Conservative Restart
+
+### Tuesday ✅
+Base 6km (already done)
+
+### Thursday – Tempo Intervals
+**Structure**: 4x4min @HR 155-161 (Z3) with 90s walk  
+**Full session**:
+- Warm-up: 10-15min @Z2 (142-150) + 3x100m strides @80%
+- Main set: 4min @Z3 → 90s walk → repeat 4x
+- Cool-down: 10min @Z1-Z2 (130-145)
+- **Total**: ~40min
+
+### Saturday – Base Run
+45min @HR 142-150 (Z2)  
+Start first 10min @Z1, finish last 5min @Z1
+
+## 📅 Week 2 (Jun 18-24) – Adding Power
+
+### Tuesday – Hills Introduction
+**Structure**: 6x1min uphill @HR 166-175 (Z5) + walk down  
+**Full session**:
+- Warm-up: 10-15min @Z2 to hill base + 3x30s practice runs
+- Main set: 1min hard uphill → walk down recovery → repeat 6x
+- Cool-down: 10min @Z1 on flat
+- **Total**: ~40min
+
+### Thursday – Threshold Work
+**Structure**: 2x10min @HR 163-165 (Z4) with 3min walk  
+**Full session**:
+- Warm-up: 15min @Z2 + 4x100m strides @85%
+- Main set: 10min @Z4 → 3min walk → 10min @Z4
+- Cool-down: 10-15min @Z1 (130-140)
+- **Total**: ~48min
+
+### Sunday – Structured Fartlek
+**Structure**: 45min total
+- 10min warm-up @Z2 (142-150)
+- 8x(90s @Z4 163-165 / 90s @Z2 142-150)
+- 10min cool-down @Z2
+
+## 📅 Week 3 (Jun 25 - Jul 1) – Sprint Introduction
+
+### Tuesday – First Sprints
+**Structure**: 6x100m @95% effort with full recovery  
+**Full session**:
+- Warm-up: 15min @Z2 + dynamic stretching + 4x50m build-ups
+- Main set: 100m sprint (HR will hit >175) → 2-3min walk → repeat 6x
+- Cool-down: 10-15min @Z1 + static stretching
+- **Total**: ~45min
+
+### Thursday – Tempo Continuous
+**Structure**: 20min @HR 157-161 (Z3 upper range)  
+**Full session**:
+- Warm-up: 10-15min @Z2 + 3x100m strides
+- Main set: 20min steady @Z3 (aim for ~5:10-5:20/km)
+- Cool-down: 10min @Z1-Z2
+- **Total**: ~45min
+
+### Saturday – Long Base
+60min @HR 142-150 (Z2)
+
+## 📅 Week 4 (Jul 2-8) – Building Volume
+
+### Tuesday – Extended Hills
+**Structure**: 8x90s uphill @HR 170-180 (Z5) + walk down  
+**Full session**:
+- Warm-up: 10-15min @Z2 + 3x30s hill strides
+- Main set: 90s hard → walk down → repeat 8x
+- Cool-down: 10min @Z1
+- **Total**: ~45min
+
+### Thursday – Threshold Intervals
+**Structure**: 3x8min @HR 163-165 (Z4) with 2min jog @Z1  
+**Full session**:
+- Warm-up: 15min @Z2 + 4x100m strides
+- Main set: 8min @Z4 → 2min @Z1 → repeat 3x
+- Cool-down: 10min @Z1
+- **Total**: ~50min
+
+### Sunday – Progressive Run
+**Structure**: 50min total
+- 20min @Z2 (142-150)
+- 15min @Z3 (152-161)
+- 10min @Z4 (163-165)
+- 5min @Z5 (>166)
+
+## 📅 Week 5 (Jul 9-15) – VO2max Introduction
+
+### Tuesday – VO2max Intervals
+**Structure**: 5x800m @HR 175-185 with 400m jog @Z1  
+**Full session**:
+- Warm-up: 15-20min progressive (Z1→Z2→Z3) + 4x100m strides
+- Main set: 800m hard (~3:20, ~4:10/km) → 400m recovery → repeat 5x
+- Cool-down: 15min @Z1 (really slow!)
+- **Total**: ~55min
+
+### Thursday – Tempo/Threshold Combo
+**Full session**:
+- Warm-up: 15min @Z2 + strides
+- Main set: 15min @HR 157-161 → 3min walk → 10min @HR 163-165
+- Cool-down: 10min @Z1
+- **Total**: ~50min
+
+### Saturday – Extended Base
+60-70min @HR 142-150 (Z2)
+
+## 📅 Week 6 (Jul 16-22) – Peak Power
+
+### Tuesday – Sprint Pyramid
+**Structure**: 200m, 300m, 400m, 300m, 200m @HR >175  
+**Full session**:
+- Warm-up: 15min @Z2 + dynamic drills + strides
+- Main set: Equal walk time between each (200m sprint = 200m walk)
+- Cool-down: 15min @Z1
+- **Total**: ~50min
+
+### Thursday – Extended Threshold
+**Structure**: 3x10min @HR 163-165 (Z4) with 2min jog @Z1  
+**Full session**:
+- Warm-up: 15min @Z2 + 4x100m
+- Main set: 10min @Z4 → 2min @Z1 → repeat 3x
+- Cool-down: 10-15min @Z1
+- **Total**: ~55min
+
+### Sunday – Hard Fartlek
+**Structure**: 50min total
+- 10min warm-up @Z2
+- 10x(2min @Z4-Z5 165-175 / 1min @Z2 142-150)
+- 10min cool-down @Z2
+
+## 📅 Week 7 (Jul 23-29) – Race Preparation
+
+### Tuesday – VO2max Peak
+**Structure**: 6x600m @HR 180-187 with 3min walk  
+**Full session**:
+- Warm-up: 20min progressive + strides
+- Main set: 600m all-out (~2:20-2:30) → 3min walk → repeat 6x
+- Cool-down: 15min @Z1
+- **Total**: ~60min
+
+### Thursday – Threshold Test
+**Structure**: 25min @HR 163-165 (Z4)  
+**Full session**:
+- Warm-up: 15min @Z2 + strides
+- Main set: 25min steady hard (aim ~4:50-5:00/km)
+- Cool-down: 15min @Z1
+- **Total**: ~55min
+
+### Saturday – Final Long Base
+70min @HR 142-150 (Z2)
+
+## 📅 Week 8 (Jul 30 - Aug 5) – Taper & Test
+
+### Tuesday – Speed Maintenance
+**Structure**: 10x200m @maximal with 90s walk  
+**Full session**:
+- Warm-up: 15min + dynamics + strides
+- Main set: 200m sprint → 90s walk → repeat 10x
+- Cool-down: 15min @Z1
+- **Total**: ~50min
+
+### Thursday – Pace Check
+**Structure**: 20min @HR 161-165 (upper Z3/lower Z4)
+- Test sustainable race pace
+- Full warm-up and cool-down protocol
+
+### Sunday – 5K Time Trial
+**Goal**: Sub-21:50  
+**Strategy**:
+- Full warm-up: 20min progressive + 4x100m strides
+- Race: Negative split (start @4:25/km, finish @4:15/km)
+- Target HR: 180-187 (like previous PR efforts)
+
+## 🚨 Critical Execution Rules
+
+### Warm-up Non-Negotiables
+- **Minimum times**: 10min for tempo, 15min for threshold, 20min for VO2max
+- **Strides**: Always 80-90% effort, never 100%
+- **Ready signals**: HR responds normally, slight sweat, legs feel light
+
+### Recovery Protocols
+- **Between sprints/hills**: Always walk (full CNS reset)
+- **Between VO2max**: Slow jog or walk @Z1
+- **Between threshold**: Light jog @Z1 (130-140)
+- **Walk breaks**: Strategic tool, not weakness
+
+### Weekly Monitoring
+**Green lights (proceed as planned):**
+- Morning HRV >110
+- RHR <42
+- Legs feel springy after warm-up
+
+**Yellow lights (modify intensity):**
+- HRV 100-110
+- RHR 42-44
+- Legs heavy but loosening up
+
+**Red lights (recovery day only):**
+- HRV <100
+- RHR >45
+- HR won't enter target zone
+- Any pain (not normal fatigue)
+
+### Volume Progression
+- Weeks 1-2: ~20-22km (restart phase)
+- Weeks 3-4: ~24-26km (building phase)
+- Weeks 5-6: ~28-30km (peak volume)
+- Weeks 7-8: ~30-32km (with race taper)
+
+## 💪 Supporting Elements
+
+### Daily Requirements
+- **Mobility**: 10min every evening (non-negotiable)
+- **Sleep**: 8h minimum during VO2max weeks
+- **Hydration**: Track color, not volume
+
+### Post-Workout Protocols
+- **After sprints/hills**: Cold shower on legs (2-3min)
+- **After threshold/tempo**: 10min walk + static stretching
+- **After VO2max**: 15min walk + legs up wall 5min
+
+### Nutrition Focus
+- **Pre-hard sessions**: Light carbs 2h before
+- **Post-hard sessions**: Protein within 30min
+- **Daily**: Maintain 2900kcal to support testosterone recovery
+
+## 📊 Expected Adaptations
+
+### By Week 4:
+- RHR trending back toward 40
+- HRV consistently >115
+- Base pace HR stabilizing
+- Sprint power returning
+
+### By Week 8:
+- RHR ≤40 bpm
+- HRV >120 consistently
+- Base pace @5:45 holds at HR 146
+- Can hit 180+ HR without destruction
+- Testosterone recovered (libido normalized)
+- 5K pace feels controlled, not desperate
+
+## 🎯 Decision Points Post-Cycle
+
+**If hit sub-21:50 + feel good:**
+- New Garmin Adaptive @3x/week
+- Focus on 10K next
+
+**If close but exhausted:**
+- Repeat weeks 5-8 with 10% less volume
+- Add swimming for recovery
+
+**If feeling incredible:**
+- Greg McMillan advanced plan
+- Push toward sub-21:00
+
+**If any injury signals:**
+- Full stop
+- 2 weeks swimming/mobility only
+- Reassess with sports medicine
+
+## 🧠 Philosophy Reminder
+
+This isn't about one PR. It's about:
+- Building a body that performs when needed
+- Protecting hormonal health
+- Maintaining life balance
+- Training like a commander, not just a soldier
+
+The 17 weeks of volume built the engine. These 8 weeks add the turbo while keeping the engine intact.
+
+Remember: Symbiosis over specialization. Performance as a tool, not an identity.
