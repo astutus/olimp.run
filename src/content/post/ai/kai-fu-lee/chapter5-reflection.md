@@ -1,49 +1,65 @@
 ---
 
-title: "AI Superpowers – The Rise of Chinese Engineers"
-description: "Reflections on Chapter 4 of Kai-Fu Lee’s book — a look at how China is shifting from copying to creating in the world of AI engineering."
-publishDate: "2025-06-09T08:00:00Z"
-tags: \["kai-fu lee", "AI", "china", "usa", "open science", "deeptech", "books"]
+title: "The Four Waves of AI – My View on a Transforming World"
+description: "Reflections on Chapter 5 of Kai-Fu Lee’s AI Superpowers — where I confront the evolving waves of AI with my personal experience and growing awareness of how even highly skilled engineers like me are being touched by this revolution."
+publishDate: "2025-06-04T08:00:00Z"
+tags: ["kai-fu lee", "AI", "narrow AI", "deep learning", "finance", "autonomy", "perception", "books"]
 hidden: false
 -------------
 
-### Chapter 4 — My Take on "Copycats, Masters, and Makers"
+### Chapter 5 — My Take on "The Four Waves of AI"
 
-This chapter hits differently. I see myself here — a future AI engineer, someone trying to navigate the waves of technology that keep getting more abstract and powerful. From simple Linux servers to virtual machines, then containerization and Kubernetes, and now\... AI. Possibly the most profound shift of all.
-
-Kai-Fu Lee introduces four waves of AI. As in the previous chapter, I find the framing slightly artificial, but I get it — each wave builds on data, and the output of one wave becomes the input for the next. Still, this structure doesn't fully convince me.
-
-**The first wave — internet AI** is about narrow AI that recommends and personalizes. The examples feel uninspired to me — YouTube, Amazon, Netflix. These are *simple* narrow AIs. But to be clear: narrow AI itself amazes me, especially large language models. It’s just that the first wave showcases a rather mundane subset.
-
-**The second wave — "real" AI**, as I would put it, is where things get serious. Algorithms trained on structured data start showing actual intelligence. What fascinates me is how humans tend to draw conclusions from strong traits, while AI extracts correlations from *weak* ones. That’s a different mode of thinking altogether.
-
-**The third wave — perception AI** felt less exciting at first, but I now realize it enables AI to step outside the screen and into the physical world. That’s the foundation of the offline revolution. Even if the tech doesn’t wow me, its implications are massive.
-
-**The fourth wave — autonomous AI** is thrilling and terrifying. It excites me because it's a place where narrow AI already outperforms human "intelligence" in specialized domains. But it's also a wave that deeply worries me. I can see how many people could be replaced, with no real fallback jobs in sight. Massive social disruptions could follow.
-
-I remember hearing about autonomous trucks in 2021 or 2022, especially Volvo's tests. I thought: this is just about regulations now — the tech works. And yes, I felt sorry for truck drivers. But I also thought I was safe. I was a highly-skilled IT engineer. Untouchable. But just a few years later, I realized: I’m replaceable too.
-
-That moment changed something in me. It’s one of the reasons I’m diving so deep into AI right now — reading *AI Superpowers*, but also Melanie Mitchell’s *AI: A Guide for Thinking Humans*. I want to confront my assumptions.
+Kai-Fu Lee outlines four waves of AI development: internet AI, business AI, perception AI, and autonomous AI. While I appreciate this framework, I can't help but feel that these are not neatly sequential stages. Rather, they seem like overlapping processes, all happening with different intensities and at different levels of maturity.
 
 ---
 
-### China Rising: From Copycats to Contributors
+**1. Internet AI — Basic and Often Annoying**
 
-Kai-Fu Lee argues that China is no longer just imitating — it's innovating. I mostly agree. Chinese engineers were long seen as testers and polishers. But this is shifting. He shows numbers: Chinese researchers now account for almost half of AI conference publications. That says a lot.
+Lee starts with what he calls the "internet wave" of AI. For me, this represents the most primitive forms of narrow AI — recommendation engines like those used by Amazon, Netflix, or YouTube. These systems never impressed me. When I didn’t actively interact with them, their predictions were poor, and their constant nudging felt invasive. This might be due to my European sensibility around privacy — even if I'm not obsessed with it, it shapes how I react to these systems.
 
-Most of this momentum comes from applied innovation. China has more data related to the physical world: public surveillance, logistics, manufacturing. Meanwhile, the U.S. still dominates in finance, medicine, and deep tech.
+Still, it's important to clarify: *narrow AI as a category* fascinates me — especially large language models. It's these simple recommender systems that underwhelm me.
 
-As I noted earlier, Kai-Fu Lee seems emotionally closer to China, so he highlights its strengths. But the U.S. remains dominant in foundational research, elite universities like MIT and Stanford, and deeptech startups that awaken people like me to the reality that we’re entering a new era.
-
-It’s also worth noting that AI progress doesn’t happen in isolation. It's not just engineering — it's culture, regulation, and politics.
+And when Lee says the U.S. has a small lead here, I'm left wondering how solid those numbers are.
 
 ---
 
-### Students and Open Science
+**2. Business AI — Where "Real AI" Emerges**
 
-A small but important note: students today have an unfair advantage. They can access real-time breakthroughs through arXiv.org, GitHub, and open-source communities. It's worth remembering that access to knowledge has never been more democratized — and more overwhelming.
+This second wave excites me the most. I see it as the birthplace of what I call “real AI.” Here, algorithms extract patterns from data that humans can’t detect — outperforming human intelligence in specific domains. Lee's example of a Chinese lending app that calculates risk using unconventional parameters like smartphone battery level was eye-opening.
+
+While he called that data point absurd, I see a logic: people who panic about keeping their phone charged may also be more conscientious debt repayers.
+
+He nailed it when he explained *why* AI outperforms humans here: we focus on strong, obvious features — AI thrives on identifying weak signals that humans ignore.
+
+Lee argues the U.S. is far ahead in this wave because of its historical obsession with tracking and labeling everything in finance and healthcare. That makes sense. And honestly? This is the wave that amazes and terrifies me at once. I see how many jobs it could replace — without offering much in return.
 
 ---
 
-This chapter left a mark on me. It connects directly to my life and ambitions. I’m part of this transformation. And I'm trying to stay afloat, while knowing the tide is still rising.
+**3. Perception AI — Gateway to the Physical World**
+
+Lee calls the third wave “perception AI,” mostly about image and audio recognition. On the surface, nothing here shocks me. But he shifts focus to how AI blends the online and offline worlds — for instance, smart stores where sensors and perception AI know your habits, where items are, and what your fridge needs.
+
+What strikes me is that *this wave allows AI to escape the screen* — and that could lead to a massive offline revolution.
+
+It also reveals a geographic imbalance: the U.S. dominates data-heavy domains like finance and medicine, but China has more physical-world data — an advantage in this wave.
+
+---
+
+**4. Autonomous AI — Futuristic, but Not Distant**
+
+The final wave is autonomy, mostly applied to vehicles. Lee contrasts Google’s perfectionist approach (develop the full stack before release) with Tesla’s iterative method (deploy pieces progressively). Surprisingly, Tesla caught up — and that made me think of how Chinese AI operates more like Tesla.
+
+But Lee adds something wild: in China, the government is willing to adapt the *infrastructure* to match autonomous needs. Roads might be redesigned for self-driving cars. That’s futuristic — but no longer science fiction.
+
+It reminds me of 2021–2022, when I first heard about Volvo’s autonomous truck tests. They worked shockingly well. I remember feeling sympathy for truck drivers — but also safety about my own IT career. A few years later, I realized: I, too, am replaceable. That’s a big reason I’m reading *AI Superpowers* and Melanie Mitchell’s *AI: A Guide for Thinking Humans*.
+
+---
+
+**Final Thoughts — I’m in This Era, Too**
+
+Reading this chapter, I felt something deeper: I’m not just observing — I’m *inside* this shift. I’m one of those future AI engineers, the kind who’s lived through the Linux server days, then virtualization, then containerization… and now? Possibly the most transformative shift of all.
+
+Lee’s wave metaphor still leaves me slightly unconvinced. Yes, each wave builds on data from the previous, but in practice they feel like concurrent movements. Still, I appreciate his clarity — especially where it lets me reflect on my own place in this evolution.
+
+This chapter made something clear: AI is already outperforming us in many domains. And for those of us in tech, we’re not immune — we’re the next in line. Better understand it than ignore it.
 
