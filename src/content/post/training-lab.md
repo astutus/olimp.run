@@ -36,8 +36,14 @@ Time for the commander to make decisions, not just execute.
 
 ## 📅 Week 1 (Jun 11-17) – Conservative Restart
 
-### Tuesday ✅
-Base 6km (already done)
+### Monday – Assessment Run
+**Structure**: Test current fitness level
+**Full session**:
+- Warm-up: 15min @Z2 (142-150)
+- Main set: 20min @Z3 (152-161) - note what pace you can hold
+- Cool-down: 10min @Z1 (130-140)
+- **Total**: ~45min
+- **Purpose**: Baseline data - see what pace holds at Z3 after deload
 
 ### Thursday – Tempo Intervals
 **Structure**: 4x4min @HR 155-161 (Z3) with 90s walk  
