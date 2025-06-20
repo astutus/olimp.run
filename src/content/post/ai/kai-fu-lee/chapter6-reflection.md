@@ -76,7 +76,7 @@ It still struggles with:
 
 **So yes, your plumber is safer than your project manager.**
 
-Blue-collar workers didn't realize that the path to building robots is much longer than simple algorithm implementation, which is already much better than knowledge workers at the most important tasks. Physical workers relying on dexterity and unstructured environments will be replaced in the more distant future — robots are further in the future. But they still have the advantage of local indivisibility and physical access — you can't do plumbing from China, but you can already design documents remotely.
+White-collar workers didn't realize that the path to building robots is much longer than simple algorithm implementation, which is already much better than knowledge workers at the most important tasks. Physical workers relying on dexterity and unstructured environments will be replaced in the more distant future — robots are further in the future. But they still have the advantage of local indivisibility and physical access — you can't do plumbing from China, but you can already design documents remotely.
 
 Lee drops a powerful comparison:
 
