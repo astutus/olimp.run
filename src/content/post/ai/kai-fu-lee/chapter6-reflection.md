@@ -16,7 +16,7 @@ Back in 2019–2020, I remember noticing advancing automation in various places 
 
 At the time, I still felt safe in my "knowledge worker" bubble. Even as automation crept into IT and digital workflows, I thought my skill set was too specialized, too complex to be replaced.
 
-That illusion collapsed in 2024 when I saw what GPT-4 could do — and how fast it got there. Suddenly, it wasn't just others whose jobs were on the line. It was mine. And probably yours too.
+That illusion collapsed in 2024 when I saw what GPT-4 could do — and how fast it got there. The last mindblowing moment for me was realizing how good GPT and Claude are at psychology (I always treated these tools dismissively in this aspect). Suddenly, it wasn't just others whose jobs were on the line. It was mine. And probably yours too.
 
 ## 🧪 Forget AGI. The real crisis is already here.
 
@@ -88,7 +88,7 @@ Even worse: if your "mental tractor" (AI) can do 80% of your work, your negotiat
 
 We need to mention the accelerators of change. AI = software is instant deployment — 'click' and it's done. VCs are doing their work, and China with its over billion people, no longer being just copycats, are bringing massive intellectual potential and entrepreneurial drive — like adding new processing layers and new GPU/TPUs to a neural network, affecting the quality and speed of results. Plus their entrepreneurs with new implementations and new AI use cases.
 
-In such a system, there won't be time for adaptation that humanity previously had (e.g., 2 generations to adopt electricity).
+In such a system, there won't be time for adaptation that humanity previously had (e.g., 2 generations to adopt electricity). AI can devour entire industries in years, not the decades that previous revolutions required.
 
 ## 📉 The Macabre Matrix of Job Replacement
 
@@ -132,7 +132,7 @@ Lee emphasizes that AI will likely eliminate white-collar jobs faster than blue-
 
 ## 🏆 AI takes everything: the monopoly of the future
 
-AI is designed for monopoly. Those who are pushing forward now will rule and will have an insurmountable advantage. USA and China are crushing it, while the rest of the world falls behind. There's no time to catch up — AI technology scales exponentially, and early access to the best talent, data, and capital will determine who wins.
+AI is designed for monopoly. Those who are pushing forward now will rule and will have an insurmountable advantage. USA and China are crushing it, while the rest of the world falls behind. There's no time to catch up — AI technology scales exponentially, and early access to the best talent, data, and capital will determine who wins. Plus, AI has network effects: the more data, the better the model, the more users, the more data — creating an unstoppable feedback loop.
 
 This isn't like previous tech revolutions where smaller countries could "catch up" over decades. AI rewards those who are first and punishes everyone else.
 
@@ -178,6 +178,8 @@ All while techno-optimists keep saying: "It'll be fine."
 But will it?
 
 Let's not be Luddites. But let's also not be fools.
+
+There's no time to waste — we need to prepare for this and it's not about simple binary answers. Those who want to survive should digest this topic, spend more time reflecting to find themselves in the future world. This might be the first moment when that clichéd interview question "where do you see yourself in 5 years?" makes REAL sense.
 
 ---
 
