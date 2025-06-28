@@ -3,7 +3,7 @@
 title: "Reflections on Love, Labor, and the Global AI Gamble"
 description: "Reflections on Chapters 7–9 of Kai-Fu Lee's AI Superpowers — from cancer and unconditional love to four-day workweeks, UBI, and the thin hope of global cooperation."
 publishDate: "2025-06-26T08:00:00Z"
-tags: \["kai-fu lee", "AI", "future of work", "love", "UBI", "posthumanism", "books"]
+tags: ["kai-fu lee", "AI", "future of work", "love", "UBI", "posthumanism", "books"]
 hidden: true
 ------------
 
