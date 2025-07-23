@@ -1,6 +1,6 @@
 ---
 title: Amy Plan – The Most Brutal Start Yet
-publishDate: "2025-06-15T10:00:00Z"
+publishDate: "2025-07-15T10:00:00Z"
 ---
 
 On June 15th, I officially began the **Amy Parkerson-Mitchell 5K Garmin Plan** — with a time goal of **22 minutes on 5K**.
