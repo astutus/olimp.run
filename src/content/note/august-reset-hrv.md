@@ -1,5 +1,5 @@
 ---
-title: August Reset – HRV Peak, Sleep Discipline and Caffeine Victory
+title: August Reset – HRV Peak, Sleep and Caffeine Victory
 publishDate: "2025-08-23T10:00:00Z"
 ---
 
