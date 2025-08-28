@@ -29,13 +29,19 @@ Now I follow an **8-hour eating window**, starting in the morning and finishing 
 
 ### Genetic markers that shaped this shift:
 
-* `rs780094` – sensitivity to carb timing (early carbs = good, late carbs = fat gain)
-* `rs9939609` (FTO) – hunger regulation, tendency to overeat
-* `rs174537` – fat metabolism, increased inflammation with excess omega-6
-* `rs4988235` – lactose tolerance (mine = tolerant, but not enthusiastic)
-* `rs4994` (ADRB3) – impacts fat-burning capacity
-* `rs1558902` – satiety signaling, impulsivity with food
-* `rs1535` – low DHA levels, increased demand for omega-3 (now supplementing with Nordic Naturals DHA)
+| SNP (rsID) | Genotype | Interpretation                                                                  |
+| ---------- | -------- | ------------------------------------------------------------------------------- |
+| rs780094   | GG       | Best carb tolerance in the morning, fat gain if late-day carb load              |
+| rs9939609  | AA       | FTO protective variant – low natural appetite, strong satiety                   |
+| rs174537   | GG       | Inflammation-prone with omega-6; benefit from more omega-3                      |
+| rs4988235  | CT       | Intermediate lactose tolerance – okay in moderation                             |
+| rs4994     | CC       | Slower fat-burning efficiency (ADRB3), especially under high-carb load          |
+| rs1558902  | AA       | Better satiety and food control, less impulsive eating                          |
+| rs1535     | TT       | Low DHA synthesis – needs external supplementation (taking Nordic Naturals DHA) |
+
+### My type (in plain English):
+
+> Efficient, low-appetite carb-burner — but only if meals are well-timed and clean. I thrive on **early-day structure**, moderate carbs, and low-stress routines.
 
 This isn’t about following a trend.
 It’s about **syncing my behavior with my biology** — and respecting the subtle truths my body has been showing me all along.
