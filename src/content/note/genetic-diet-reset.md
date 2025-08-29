@@ -1,48 +1,102 @@
 ---
 
-title: Genetic Reset – Eating Window and Food Triggers
-publishDate: "2025-08-27T10:00:00Z"
+title: Genetic Cognitive Blueprint – Ideal Daily Cycle
+publishDate: "2025-08-28T10:00:00Z"
 -----------------------------------
 
-A recent podcast reminded me how deeply individual our dietary needs can be.
-So I decided to check my **genetic profile** — not just out of curiosity, but to see what my DNA actually says about what helps or hurts my performance.
+For a long time, I sensed that my brain had **two modes**: strong analytical bursts in the morning, and calm, structured reflections in the evening. I finally decided to put that intuition to the test by analyzing my genetics — and it turns out I was spot on. 🧬
 
-Turns out? My body had been whispering the truth all along.
+Thanks to my SNP profile (especially **PER3**, **COMT**, **BDNF**, **ASB1**, **DRD2**, **ADRA2B**), I now understand not only *how* I learn best, but *when*, *how long*, and *in what mental state*. This post is my blueprint — a cognitive schedule based on **genetic traits**, **self-observation**, and **biochemical optimization**.
 
-The analysis confirmed many of my long-held intuitions:
+---
 
-* I naturally **prefer carbs** and metabolize them well, but I gain fat easily if they come too late in the day.
-* I don't crave fatty meats — and genetically, I'm better off **avoiding saturated fats and processed meats**.
-* My body doesn't handle **overeating late at night**. This isn't just a lifestyle thing — it's in my genes.
+## 🧠 Cognitive Chronotype: My Genetic Style
 
-That last point hit home the hardest. So I’ve returned to what older generations used to say:
-**"Don’t eat late."**
+| Trait      | Genotype | Insight                                                                                    |
+| ---------- | -------- | ------------------------------------------------------------------------------------------ |
+| **PER3**   | CC       | Morning-focused brainpower, better analysis early in the day                               |
+| **COMT**   | AA       | High dopamine = intense focus, but also easy overstimulation – I need structured intervals |
+| **BDNF**   | CT       | Slower neuroplasticity – I learn deeply, but need repetition and rhythm                    |
+| **ASB1**   | CC       | Strong response to daylight – morning routines are biologically optimal                    |
+| **DRD2**   | GG       | Higher dopamine signaling, good reward-based learning, but prone to multitasking trap      |
+| **ADRA2B** | Del/Del  | Strong emotional memory – reflection and meaning-making are key to encoding                |
 
-Now I follow an **8-hour eating window**, starting in the morning and finishing no later than **16:00–17:00**. The goal isn’t restriction — it's alignment.
+---
 
-### What I’m avoiding:
+## 🧬 Ideal Day – Based on Genetics & Real Life
 
-* Evening meals
-* Late-night snacking (especially sugars)
-* Saturated animal fats (like pork or fatty beef)
-* Overeating in general — my appetite control genes are strong, I just have to let them work
+Yes, I work 8–17, but I *embed learning into my job*, and I structure deep work blocks in sync with my biology.
 
-### Genetic markers that shaped this shift:
+### ⏰ 07:30 – Wake up, Morning Alpha
 
-| SNP (rsID) | Genotype | Interpretation                                                                  |
-| ---------- | -------- | ------------------------------------------------------------------------------- |
-| rs780094   | GG       | Best carb tolerance in the morning, fat gain if late-day carb load              |
-| rs9939609  | AA       | FTO protective variant – low natural appetite, strong satiety                   |
-| rs174537   | GG       | Inflammation-prone with omega-6; benefit from more omega-3                      |
-| rs4988235  | CT       | Intermediate lactose tolerance – okay in moderation                             |
-| rs4994     | CC       | Slower fat-burning efficiency (ADRB3), especially under high-carb load          |
-| rs1558902  | AA       | Better satiety and food control, less impulsive eating                          |
-| rs1535     | TT       | Low DHA synthesis – needs external supplementation (taking Nordic Naturals DHA) |
+* Wake, hydrate, dog walk, daylight.
+* **Anki review while walking** – perfect match with how my brain starts the day.
+* Creative but lightweight activities welcome (music, languages, light journaling).
 
-### My type (in plain English):
+### ⏰ 08:00–12:00 – Deep Work Peak
 
-> Efficient, low-appetite carb-burner — but only if meals are well-timed and clean. I thrive on **early-day structure**, moderate carbs, and low-stress routines.
+* AI learning, math, architecture, systems – hardest tasks first.
+* Pomodoro cycles (2× 50:10) with timer.
+* I don’t multitask here. Dopamine is high, so I guard my attention carefully.
 
-This isn’t about following a trend.
-It’s about **syncing my behavior with my biology** — and respecting the subtle truths my body has been showing me all along.
+### ⏰ 12:00–13:00 – Recovery & Lunch
+
+* Walk or powernap (10–15 min).
+* If I do IF (Intermittent Fasting), this is my first big meal.
+
+### ⏰ 13:00–16:00 – Productive Flow
+
+* Writing, code practice, debugging.
+* Second Anki/language session (15–20 min).
+* **Piano practice** fits perfectly here (neuroplasticity window).
+
+### ⏰ 16:00–17:00 – Transition Out
+
+* Strength training or dog walk.
+* Mental deload from productive mode.
+
+### ⏰ 17:00–22:00 – Reflective Mode
+
+* Philosophy, strategy, chess analysis.
+* Reading, journaling.
+* **Evening = my deep reflection zone**, but not for learning brand new technical stuff.
+* **Chess works well here** — surprisingly, I play better in the evening than in the morning. Strategic thinking kicks in.
+* **Puzzle tactics** (short bursts) fit better around 13–16.
+
+### 🛌 23:00 – Sleep
+
+* My body *requires* 8 hours.
+* I used to experiment with 06:00 wakeups, but despite the amazing mental clarity early on, I’d burn out by 12:00.
+* Best combo? Sleep at 22:30–23:00, wake at 06:30–07:30.
+
+---
+
+## 🎯 Summary: Optimal Rules
+
+* ✅ Morning = load RAM (deep learning)
+* ✅ Afternoon = productive execution + creativity
+* ✅ Evening = strategic reflection + journaling + chess
+* ❌ No multitasking, no overstimulation
+* ❌ Don’t underestimate sleep – my **deep sleep (NREM)** is key for memory consolidation
+
+---
+
+## 🧠 Bonus: NeuroForge Stack (from September)
+
+To support my profile (low BDNF activity, intense dopamine use, energy-demanding brain), I’m launching a smart neuroprotection + cognition protocol:
+
+* **Uridine + DHA + Citicoline** – membrane & synapse support
+* **PQQ + CoQ10 + ALCAR** – mitochondria & energy
+* **Magnesium L-Threonate + Rhodiola** – stress buffering & plasticity
+
+---
+
+## 🔚 Final Thought
+
+I push myself hard – like an athlete, but with my mind. This schedule doesn’t restrict me. It protects me — from burnout, distraction, and wasted energy.
+
+This is what my **genetic architecture** taught me. Now I respect it.
+
+And on Sundays?
+I rest, reflect, and plan. As it was always meant to be. ☀️
 
