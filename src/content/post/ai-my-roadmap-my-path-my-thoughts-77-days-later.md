@@ -41,7 +41,7 @@ My flashcards tell a story — a journey from first definitions to the inner wor
 
 I started with the **big picture**: what intelligence means, how AI is divided into fields like ML, CV, NLP, knowledge representation, and generative AI. I learned to classify AI by capability levels — from narrow AI to AGI and ASI — and saw that the dividing line is adaptability across tasks. This gave me the taxonomy I needed to not get lost.
 
-Then I moved into **Machine Learning fundamentals**. I understood that ML is about training mathematical functions on data instead of hand-coding rules, and that the model is just the trained function with parameters (weights, biases). I mapped out the main paradigms: supervised, unsupervised, and reinforcement learning. Supervised meant classification and regression. Unsupervised meant clustering and PCA. RL meant agents, actions, rewards, policies, and trial-and-error learning. Already here I saw a core principle: it’s the data quality, not the algorithm, that dominates outcomes.
+Then I moved into **Machine Learning fundamentals**. I understood that ML is about training mathematical functions on data instead of hand-coding rules, and that the model is just the trained function with parameters (weights, biases). I mapped out the main paradigms: supervised, unsupervised, and reinforcement learning. I internalized ML paradigms in my own words: supervised learning was about mapping inputs to known labels (regression, classification). Unsupervised felt like finding hidden structures (clustering, PCA). Reinforcement learning, for me, became the story of agents learning by trial and error — actions, rewards, and policies slowly shaping behavior. Already here I saw a core principle: it’s the data quality, not the algorithm, that dominates outcomes.
 
 Next came **traditional algorithms**: linear regression, logistic regression, decision trees, k-NN, SVMs. I drilled into their internals: loss functions, splitting, regression to the mean. That made me comfortable reading models as functions, not black boxes.
 
@@ -78,7 +78,11 @@ Through these months, I confronted my own “fears.” Not pejorative fears, but
 
 Another great revolution is unfolding — one that hits white-collar jobs first. Specialized blue-collar work (a plumber, for example) will be safe for longer, but the direction is clear. Policies already show preparation: shorter workweeks, universal basic income pilots (e.g., by Y Combinator, where Sam Altman was involved), and [reports that consistently forecast a bleak outlook for jobs](https://olimp.run/posts/ai/kai-fu-lee/chapter6-reflection/).  
 
-This led me to broader reflections. The Industrial Revolution shifted us from the **Physical Era** (muscles) to the **Mental Era** (intellect). AI is now challenging the mental domain — machines will outperform us in intellectual tasks. What’s next? Perhaps a **Personal and Spiritual Era**, where humans finally have space to grow emotionally, socially, and spiritually.  
+This led me to broader reflections. The Industrial Revolution shifted us from the **Physical Era** (muscles) to the **Mental Era** (intellect). AI is now challenging the mental domain — machines will outperform us in intellectual tasks. What’s next? Perhaps what comes next is not another Mental Era, but something deeper: **Personal and Spiritual**, with Social as a bridge along the way.  
+
+Humanity has evolved tremendously in the mental domain — science, technology, AI itself — but emotionally we have remained almost unchanged for thousands of years. Wars, conflicts, power struggles: they look the same now as they did centuries ago.  
+
+If machines surpass us in intellectual work, what remains is the unfinished frontier of our own humanity: emotional maturity, self-knowledge, and purpose. This may finally be the time when we can work on what has always been left behind.
 
 Thinkers like Sadhguru and Michael Brown (*The Presence Process*) highlight this path: focusing not on running endlessly in the wheel, but on inner growth. Most people will drown in passivity, but a minority could use this shift to build a better, more meaningful life — maybe even a utopia.  
 
