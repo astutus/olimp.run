@@ -2,7 +2,7 @@
 
 title: Genetic Cognitive Blueprint – Ideal Daily Cycle
 publishDate: "2025-08-28T10:00:00Z"
------------------------------------
+---
 
 For a long time, I sensed that my brain had **two modes**: strong analytical bursts in the morning, and calm, structured reflections in the evening. I finally decided to put that intuition to the test by analyzing my genetics — and it turns out I was spot on. 🧬
 
