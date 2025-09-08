@@ -8,7 +8,7 @@ hidden: false
 
 
 I’ve just finished Robert Greene’s *Mastery* — twenty hours of audiobook.  
-This was part of [my ongoing reading plan](notes/books), where I balance deeper, long-term processes like *The Presence Process* with other works that spark reflection.
+This was part of [my ongoing reading plan](/notes/books), where I balance deeper, long-term processes like *The Presence Process* with other works that spark reflection.
 
 For most of it I felt disappointed. I wasn’t listening with much attention, because I was irritated by how easily Greene slipped into interpreting the thoughts of people long gone, attributing to them motives and feelings they never wrote down.  
 But then I reminded myself: he devoted a huge amount of time to tracing these lives, trying to find patterns. Even if his conclusions are not always true, they are meant to show us a possibility, a direction, a *narrative*. And in the end I saw him for what he is — not a researcher, but a **storyteller**. His role is not to prove laws, but to spark curiosity.  
