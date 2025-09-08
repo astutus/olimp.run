@@ -1,8 +1,6 @@
 ---
 title: "NeuroForge 3.0 – Cycle Start (Sept 8, 2025)"
-date: 2025-09-08
-tags: ["health", "brain", "supplements", "neuroforge", "training", "berkeley"]
-draft: false
+publishDate: 2025-09-08
 ---
 
 # 🚀 Start of the 3rd Cycle – aiming for massive growth
