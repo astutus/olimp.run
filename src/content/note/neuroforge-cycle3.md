@@ -1,6 +1,6 @@
 ---
 title: "NeuroForge 3.0 – Cycle Start (Sept 8, 2025)"
-publishDate: 2025-09-08
+publishDate: "2025-09-08T10:00:00Z"
 ---
 
 # 🚀 Start of the 3rd Cycle – aiming for massive growth
