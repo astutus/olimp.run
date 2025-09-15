@@ -26,6 +26,15 @@ Most importantly, she reminded me that AI did not *begin* in 2023 with ChatGPT. 
 
 ---
 
+## A mindblowing detour: EMI
+
+One thing I have to give Mitchell credit for is introducing me to **EMI (Experiments in Musical Intelligence)** by David Cope.  
+Decades before deep learning, Cope built a system that could analyze a composer’s style and generate new pieces indistinguishable from the original. Mozart “compositions” written by EMI fooled listeners into believing they were authentic.  
+
+This was mindblowing for me: proof that creative AI didn’t begin with GPT or diffusion models. Even in the 1980s and 90s, algorithms were already trespassing into the sacred territory of human creativity.  
+
+---
+
 ## Part Two: *Looking and Seeing*
 
 This section pushed me the hardest, and gave the most technical substance. Neural networks inspired by neuroscience, feed-forward layers, the virtual cortex analogy: light hitting the retina, activating cones and rods, passing through the optic nerve, triggering neurons in the occipital cortex layer by layer.  
