@@ -3,7 +3,7 @@ title: "AI: A Guide for Thinking Humans — Reflections"
 description: "Two months with Melanie Mitchell’s book, read in 2025, six years after its publication. Between history, convolutional networks, AlphaGo, Winograd schemas, and the eternal AI effect."
 publishDate: "2025-09-15T08:00:00Z"
 tags: ["Melanie Mitchell", "AI", "books", "reflection", "history of AI", "AlphaGo", "Winograd"]
-hidden: true
+hidden: false
 ---
 
 # 🤖📚 Reflections on Melanie Mitchell — *Artificial Intelligence: A Guide for Thinking Humans*
