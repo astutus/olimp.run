@@ -1,5 +1,5 @@
 ---
-title: "The First Law of Influence: Stop Criticizing, Start Understanding"
+title: "Stop Criticizing, Start Understanding"
 description: "Inspired by Dale Carnegie’s timeless wisdom, I began rethinking how I interact with others — and how true strength comes not from judgment, but from understanding."
 publishDate: "2025-10-11T21:00:00Z"
 tags: ["reflection", "social intelligence", "carnegie", "psychology", "personal growth"]
