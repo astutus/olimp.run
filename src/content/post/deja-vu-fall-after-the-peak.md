@@ -1,6 +1,6 @@
 ---
 title: "Déjà vu – the Fall After the Peak"
-date: 2025-10-30
+publishDate: "2025-10-30T16:00:00+01:00"
 tags: ["training", "5K", "Garmin Coach", "Amy Plan", "recovery", "reflection"]
 description: "A reflection after completing Amy’s 5K time-goal plan — the familiar pattern of peaking and then crashing again."
 ---
