@@ -1,6 +1,6 @@
 ---
 title: "Training Lab: Rebuild Block – Strength + Easy Base"
-description: "Post-season 4-week rebuild: 2× full-body strength + 3× Z2 runs after a hard 5K season and mild overreaching.
+description: "Post-season 4-week rebuild: 2× full-body strength + 3× Z2 runs after a hard 5K season and mild overreaching."
 publishDate: "2025-11-18"
 tags: ["training", "running", "strength", "rebuild", "experiment"]
 hidden: true
