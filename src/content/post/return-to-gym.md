@@ -50,6 +50,23 @@ One thing didn’t make sense:
 > **free testosterone kept sinking**,  
 > and the **only marker consistently out of range was DHEA-S**.
 
+For reference, these were my actual DHEA-S results over time:
+
+- **19 Feb 2025:** 155.5 µg/dl  
+  (after a running deload: only 2×5 km per week, but still heavy calisthenics)
+
+- **13 Jun 2025:** 131.36 µg/dl  
+  (during peak training load)
+
+- **21 Nov 2025:** 142.4 µg/dl  
+  (current)
+
+The pattern was clear:  
+**every time overall load dropped, DHEA-S went up.  
+Every time intensity returned, DHEA-S fell again.**
+
+This confirmed that my issue wasn’t testosterone at all — it was long-term HPA axis stress.
+
 I don’t even know my baseline DHEA-S, because I only started measuring it when things were already bad — but it has been **stuck in the low end of the range** for almost two years.
 
 That was the missing piece.
