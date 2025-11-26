@@ -104,16 +104,56 @@ Invite; don’t corner.
 
 ---
 
-#### Principle 5 — Get the Other Person Saying “Yes, Yes” Immediately.
+#### Principle 5 — Get the Other Person Saying “Yes, Yes” Immediately
 
-Socrates stacked small, undeniable **agreements** until the conclusion felt self-evident.  
-Don’t start where you differ. Start where you already agree, then progress in short steps.
+This is one of Carnegie’s most powerful — and underrated — techniques. And once you see it, it becomes obvious.
 
-Pattern:
-1. “We both want X.” — **Yes.**  
-2. “And we agree Y would put X at risk.” — **Yes.**  
-3. “So testing Z before rollout protects X without slowing us down.” — **Yes.**
+Socrates used it over 2,000 years ago: before diving into a difficult topic, he would lead his opponent through a series of small, undeniable questions — all of which invited a simple answer: “Yes.”
 
-One “No” hardens identity; many small “Yes”es relax it.  
-You’re not trapping — you’re **building a path they helped pave**.
+Why does it work?
+
+Because "No" shuts the body and mind down. The moment someone says "No," their pride, biology, and ego rush to defend it — even if they start doubting it inside.
+
+But when a person says a few “Yeses” in a row, something shifts. The tension softens. You’re no longer seen as a threat — you’re part of the same side.
+
+This isn’t manipulation. It’s a way to keep conversations from turning into ego battles — and turn them into actual connection.
+
+Carnegie’s advice? Don’t start with where you disagree — start with where you already agree. Values. Goals. Shared ground. Stack small “yes” questions early — and only later lead into your proposal.
+
+Because by that point, your idea won’t feel like a challenge — it’ll feel like the natural next step.
+
+> **Principle 5:** *Get the other person saying “yes, yes” immediately.*
+
+---
+
+#### Principle 6 — Let the Other Person Feel That the Idea Is Theirs
+
+This one hit uncomfortably close.
+
+Carnegie points out something most of us don’t want to admit:  
+Even our **friends** would rather talk about *their* wins than listen to us list ours.  
+And *if even friends feel that way*, what do you think strangers feel?
+
+It stung, because I could immediately think of moments where I did the opposite.  
+Moments where someone shared something and I felt the need to add my own result — not to brag, but because I was proud.  
+Still… pride isn’t always connection.  
+And Carnegie makes it painfully clear: even good people can be repelled by someone else’s self-congratulation.
+
+Then came the quote that sealed it:
+
+> “If you want enemies, be better than your friends.  
+> If you want friends, let your friends be better than you.”
+
+Luckily, I don’t have that hunger to dominate.  
+I *want* friends who are better than me — they raise my bar.  
+But I also know I sometimes share too much, too fast.  
+Carnegie’s advice is brutally simple: **talk about your own wins only when people ask.**
+
+Let others speak.  
+Let them take the lead.  
+Let them shine.
+
+That’s the shift. And that’s the work.
+
+> **Principle 6:** *Let the other person do a great deal of the talking.*
 
