@@ -62,7 +62,7 @@ When you’re tired, structure beats willpower.
 
 ---
 
-# Pillar 1: Separate the people from the problem
+## Pillar 1: Separate the people from the problem
 
 Fisher & Ury emphasize that negotiators are human. Ignore the human layer and the whole thing can collapse.
 
@@ -81,7 +81,7 @@ They propose treating “people problems” through three lenses:
 - **Emotion**
 - **Communication**
 
-## Perception: stop negotiating against your own assumptions
+### Perception: stop negotiating against your own assumptions
 
 People routinely infer intent from incomplete signals. We turn interpretations into “facts.”
 
@@ -95,7 +95,7 @@ A practical move: do something that violates their expectation.
 
 Example: if they expect confrontation, show up calm, polite, and structured. It’s a **pattern interrupt** that often de-escalates the room.
 
-### Give them participation (ownership)
+#### Give them participation (ownership)
 
 If you want someone invested in a solution, let them co-create it:
 
@@ -105,7 +105,7 @@ If you want someone invested in a solution, let them co-create it:
 
 This is not surrender; it’s creating **ownership**.
 
-### Face-saving (keeping dignity intact)
+#### Face-saving (keeping dignity intact)
 
 People resist solutions that make them look weak, wrong, or humiliated.
 
@@ -113,7 +113,7 @@ Your proposal must fit their value system — especially with institutions or fo
 
 ---
 
-## Emotion: recognize identity triggers
+### Emotion: recognize identity triggers
 
 They suggest paying attention to identity-level interests:
 
@@ -125,7 +125,7 @@ They suggest paying attention to identity-level interests:
 
 In my experience, role/status is massive with formal decision-makers.
 
-### Don’t hide emotion — acknowledge it strategically
+#### Don’t hide emotion — acknowledge it strategically
 
 “Talking about emotion” doesn’t mean emotional dumping.
 
@@ -142,13 +142,13 @@ Also: don’t react impulsively to emotional outbursts. Let the pressure vent, t
 
 ---
 
-## Communication: three common failures
+### Communication: three common failures
 
 1) People speak “to the audience” (performance) instead of to each other.  
 2) People don’t hear because they’re rehearsing their response.  
 3) People misunderstand — often not because of language, but because of **different definitions**.
 
-### Tools that actually work
+#### Tools that actually work
 
 - **Active listening**: paraphrase + confirm.
 - Speak to be understood: one thought per sentence, reduce ambiguity.
@@ -159,7 +159,7 @@ Example:
 - “You’re discriminating against me.” (diagnosis)
 - “I feel treated unfairly / disadvantaged by this process.” (I-statement)
 
-### Talk to achieve an objective
+#### Talk to achieve an objective
 
 Over-communication is a tax.
 
@@ -175,7 +175,7 @@ Rule: if a sentence does not move toward your goal, don’t say it.
 
 ---
 
-# My summary: prevention beats confrontation
+### Pillar 1 takeaway: prevention beats confrontation
 
 The most underrated prevention:
 
@@ -185,25 +185,6 @@ The most underrated prevention:
 
 This isn’t “being nice.” It’s a disciplined way to keep negotiation from degrading into ego battles.
 
-## Practical micro-checklist (when tired)
-
-**Analysis**
-- What do *I* want (interests)?
-- What do *they* likely want (interests)?
-- What constraints exist?
-
-**Planning**
-- objective criteria (2–3)
-- options (A/B)
-
-**Discussion**
-- paraphrase + confirm
-- define terms (“What does ‘not possible’ mean exactly?”)
-- say less; ask better questions
-
-If I had to compress the entire approach into one line:
-
-> Don’t win the arm-wrestling. Change the game — with structure, criteria, and disciplined communication.
 
 ## Pillar 2: Focus on interests, not positions
 
@@ -347,7 +328,7 @@ Many negotiation frameworks either teach assertiveness (hard) or empathy (soft).
 Once you internalize this split, “interests vs positions” stops being abstract.
 It becomes a disciplined way to fight for your interests without making the other side your enemy.
 
-### My takeaway
+### Pillar 2 takeaway
 
 “Interests over positions” is not a magic key. It’s a **diagnostic tool** and a **solution generator**:
 
@@ -404,7 +385,7 @@ Fisher & Ury propose a practical counter-method:
 
 ---
 
-## 1) Separate inventing from deciding (brainstorming, with guardrails)
+### 1) Separate inventing from deciding (brainstorming, with guardrails)
 
 Their primary tool is **brainstorming**, ideally with others. You generate many ideas first, without critique, and only later switch into evaluation mode.
 
@@ -416,7 +397,7 @@ The key principle stands:
 
 ---
 
-## 2) Expand your options (avoid the “single-answer” trap)
+### 2) Expand your options (avoid the “single-answer” trap)
 
 Options are not a luxury; they are the difference between being trapped and having room to maneuver.
 
@@ -426,7 +407,7 @@ Instead of asking “What is the best answer?”, force yourself to ask:
 
 Fisher & Ury treat the negotiation table as a place where you should arrive with **choice**, not with one fragile proposal.
 
-### The “swing” between the specific and the general (the circular diagram)
+#### The “swing” between the specific and the general (the circular diagram)
 
 A central method they propose is generating more options by moving back and forth between **specific** and **general** thinking. The diagram is essentially a loop of four thinking modes:
 
@@ -448,7 +429,7 @@ This is the practical value of the model:
 
 > One decent option becomes a generator for more options.
 
-### Other option-expansion techniques
+#### Other option-expansion techniques
 
 Fisher & Ury add several additional ways to multiply ideas:
 
@@ -463,7 +444,7 @@ Fisher & Ury add several additional ways to multiply ideas:
 
 ---
 
-## 3) Look for mutual gains (they are often hidden)
+### 3) Look for mutual gains (they are often hidden)
 
 Mutual gains are rarely obvious. They can be buried under positions and under the assumption of a fixed pie.
 
@@ -479,7 +460,7 @@ When you find potential mutual gains, name them explicitly. They become fuel for
 
 ---
 
-## 4) Make it easy for them to decide (reduce their decision pain)
+### 4) Make it easy for them to decide (reduce their decision pain)
 
 This section is deceptively important.
 
@@ -495,7 +476,7 @@ The goal:
 
 > Present them with a decision that is as low-pain as possible.
 
-### Don’t hand them a problem; hand them a justified option
+#### Don’t hand them a problem; hand them a justified option
 
 They note a common dynamic:
 
@@ -513,7 +494,7 @@ They also recommend thinking about what the other side is afraid of, and designi
 
 ---
 
-## My takeaway
+### Pillar 3 takeaway
 
 Pillar 3 is not “be creative.” It is a disciplined process:
 
@@ -526,4 +507,26 @@ In other words:
 
 > Expand the space of solutions — and reduce the cost of choosing one.
 
+---
 
+## Practical summary: Analysis → Planning → Discussion (when tired)
+
+This is the operational checklist I want available when I’m tired, emotionally activated, or simply short on time.
+
+**Analysis**
+- What do *I* want (interests)?
+- What do *they* likely want (interests)?
+- What constraints exist?
+
+**Planning**
+- objective criteria (2–3)
+- options (A/B)
+
+**Discussion**
+- paraphrase + confirm
+- define terms (“What does ‘not possible’ mean exactly?”)
+- say less; ask better questions
+
+If I had to compress the entire approach into one line:
+
+> Don’t win the arm-wrestling. Change the game — with structure, criteria, and disciplined communication.
