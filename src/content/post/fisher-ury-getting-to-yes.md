@@ -509,6 +509,120 @@ In other words:
 
 ---
 
+## Pillar 4: Insist on objective criteria
+
+If Pillar 2 is about *diagnosing* what’s really going on (interests), Pillar 4 is about *deciding* in a way that doesn’t depend on willpower, dominance, or who can endure discomfort longer.
+
+Fisher & Ury’s claim is blunt:
+
+> Resolve differences by using standards that are **independent of either side’s will**.
+
+In practice, this pillar is the antidote to “because I say so.”
+
+It also gives you a clean rule for staying calm under pressure:
+
+> Be **open to reason**, **deaf to threats**.
+
+“Reason” means arguments tied to legitimate standards. “Threats” include ultimatums, emotional blackmail, appeals to blind trust, and any form of pressure that tries to replace justification.
+
+### What counts as “objective” criteria?
+
+A good criterion is:
+
+- **independent** (not “my preference”)
+- **legitimate** (defensible to a neutral observer)
+- **practical** (usable, not philosophical)
+- passes a **reciprocity test** (you would accept it if roles were reversed)
+
+Examples Fisher & Ury point to include:
+
+- market value / prevailing rates  
+- precedent and social practice  
+- scientific assessment  
+- professional standards  
+- efficiency, cost, feasibility  
+- likely court decision  
+- equal treatment and consistency  
+- moral standards (careful: only if both sides accept them)  
+- reciprocity
+
+The point is not to find the One True Standard. The point is to move the conversation from “positions” to “standards” — and sometimes to combine several standards rather than pretending only one exists.
+
+### When standards clash: use fair procedures
+
+Sometimes the interests are genuinely in conflict and multiple standards point in different directions. In that case, “objective” can mean **fair process**, not just fair numbers.
+
+Classic examples:
+
+- one person cuts, the other chooses  
+- sequence decisions (agree on process first, then the hard decision)  
+- use a neutral expert / arbitration  
+- even a coin flip (primitive, but fair)
+
+A fair procedure is an “objective criterion” in disguise: it removes arbitrariness and makes outcomes easier to accept without humiliation.
+
+### How to use objective criteria in conversation (three moves)
+
+Fisher & Ury propose a simple execution model:
+
+1) **Frame each issue as a shared search for standards**  
+   Instead of “your number vs my number,” make the problem:
+   “What standard should decide this?”
+
+   A practical prompt:
+   - “What is this based on?”
+   - “How did you arrive at that?”
+
+2) **Reason about which standards apply, and how**  
+   Insisting on standards does not mean insisting on *your* standard.
+
+   Two standards can both be legitimate. The negotiation may become:
+   - choosing the most appropriate one, or
+   - blending standards, or
+   - switching to a fair procedure if standards collide.
+
+3) **Never yield to pressure — yield only to principles**  
+   Pressure comes in many forms:
+   - threats and ultimatums  
+   - bribes  
+   - manipulative “trust me” appeals  
+   - refusal to move (“take it or leave it”)
+
+   The response is not emotional resistance. It is a procedural redirect:
+   - ask for reasons
+   - propose a legitimate standard
+   - agree to adjust *only* on that basis
+
+A useful mental trick: it is easier to refuse a demand than to refuse a person.
+You can say:
+
+- “I can’t accept that without a standard that justifies it.”
+- “If we agree on criteria, I’m flexible on structure. Without criteria, we’re just arm-wrestling.”
+
+### Why this works against “hard” negotiators
+
+Hard negotiators win when the game is about endurance and dominance.
+Objective criteria changes the win condition.
+
+It forces them to either:
+- justify their position using legitimate standards, or
+- reveal they have no justification — only leverage.
+
+Either way, the conversation becomes clearer.
+And clarity is power.
+
+### Pillar 4 takeaway
+
+Objective criteria is not “being fair” in a moral sense.
+It is a tactical move:
+
+> Replace willpower battles with standards and procedures that a neutral observer could accept.
+
+When you insist on criteria, you’re not being stubborn.
+You’re refusing to let the outcome depend on who pushes harder — and demanding it depend on what makes sense.
+
+---
+
 ## Practical summary: Analysis → Planning → Discussion (when tired)
 
 This is the operational checklist I want available when I’m tired, emotionally activated, or simply short on time.
