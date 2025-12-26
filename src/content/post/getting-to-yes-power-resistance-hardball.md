@@ -1,5 +1,5 @@
 ---
-title: "Getting to Yes (Part 2): Power, Resistance, and Hardball Tactics"
+title: "Getting to Yes: Power, Resistance, and Hardball Tactics"
 description: "BATNA as real leverage when the other side is stronger — plus the follow-up layers: negotiation jujitsu and handling hardball tactics."
 publishDate: "2025-12-25T12:00:00Z"
 tags: ["negotiation", "getting-to-yes", "fisher-ury", "batna", "leverage", "conflict-resolution"]
