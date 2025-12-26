@@ -13,8 +13,6 @@ Part 2 moves into what Fisher & Ury treat as the “under pressure” reality:
 - what to do when they refuse to play (**Resistance / negotiation jujitsu**)  
 - what to do when they use dirty tricks (**Hardball tactics**)
 
-Today’s note covers the first layer only: **BATNA**.
-
 ---
 
 ## Power: what to do when they are stronger (BATNA)
@@ -258,7 +256,7 @@ Their alternative is simple in principle and hard in execution:
    Notice what is happening without reacting impulsively. The first win is not getting emotionally recruited into their script.
 
 2) **Name it and make it discussable.**  
-   Raise it explicitly as a process issue — without personal обвинение. Use “I” language and describe behavior, not intent.
+   Raise it explicitly as a process issue — without personal accusation. Use “I” language and describe behavior, not intent.
 
    - “It feels like we’re using a good-cop/bad-cop routine here.”
    - “This sounds like pressure rather than a standard we can justify.”
