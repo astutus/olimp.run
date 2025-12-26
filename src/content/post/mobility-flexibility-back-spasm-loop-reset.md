@@ -41,16 +41,16 @@ Then reality showed up. With a receipt.
 On **18 December 2025** I did my usual session.  
 During **pancake** and some hip “push-out” style drills, I felt something in my back. Not dramatic — just a warning.
 
-The next day I went to the gym anyway (because of course I did):  
-**Bulgarian split squats**, **Romanian deadlifts**, and **squats**.
+Later that same day I still went to the gym (because of course I did) and trained lower body:
+**Bulgarian split squats** and **Romanian deadlifts**.
 
-That’s when it happened: a sharp shooting pain on the **right side** of my lower back, close to the spine — the classic “postrzał” feeling.
+That’s when it happened: a sharp, shooting pain on the **right side** of my lower back, close to the spine — an **acute low back spasm** kind of moment.
 
 Two years ago I had a similar episode on the **left** (likely around **L5/S1**).  
 This time it was the mirror version: **right side**.
 
 The day after was brutal.  
-Second day: even worse.  
+Day two wasn’t worse — just *not better* — and I took a tablet to help it release faster.
 Then it started to release — I could run again, walk, train — but something still felt “off” in the background.
 
 ---
@@ -127,4 +127,9 @@ Mobility is still a system I want in my life — just with guardrails.
 
 Because the goal is not to win a flexibility score.  
 The goal is to stay durable enough to train tomorrow.
+
+One more thing: I’m done outsourcing this to an app.
+
+I’ll build my own short mobility routines as a **Garmin workout list**, tailored to my body and my history — and I’ll run them daily on my terms.  
+The habit is already built. Now I just need a safer system, with my own “do-not-do” exercise list and zero randomness.
 
