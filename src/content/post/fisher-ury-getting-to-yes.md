@@ -208,13 +208,23 @@ However, the point is not that interests always create agreement. The point is t
 
 ### Behind opposing positions, there are usually mixed interests
 
-Fisher & Ury emphasize that behind opposing positions you can find:
+Fisher & Ury address this directly. They distinguish three categories of interests:
 
-- **shared interests** (both want efficiency, predictability, closure, a stable working relationship, reputation, time savings)
-- **compatible interests** (each values different things, so trades become possible)
-- **conflicting interests** (often real, but not always the only axis)
+1. **Shared interests** — both sides want the same thing (stability, good relationship, maintained asset).
+2. **Different but compatible interests** — each side wants something different, but the differences don't collide (one cares about timing, the other doesn't; one wants X for reason A, the other avoids X for reason B).
+3. **Conflicting interests** — more for one means less for the other (price, territory, allocation).
 
-The practical value: instead of treating negotiation as “who outlasts who,” you start treating it as “what are the constraints and what can we trade without breaking them.”
+Their key claim: **conflicting interests are rarely the only interests at play**.
+
+They illustrate this with a landlord/tenant example:
+
+- **Shared**: both want stability, both want the apartment well-maintained, both prefer a good relationship.
+- **Different but compatible**: the landlord doesn't want to repaint (cost), the tenant doesn't want repainting either (allergic to paint fumes). Or: the tenant prefers paying on the 1st, the landlord doesn't care about the exact date.
+- **Conflicting**: rent amount.
+
+The insight: **shared and compatible interests are complementary building blocks from which a wise agreement can be constructed** — even when conflicting interests exist.
+
+The trap is assuming that "conflict" is the whole picture. In most real negotiations, it isn't — but you won't see the rest unless you map interests explicitly.
 
 ### How to identify interests (without therapy language)
 
