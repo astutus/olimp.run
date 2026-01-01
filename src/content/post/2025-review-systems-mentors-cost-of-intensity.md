@@ -28,17 +28,20 @@ This post is both the story and the diagnosis.
 These numbers are approximate — but the shape is undeniable:
 
 - **New people (1:1) initiated by me:** **0**
-- **Weeks with >2 hard sessions:** ~**47/52** (≈ **90%**)
-- **Weeks with spiritual practice outside April:** ~**44/52**
+- **Weeks with >2 hard sessions:** ~**26/52** (≈ **50%**)
+- **Weeks with spiritual practice (outside April):** ~**0**
+- **Weeks with spiritual practice (total):** ~**4/52** (April)
 
 Hard, concrete outputs:
 
 - **Pulling strength PRs:** **22 chin-ups**, **17 pull-ups**
 - **Skill milestone:** **L-sit** on bars
-- **Running:** **5K PR ~21:48**; **mile ~6:12** (milestones and repeated “pyrrhic” pushes)
+- **Running:** **5K PR 21:50** (May), then **5K PR 21:48** (October); **mile PR 6:12** (October)
 - **Chess:** broke **1400+** on two accounts; beat a **2400** bot (engine-rated)
 - **Blog:** consistent publishing and note-taking (posts + notes) all year
 - **Battles:** one major win; two high-stakes fights still ongoing (legal/administrative)
+- **Work:** a meaningful raise and a major reward; better work–life balance over time
+- **Books read/studied:** ~**17**
 
 If you read nothing else, read this:
 > This wasn’t “a bit imbalanced.”  
@@ -46,26 +49,27 @@ If you read nothing else, read this:
 
 ---
 
-## Books that shaped 2025 (reference list)
+## Books that shaped 2025
 
-This is not a “reading list.” These were inputs that actively shaped decisions, systems, and identity:
+I’m listing these as a personal reference and as proof of scale — because this year was built on inputs as much as outputs.
 
 ### Philosophy / Spiritual
 - **Marcus Aurelius — *Meditations***
-- **The New Testament** (reflections, especially around Holy Week)
+- **The Gospel of Matthew** (reflections, especially around Holy Week)
 - **Michael Brown — *The Presence Process***
 
-### Learning / Cognition / Mental models
+### Learning / Thinking / Mental models
 - **Josh Waitzkin — *The Art of Learning***
-- **Shane Parrish — *The Great Mental Models*** (series)
 - **Mortimer J. Adler & Charles Van Doren — *How to Read a Book***
-- **Kevin Horsley — *Unlimited Memory***
+- **A comprehensive learning course (Coursera): Barbara Oakley & Terrence Sejnowski — “Learning How to Learn”**
+- **Bartosz Czekała — *Kuźnia Ekspertów*** (Experts Incubator) — this one gave me more than Oakley's course; much more practical, including Anki which I still use daily
 
 ### Habits / Behavior / Personal development
 - **James Clear — *Atomic Habits***
 - **Robert Greene — *Mastery***
 - **Dale Carnegie — *How to Win Friends and Influence People***
-- **Jim Rohn** (lectures/audio as daily mentor content)
+- **Napoleon Hill — *Think and Grow Rich***
+- **Jim Rohn** (daily lectures/audio)
 
 ### Negotiation / Influence / Persuasion psychology
 - **Robert Cialdini — *Influence***
@@ -76,23 +80,32 @@ This is not a “reading list.” These were inputs that actively shaped decisio
 ### Finance / Wealth-building thinking
 - **George S. Clason — *The Richest Man in Babylon***
 - **Morgan Housel — *The Psychology of Money***
-- **Anthony Pompliano — *How to Live an Incredible Life*** (a father-to-children transmission of wisdom)
+
+### Running / Training
+- **Jack Daniels — *Daniels’ Running Formula***
 
 ### AI / Strategy
 - **Kai-Fu Lee — *AI Superpowers***
 - **Melanie Mitchell** (AI reflections and conceptual grounding)
 
-> Note: I’m listing these because readers often ask for references — and because this year was built on inputs as much as outputs.
-
 ---
 
 ## The intellectual trigger: the “reset” that set the year in motion
 
-Early in the year I created an **intellectual reset**: a structured reading plan through November.
-That mattered because it wasn’t “I want to read more.”
-It was: **here is the sequence**.
+Early in the year I created an **intellectual reset**: a structured reading plan through November.  
+Not “I want to read more,” but: **here is the sequence**.
 
-Once a sequence exists, the system runs.
+That reset gained real fuel later when I discovered Jim Rohn.
+
+He has a brutal clarity about intentional study:
+- Want to be wealthy? **study wealth.**
+- Want to be healthy? **study health.**
+- Want to be better with people? **study relationships.**
+
+And one line kept looping in my head all year:
+> One book can save you five years of searching on your own.
+
+Once a sequence exists — and you believe it matters — the system runs.
 
 That reading trajectory became the backbone for everything else:
 - reflection,
@@ -131,7 +144,14 @@ April was the “holy shift.”
 
 - I started reading **Marcus Aurelius (Meditations)** and it hit hard. Reflection, discipline, perspective — not abstract philosophy, but practical mental posture.
 - During **Holy Week**, I went deep into the **spiritual** dimension: Scripture, prayer, and intense reflection.
-- There was also an origin story: being around colleagues who took faith seriously — including Muslim friends whose discipline and daily practice made me realize how shallow my own consistency was. That contrast mattered.
+
+The origin story matters here, because it wasn’t random.
+
+I was surrounded by colleagues who took faith seriously — and specifically, Muslim friends whose discipline and daily practice made me realize how shallow my own consistency was.
+
+And one small scene stuck with me:
+on a layover in the Netherlands (on my way to the US), I saw an orthodox Jewish man praying intensely right there at the airport.  
+It was a quiet reminder: some people don’t “believe” as a concept — they *practice*.
 
 This month proved something important:
 > I can go deep spiritually and mentally — when the environment and the structure support it.
@@ -143,10 +163,8 @@ And I spent a lot of time with my daughter — school life, routines, shared tim
 ### May: Final race + “Soldier → Commander”
 May was performance and transition:
 
-- I ran the final race and hit a concrete result: **5K ~21:48**.  
-  I also logged a **mile ~6:12** later in the season.  
-  I noticed something important: performance can improve while resilience quietly degrades if governance is missing.
-- I kept reading (Waitzkin, Atomic Habits, Scripture).
+- I ran the final race and hit a concrete result: **5K PR 21:50**.
+- I kept reading (Waitzkin, Atomic Habits, Matthew).
 - I had a critical identity insight:
 
 > I can’t just “push like a soldier.”  
@@ -156,25 +174,41 @@ That’s not motivational fluff. It’s operational:
 - Soldiers execute intensity.
 - Commanders govern intensity.
 
-I also ended the Calimove cycle because I could feel the system starting to extract a tax.
+I also ended the Calisthenics/Calimove cycle for very practical reasons:
+- the CNS load became obvious (e.g., brutal high-volume pulling/dipping blocks like 9×9),
+- and from practicing L-sit I triggered a strong groin/adductor strain.
+I stopped because health and long-horizon sustainability mattered more than short-term proving.
 
-### June: AI becomes trajectory + gut recovery support
+### June: AI becomes trajectory + recovery support
 June is where **AI** became more than curiosity — it became trajectory.
 
 I went deep: long study days, structured learning, and a serious commitment to building competence rather than consuming content.
 
 I also supported recovery (gut-focused supplementation and general resilience), because performance is always physical in the end.
 
-### July: Caffeine reset + brutal running block
+### July: Caffeine reset + mountains as a fitness mirror
 July: I did a **caffeine reset** for the first time in ~15 years. It worked.
 
 Then I started a brutal running block (Amy plan). The body adapts, but it doesn’t negotiate: you either manage load, or you pay.
+
+This month also included something important outside metrics:
+a week in the mountains with my daughter (and one day hiking with her godfather, Janusz, who had recently started taking care of himself after years of neglect).
+
+The mountains gave me a mirror:  
+I realized how strong my base had become. Garmin kept showing my effort in **Z1** on climbs and long walks — something that would have been **Z4/Z5** in the past.
 
 ### August: Jim Rohn + LLMs become daily operating system
 August is when I discovered **Jim Rohn** and something clicked.
 
 I started listening daily — often during morning movement.  
 It wasn’t entertainment. It was installation of a worldview.
+
+I also started doing something primitive but powerful:
+I began journaling in the morning, writing down what I must do, and then crossing tasks off.
+
+Simple. Almost embarrassing.  
+But it built discipline fast — and now when I look back at those pages, the reaction is just:
+*wow… I actually did all that.*
 
 At the same time, my use of **LLMs** exploded. This wasn’t “asking questions.”  
 This was building a daily feedback loop:
@@ -186,8 +220,10 @@ This was building a daily feedback loop:
 
 At some point it felt like I had been running a multi-volume intellectual apprenticeship in real time.
 
-### September: AI deepening + broad reading (including AI Superpowers)
-September continued the AI path and the reading arc, including books like **AI Superpowers** and deeper reflections on what “AI transformation” really means (beyond hype).
+### September: AI deepening + Berkeley begins
+September was maximum push on AI.
+
+Reading, studying, and then starting the UC Berkeley Executive Education program in AI — a structured container that increased both discipline and ambition.
 
 A theme began to emerge:
 - input is easy when you love it,
@@ -196,14 +232,23 @@ A theme began to emerge:
 ### October: PRs, lactate experiments, and the “Fall after the peak”
 October was a paradox month:
 
-- I broke performance barriers again, but it often felt like a **pyrrhic victory**.
+- I broke performance barriers again:
+  - **mile PR 6:12**
+  - **5K PR 21:48**
 - I experimented with lactate measurement, trying to be more scientific about intensity management.
 - I observed the trade-off clearly:
 
 > Increased training load can reduce **cognitive performance**.  
 > Brain fog is not a personality flaw. It’s a bill.
 
-I also went deep into **Dale Carnegie** and human psychology — which, ironically, I mostly studied alone.
+This was also the period when Dale Carnegie hit differently.
+
+I started noticing something I had underweighted:
+> Social intelligence and networking are not “nice extras.”  
+> They are leverage.
+
+I analyzed my professional life and my observations from the year and had multiple “wow” moments:
+it’s often not the hardest worker who wins — it’s the person who understands people, incentives, and relationships.
 
 ### November: Return to the gym + formal validation in AI
 November was a structural reset:
@@ -212,9 +257,15 @@ November was a structural reset:
 - I wrapped major cycles (including NeuroForge iterations).
 - And I completed UC Berkeley Executive Education in AI **with distinction**, including an official recommendation letter.
 
-I also kept developing cognitive performance indicators outside AI:
-- **Chess** improvements (1400+ on two accounts, 2400 bot win) were not “about chess.”  
-  They were about focus, pattern recognition, and sustained thinking under constraints.
+Chess deserves a footnote here because it’s revealing:
+
+I spent **very little** time on chess this year.  
+Yet I still improved:
+- 1400+ on two accounts,
+- a 2400 bot win.
+
+That felt like skills “settling” in the background — and a fresh mind often let me see patterns I’d miss when exhausted.  
+Cognitive performance is not just training; it’s recovery and clarity.
 
 ### December: Negotiations, persuasion, and real-world tests
 December was intense in a different way.
@@ -249,21 +300,40 @@ The kind of snow that makes the world look like it rebooted.
 
 I also tried **piano**. I liked it. I had momentum — and then I didn’t.
 
-Not because it was useless, but because it never became a **system**.
+Not because it was useless, but because the habit loop never locked in.
 
-That matters because it’s a small, honest example of the core principle:
+James Clear’s point about habits is brutal and true:
+if there is no immediate reward, repetition becomes fragile.
+
+That’s exactly what happened with piano:
+- effort was real,
+- novelty was there,
+- but the “reward signal” was too delayed,
+- and without a system, it quietly died.
+
+This matters because it’s a small, honest example of the core principle:
 > What doesn’t get a slot in the system doesn’t survive — even if you genuinely want it.
 
 ---
 
 ## The finance thread: “money should work”
-A major personal insight this year was financial — not about “getting rich quick,” but about **cash flow discipline**.
+This year I started thinking about money in a sharper way.
 
-Books like *The Richest Man in Babylon* reinforced a simple rule I want to live by:
+A recurring thought appeared:
+> If I’m genuinely good at what I do… why isn’t that visible economically?
+
+Jim Rohn pushed this lever hard: study wealth like you study health or skill.
+
+Books like *The Richest Man in Babylon* reinforced a simple rule:
 > Pay yourself first.  
 > Money should **work**, not just sit.
 
-That thread expanded into broader financial thinking (behavior, psychology, systems) — an area I want to treat as a real skill, not a background topic.
+I’m now treating finance/business literacy as a domain worth “studying” intentionally.
+And I know my own pattern:
+when I commit, I tend to end up in the top 5% — sometimes the top 1%.
+
+So the question for 2026 becomes:
+can I apply the same deliberate practice mindset to business and wealth-building?
 
 ---
 
@@ -272,16 +342,24 @@ A lot of what I do, I do with one thought in the background:
 
 > I want to pass this on.
 
-Some books landed differently because they were explicitly written by fathers for their children — and that resonated deeply.  
-Anthony Pompliano and Shane Parrish didn’t write those books as “content.” They wrote them as **wisdom-transfer** — a way to compress a lifetime into something their kids could inherit.
+There’s a calibration exercise (Brian Tracy-style) that hit me:
+- What would you do if you had “enough money” tomorrow?
+- What would you do if you found out you had six months to live?
 
-That clicked with me because it describes how I think about learning:
+My answer surprised me with its clarity:
+I would try to transmit everything I learned — everything that proved valuable — to my child.
+Because nobody ever sat me down and handed me “the library.”
 
+Near the end of the year, something interesting happened by accident:
+my daughter’s godfather (Janusz) gifted me two books — and only later I noticed the meta-pattern:
+the authors (Pompliano and Parrish) wrote their books largely as **wisdom-transfer** for their own children.
+
+That resonated deeply with how I think about learning:
 - I’m not collecting knowledge for status.
 - I’m building a library of models and skills that can be passed forward.
 - I want my growth to become her leverage.
 
-And I didn’t just think about it abstractly. We did real things together:
+And this wasn’t abstract. We did real things together:
 - shared routines,
 - shared English practice (Cambly),
 - trips that create memory, not just achievement:
@@ -292,7 +370,7 @@ This is not a footnote. It’s the mission layer.
 
 ---
 
-## Social: not absent — in combat mode
+## Social: not absent — in combat mode (and why that’s not enough)
 To be precise: I had plenty of human interaction in 2025.
 
 But much of it was **transactional / adversarial / high-stakes**:
@@ -307,6 +385,28 @@ That is social interaction, but it does not build:
 - long-horizon relationships.
 
 It’s social in “combat mode,” not social in “growth mode.”
+
+And the uncomfortable fact remains:
+I initiated basically **zero** new relationships. I need to change that.
+
+One external nudge landed late in the year:
+Conor O’Neill (MBA/public speaking context) described a simple rule:
+> Meet at least **one new person per week**.
+
+He also pushed daily practice for speaking:
+recording yourself for **3 minutes a day** to build the muscle.
+
+That hit hard because it’s the opposite of my default:
+social initiation has delayed feedback, uncertainty, and risk.
+
+I also have a personal frustration here:
+when I meet people, I often feel like everyone extracts value from me, and I get little in return.
+
+Maybe that’s partly selection bias — or weak filtering — or a boundary problem.
+But it’s real enough that it creates resistance.
+
+Still: the solution is not isolation.
+The solution is better selection, better boundaries, and building a network of peers — not dependents.
 
 ---
 
@@ -338,7 +438,7 @@ This was **systematic avoidance** of domains that don’t give immediate, measur
 **Pattern:** I optimized for **control + immediate measurement**.  
 Anything requiring patience, uncertainty, dependence on others, or a long time horizon without clear metrics quietly fell out of the system.
 
-That’s why the three brutal baseline numbers matter. They convert “diagnosis” into data.
+That’s why the baseline numbers matter. They convert “diagnosis” into data.
 
 ---
 
@@ -348,11 +448,19 @@ I’m not writing a list of aspirations.
 
 I’m setting constraints — because constraints shape behavior.
 
-### Constraint #1: Physical governance
-If intensity is addictive, the fix is governance.
-- Max **2 hard sessions/week**
-- Deload cycles are mandatory
-- No “pyrrhic PRs”
+### Constraint #1: Physical governance (recovery-aware)
+I’m not 20 anymore. Recovery is not optional.
+
+No more chronic self-destruction for small performance wins.
+
+On running: I’m going to study training properly and build smarter structure:
+- use **Jack Daniels** as a foundation,
+- go deeper into **Greg McMillan**,
+- run training in **12-week blocks** (because every time I pushed beyond that without real deloads, the crash appeared).
+
+On strength/calisthenics: same principle.
+No more “prove it” cycles that overload CNS and joints.
+I’ll keep strength, but I’ll govern it.
 
 ### Constraint #2: Social floor (hygiene)
 Not “networking someday.”  
@@ -379,5 +487,10 @@ But it also exposed my shadow:
 That’s not shame. It’s data.
 
 If 2025 was the year of Jim Rohn and LLMs as mentors,  
-then 2026 must be the year of **governance**, **relationships**, and **long-horizon practice** — the domains that don’t flatter me with instant metrics, but determine the real trajectory.
+then 2026 must be the year of **governance**, **relationships**, and **long-horizon practice** — and a year where I’m more effective in terms of total cost.
+
+More social. More business thinking.
+Jim Rohn sparked the impulse, and Berkeley Haas gave me a language for the game.
+
+Now it’s time to run the next system.
 
