@@ -31,14 +31,15 @@ That combination built a worldview that I still use: **move fast, but don’t ha
 
 ### Foundations, not vibes
 
-I also did what many people skip because it’s not glamorous:
+I did what many people skip because it’s not glamorous: I built a broad and usable base before touching any “strategy” talk.
 
-- A major **Python refresh**, consolidating years of fragmented learning into a coherent toolkit.
-- Coursera’s **AI for Everyone** and **Generative AI for Everyone** — useful as high-level framing, but (let’s be honest) not enough to build real intuition.
-- A personal learning system focused on active recall, structured notes, and reducing friction.
+- A major **Python refresh**, consolidating years of fragmented knowledge into a coherent toolkit — so experimentation and prototyping wouldn’t be blocked by basics.
+- A mix of **Udemy / online courses** to fill gaps quickly and systematically (breadth first, then depth where it mattered).
+- The **Red Hat AI Foundations Technologist Certificate** — one of the few structured programs I took that felt genuinely solid and aligned with real-world constraints.
+- Andrew Ng’s Coursera courses (**AI for Everyone**, **Generative AI for Everyone**) as an *orientation layer*: good for executive framing and vocabulary, but not where you build deep intuition.
+- A personal learning system built around **active recall**, structured notes, and friction reduction — because without repetition and structure, “learning” is just consumption.
 
-Result: when I entered Berkeley, I wasn’t there to *discover AI*.  
-I was there to **stress-test my understanding** and learn how to communicate it in business language.
+This is the pre-Berkeley build I wrote down earlier: [AI: My Roadmap, My Path, My Thoughts (77 Days Later)](/posts/ai-my-roadmap-my-path-my-thoughts-77-days-later/).
 
 ## What Berkeley Actually Added: The Executive Lens
 
