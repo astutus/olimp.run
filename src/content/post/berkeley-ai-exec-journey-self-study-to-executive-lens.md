@@ -1,5 +1,5 @@
 ---
-title: "From Self-Study to Executive Lens: My UC Berkeley AI Exec Journey (and a Capstone That Got Noticed)"
+title: "Berkeley AI Exec: From Self-Study to Executive Lens"
 description: "How my 2025–2028 AI roadmap turned into structured study: foundations first, Berkeley as an executive lens, peer learning, and a Capstone recognized by Berkeley Executive Education."
 publishDate: "2025-11-18T21:00:00Z"
 tags: ["AI", "learning", "Berkeley", "career", "reflection"]
