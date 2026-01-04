@@ -35,6 +35,12 @@ This time the story was different:
 Three accounts at 1400+ is not “lucky variance” anymore.  
 Call it **validated**.
 
+### What actually changed
+The progress didn’t come from nowhere — I could feel my game was simply stronger.
+
+This time I played around **exchanges** and **restriction**: I traded only when it reduced my opponent’s piece activity and made their pieces less effective.  
+I’d read Hellsten’s *Mastering Chess Strategy* before and couldn’t apply it — now the **Exchanges** ideas finally clicked.
+
 ### Next target
 1400 is done. Next: **1500**.
 
