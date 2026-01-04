@@ -1,18 +1,18 @@
 ---
-title: "Learning Without Mentors"
-description: "A reflection on missing mentors, why LLMs unexpectedly fill the gap, and what I took from Anthony Pompliano’s letters to his kids."
+title: "Learning Without Mentors (and a Stack of Books)"
+description: "On missing mentors, why LLMs unexpectedly fill part of that gap, and what Anthony Pompliano’s letters-to-his-kids format triggered in my own thinking."
 publishDate: "2026-01-04T12:40:00Z"
 tags: ["learning", "books", "parenting", "reflection", "mental models"]
 hidden: false
 ---
 
-I often catch myself regretting something that feels oddly basic: I don’t really have anyone I can learn from directly.
+I often find myself thinking (almost with a bit of regret): I don’t really have anyone I can learn from.
 
-Not because I’m some sort of genius. It’s mostly environment and access. In my day-to-day life I’m usually the person who *teaches*, explains, or solves things. And it’s hard to find people who are *clearly better*, who would challenge me, and with whom I could live in that “symbiosis” mode — mentor, peer, sparring partner.
+Not because I’m exceptional. It’s mostly environment and access. In my circles, I’m usually the person who *gives* — explains, solves, teaches, carries. That’s not a humblebrag. It’s just how the local topology looks: I don’t have consistent proximity to people who are clearly ahead of me and would pull me upward in a “mentor / symbiosis / sparring partner” way.
 
-So I end up extracting a lot from **LLMs**. If we’re strict about it: not “life experience,” but constant *nudges* about what’s worth paying attention to, what’s incoherent in my thinking, what I’m missing. Ironically, these models probably influence me more than most people around me.
+That’s one reason I extract a lot from **LLMs**. Strictly speaking, not “life experience” — but constant prompts: *what’s worth attention*, *what doesn’t make sense in my reasoning*, *what I’m missing*. If I’m honest, LLMs probably influence my thinking more than most people around me (again: in the sense of nudges and framing, not lived reality).
 
-Fortunately, I do have one human in this category: **Janusz**, my daughter’s godfather. He consistently shows up with something valuable — not random “bestsellers,” but things that *resonate* with where my head is.
+Fortunately, I *do* have one human who reliably upgrades my inputs: **Janusz**, my daughter’s godfather. He tends to show up with recommendations that are not random. They fit my mind.
 
 Before Christmas he brought me **six books**. Three immediately grabbed me:
 
@@ -20,98 +20,167 @@ Before Christmas he brought me **six books**. Three immediately grabbed me:
 - *The Great Mental Models* — **Shane Parrish**
 - *The Principles of Economics* — **Saifedean Ammous**
 
-I started reading the first two in parallel. And I got hit by a detail that made me stop and smile: **both Pompliano and Parrish wrote their books with their children in mind** — as a transmission of what they consider their most important wisdom.
+I started reading the first two in parallel and got surprised by a detail that hit me right in the chest: **both Pompliano and Parrish wrote with their children in mind** — as a direct transmission of what they consider their most important wisdom.
 
-That landed hard, because I’ve had the same motivation for years.
+And that resonated because I’ve had the same impulse for years.
 
-I’ve always felt this urge to build a repository of what I’ve learned — the things I wish I had been given earlier — so that my daughter can start from a different baseline. Not “spoiled.” Not “protected from reality.” Just… equipped. With the kind of ideas that compress years of trial-and-error into something she can actually use.
+I’ve always wanted to collect what I learn — the things I wish I had earlier — for my daughter. Not to make her “better than others,” but to give her a massive accelerator: ideas and principles that compress years of trial-and-error into something usable.
 
-## Pompliano: a dense life, and a familiar philosophy
+## Pompliano: life density, and the weird joy of alignment
 
-I finished Pompliano’s book first. It’s essentially a set of letters — **65 of them** — written to his kids.
+I finished Pompliano first. The book is essentially **65 letters** to his kids.
 
-The first thing that hit me wasn’t even a specific lesson. It was the *density* of his life: how much he did, saw, built, risked, and learned in a relatively short time. When I compare that tempo to myself, it’s hard not to think: *wow.*
+The first thing that grabbed me was the *density* of his life. The amount of experiences, risk, work, creation, movement — how much he did in a relatively short time. When I compare his tempo to mine, it’s hard not to go: *wow*.
 
-But the more interesting part was watching how he thinks. And the funny (and comforting) part: I didn’t walk away with *tons* of new “revelations.”
+But what made me happy (weirdly) is that I didn’t walk away with 50 “new” lessons.
 
-Not because the book is shallow — but because in the last few years my own philosophy has converged with a lot of what he’s saying. It’s like reading a strong external confirmation that I’m not completely hallucinating my way through life.
+Not because the book is shallow — because **my last years have been converging** with a lot of what he believes. So reading him felt like watching a high-performing mind articulate things I already discovered (sometimes painfully), and that is a good sign.
 
-## Where I strongly agreed
+## A long list of agreement — with personal roots
 
-A lot of his “letters” mapped cleanly onto principles I already believe in — sometimes from my own experience, sometimes reinforced by people like Jim Rohn, Dale Carnegie, Fisher & Ury, Taleb, Marcus Aurelius, and modern habit literature.
+Pompliano’s letters hit many themes that are already part of my operating system. What matters to me is not just the ideas, but also **where they came from** — what shaped them in me.
 
-Instead of rewriting all 65 letters (no one needs that), here’s the compressed set of themes that most resonated:
+So here’s the “agree” list, but with my own attributions kept intact.
 
-- **Treat today as training for tomorrow.** Your daily standards become your future reality.
-- **Build a personal ethical code.** Not a slogan. A lived constraint system.
-- **Be patient with mastery.** Real excellence is compounding, not fireworks.
-- **Habits are strategy.** Not motivation. Not vibes. Systems.
-- **Finish what you start.** “Potential” without completion is just intellectual décor.
-- **Stop worshipping luck.** A lot of “luck” is positioning + repetition.
-- **Read consistently.** Not for trivia — for long-lived models.
-- **Compare up, not down.** The “worst-case comparison” is a drug.
-- **Don’t fuse identity with role.** Job titles and social roles are temporary masks.
-- **Power laws dominate outcomes.** Call it Pareto, 80/20, 95/5 — the shape is the point.
-- **Own your schedule.** If you don’t, someone else will.
-- **Respect time.** It’s the only currency you cannot earn back.
-- **Don’t complain.** It signals helplessness and trains your brain into weakness.
-- **Practice beats theory.** You don’t *know* anything until you can *do* it.
-- **Simplicity is the final form of competence.** Complexity often hides confusion.
-- **Avoid arguing with idiots online.** It’s negative ROI disguised as “debate.”
-- **Be willing to change your mind.** Stubbornness is not strength; it’s fragility.
-- **Invest in face-to-face.** Trust is built in bandwidth, not in text fragments.
-- **Surround yourself with accumulators.** Builders, not drainers.
+- **Today as training for tomorrow.** I’ve been thinking like this for a while, but Pompliano reinforced it. Jim Rohn also pushed this frame hard: you’re not “doing a day,” you’re building a person.
+- **Personal ethical code.** This is something I’m building explicitly through Jesus’ teaching and the New Testament — not as “religious vibes,” but as constraints that shape a stable identity.
+- **Patience on the road to excellence.** I didn’t get this early. I had to mature into it.
+- **The power of habits.** I internalized the first layer from Charles Duhigg, and then years later I sharpened it with James Clear and practice.
+- **Finish what you start.** I arrived at this one myself. Completion is a form of integrity.
+- **Stop over-crediting luck.** That’s also my lived observation: a lot of “luck” is consistent positioning and reps.
+- **Reading matters.** Jim Rohn again — he basically hammered this into my mind years ago.
+- **Don’t compare down. Compare up.** I’ve done this my whole life: the benchmark should be the best, not the worst.
+- **Identity not fused to job title / role.** James Clear articulated this beautifully (“identity-based habits”), but I’ve felt it for a long time.
+- **Power laws.** I knew Pareto, Pompliano talks 95/5. Label aside: the world is lopsided.
+- **Own your schedule.** I had to build this intentionally, but it’s a core part of my functioning now.
+- **Destroy clutter.** This one made me smile because I’ve never really had a clutter problem — but it’s still a good principle.
+- **Be a magnet.** Jim Rohn implanted this in me: become the kind of person people *want* to be around.
+- **Call people “for no reason.”** I do this. Random check-ins, no agenda. It compounds relationships.
+- **Let people talk about themselves.** Thank you, Dale Carnegie — still one of the highest-ROI social skills.
+- **Actually care.** People can smell indifference. I learned this the hard way and through practice.
+- **Face-to-face matters.** Fisher & Ury made this painfully obvious in negotiation contexts, but I also knew it intuitively long before.
+- **Surround yourself with accumulators.** I always felt this, but it’s hard to find those people consistently.
+- **Nobody is thinking about you as much as you think.** This is one of those liberating truths I keep relearning.
+- **Don’t stay with people who pull you down.** I came to this myself.
+- **Respect time.** Non-negotiable.
+- **Ask.** Because you won’t get what you don’t ask for. Jim Rohn made me see this clearly, and it’s still easy to forget.
+- **Don’t complain.** This one is personal: my grandma Ola taught me that. Complaining trains weakness.
+- **Don’t focus on problems. Focus on solutions.** Jim Rohn again. He was annoyingly right.
+- **Theory is theory, practice is practice.** I learned this painfully. Knowing is not doing.
+- **Simplicity is the final form of competence.** I’ve watched this pattern too many times to doubt it.
+- **Don’t argue with idiots online.** I extracted this lesson about 10 years ago and I’m strict about it.
+- **Ability to change your mind.** I’m proud of this. I matured into it earlier than most people around me.
+- **Drop pointless disputes.** Thank you again, Carnegie. “Win the argument, lose the relationship” is not a win.
+- **Satisfaction depends on comparisons.** I’ve seen it: if everyone around you has more, you can be objectively wealthy and still unhappy.
+- **Write down valuable ideas.** I built this habit, and Jim Rohn reinforced it.
+- **Spend less than you make.** Learned, internalized, boring — and essential.
+- **Photos / memory capture.** Not universal, but I see his point.
+- **Black swans shape the world.** Taleb made this obvious to me.
+- **Sitting on the couch is life leakage.** I used to live that way years ago. Then I woke up.
+- **Live as if it’s a documentary about you.** Joe Rogan once said this and it stuck — it’s a surprisingly sharp filter.
+- **Memento mori.** Marcus Aurelius forced this into my awareness in a way that actually changed behavior.
+- **The power of walking.** This is personal: I built it into my daily recovery between deep work blocks. Walking is a reset button.
+- **Training (physical, running).** Same category: not “fitness,” but nervous-system maintenance and identity building.
+- **Attack the day with positive intent.** This one I trace to Tommy Robbins (Jim Rohn’s student): start with energy, not dread.
+- **Sleep is the foundation.** This is one where I read it and went: yes. Exactly. I *know* it in my body.
+- **Intuition as a great algorithm.** I trust it more now than I did earlier.
+- **Writing letters.** Which is why I write this blog / diary — and it’s not really public or indexed. It’s mainly a memory system.
 
-Some of these I learned explicitly (Carnegie’s “let people talk about themselves,” Fisher & Ury’s emphasis on direct communication, Taleb’s black swans). Some I learned painfully by getting it wrong and paying the bill.
+That list is long, but the point is simple: Pompliano’s “letters” are basically a compacted worldview. Reading it is like getting a guided walkthrough of someone’s operating system — and checking where yours already matches.
 
-## Where I disagreed (and why it matters)
+## The entrepreneur angle — where we differ (and where it hurt)
 
-There’s one theme I *do not* fully agree with — and it’s important enough to say it plainly.
+There’s a whole set of recommendations that are clearly “entrepreneur mode.” This is where Pompliano’s life path diverges from mine, and where I felt both inspiration and a bit of self-critique.
 
-Pompliano pushes the idea that you shouldn’t treat childhood as a burden or a limiting factor. The intention is good: don’t outsource your future to your past. Don’t use it as an excuse.
+- **Create and act — don’t build your life around working for someone else.** He understood this early and oriented around it.
+- **Switch jobs multiple times rather than stagnating.** He argues that *five* job changes with ~2-year cycles can build faster than wasting 10 years in one place.
 
-But here’s the uncomfortable reality: **childhood can be a massive, objective disadvantage.**
+This one hit me personally.
 
-And not in some poetic “everyone has problems” way. In a literal “starting-line” way. Some people start the 100m sprint from 400m behind.
+I think I made this mistake twice. Staying too long, “being loyal,” telling myself I’m learning — and later realizing I paid with time. That “eh, I was losing” feeling is real. It’s also a lesson I don’t want my daughter to learn the hard way.
 
-Pompliano’s kids are (very likely) going to grow up in an ideal environment. Which is great. But if you teach them a simplistic “childhood isn’t a factor” narrative, you risk producing something ugly: a moral lens where they judge others as weak or lazy — when those others were carrying a real burden, often invisible.
+Another place where we differ is investing.
 
-So yes: don’t let your past define you. But also: don’t pretend the distribution of starting conditions is fair. That’s not wisdom — that’s privilege with a motivational poster.
+### Investing: sell early vs hold long (my disagreement)
 
-## Three ideas that genuinely upgraded my thinking
+Pompliano leans into the idea of **selling earlier** instead of obsessing over catching the peak. I understand the intent — avoid greed, avoid round-tripping paper gains — but my default stance is closer to **Morgan Housel**: *time in the market beats timing the market*. And even more bluntly, the old **Andrew Carnegie** line: don’t treat investing like speculation.
 
-Even with strong overlap, there were a few points that sharpened things for me:
+What’s interesting is that Pompliano partially circles back later — he also talks about buying **high-quality, long-term assets** and, in some cases, holding “forever.” That version resonates with me much more.
 
-### 1) The Chinese Farmer story (attributed to Alan Watts)
+So my current synthesis looks like this:
 
-The lesson is brutal in its simplicity: in the moment, you often cannot know whether an event is “good” or “bad.” Outcomes propagate. Second- and third-order effects dominate. We judge far too early, with far too little information.
+- If you’re holding something with **weak fundamentals**, “sell early” is a useful antidote to wishful thinking.
+- If you’re holding **durable assets**, optimizing for the peak can be a trap — but so is flipping too soon. The edge often comes from *not selling*.
 
-I’ve seen this in real life: something that looked like a disaster later became a rescue; something that looked like a win later became a trap.
+I’m keeping this tension in mind, because it’s easy to rationalize either side depending on mood. The real question is: am I acting from a model — or from dopamine.
 
-It’s also a useful correction to the instinct to blame God (or fate) immediately. Sometimes you’re simply too early in the causal chain to interpret anything correctly.
+Other entrepreneur-mode points I found genuinely useful:
+
+- **Reduce the amount of work you place on your manager’s desk.** “Super hint.” It’s counterintuitive, but it maps to leverage and trust.
+- **As a leader, be ready to change rules when they’re illogical.** Don’t confuse rigidity with principle.
+- **Ask others: “Can I help?”** It’s funny because Carnegie also teaches the same move — but Pompliano frames it through network compounding.
+- **Spend time with people at your level.** Not as arrogance, but as network dynamics: those people also rise, and you rise together.
+- **Invite interesting people.** This is actionable. It’s not “networking,” it’s creating collisions with high-signal humans.
+
+## A direct disagreement: childhood *can* be a disadvantage
+
+One thing across the 65 letters bothered me.
+
+Pompliano pushes a narrative that childhood is not a ball and chain. I understand the intention: don’t outsource responsibility to your past.
+
+But there’s a blind spot here: **some childhoods are objectively heavy baggage.**
+
+Not everyone starts equal. Some people start the 100m sprint from 400m behind.
+
+Pompliano *says* he didn’t have an easy life, but from my perspective he still doesn’t fully grasp what genuinely hard childhood can do — and what implications it has years later.
+
+And here’s the part I find risky: his kids will grow up in an ideal environment. They are not the target audience for “don’t blame childhood.” If you teach this message to privileged kids without nuance, you risk training them into a shallow moral lens — judging people who had a brutal starting condition as weak or lazy.
+
+So: yes, don’t use childhood as an excuse. But also: don’t pretend the playing field is fair.
+
+## Three ideas that genuinely sharpened my thinking
+
+Even with lots of overlap, there were a few points that upgraded my internal model.
+
+### 1) The Chinese Farmer story (Alan Watts)
+
+The lesson: in the moment, you often cannot know whether something is “good” or “bad.”
+
+Second- and third-order effects dominate. Judging early is often just arrogance wearing a mask.
+
+I’ve seen this in life — in my own trajectory and in other people’s. Things that looked like disasters turned into rescue. Things that looked like wins turned into traps.
+
+It’s also a correction to the urge to blame God immediately: sometimes you simply don’t see far enough down the causal chain.
 
 ### 2) A Socratic lens on suffering
 
-Paraphrasing the quote:
+Paraphrasing:
 
-If everyone put their misfortunes into one pile and each person had to take an equal share, most would grab their own problems back and leave.
+If everyone put all their misfortunes into one pile, and each person had to take an equal share, most would take their own problems back and leave.
 
-That matches my observation. People often imagine other lives as “easy.” But if they could actually *swap*, they’d hesitate. Many would prefer their own set of problems — because at least they know how to handle them.
+Yes. Exactly.
+
+I’ve always felt that many people would gladly trade for my problems — because at least my problems are solvable with discipline. Most people underestimate what others are carrying.
 
 ### 3) A “content diet” as seriously as a food diet
 
-Pompliano’s wife framed it simply: you guard your nutrition, but you don’t guard your inputs.
+This one came from Pompliano’s wife and it’s a clean frame:
 
-Why would you feed your brain junk every day and expect it to produce clarity?
+You guard your nutrition, but you don’t guard your inputs.
 
-Even if some news and “current events” are useful, most of it is short-lived noise. The better default is to build your mind on long-lived ideas: books, durable models, skills, principles — not outrage cycles.
+Why feed your brain junk and expect clarity?
 
-This one is easy to forget in the moment, so I’m writing it here partly as a reminder to myself.
+Even if some “news” has value, most of it is short-lived noise. It’s probably better to build the mind on long-lived inputs: books, durable principles, mental models, skills — rather than outrage cycles.
+
+I need to remember this more often, especially when my brain reaches for “quick dopamine info.”
 
 ## Closing
 
-Overall: solid book. It reinforced a lot of what I already believe, showed me a few things more cleanly, and gave me several mental handles I want to keep.
+Overall: a strong book.
 
-Next: I’m moving to **Shane Parrish** and *The Great Mental Models: Think Better, Live Better*.
+It reinforced a lot of convictions I already hold, it articulated some things more cleanly than I would, and it gave me a few mental handles that I want to keep actively accessible.
+
+Next: **Shane Parrish** — *The Great Mental Models: Think Better, Live Better*.
 
 ---
+
