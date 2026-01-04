@@ -23,7 +23,13 @@ But I'd prepared for eight hours. And then **Lockley's** voice came back: *just 
 
 So I asked. For a better price. With a BATNA I wasn't even confident in.
 
-The other side grimaced. I felt the relationship strain for a moment. But because I'd invested in rapport earlier — soft on the person, hard on the problem — it passed. We landed on a YES that worked for both sides.
+The other side grimaced. I felt the relationship strain for a moment.
+
+That's when I shifted. Instead of defending a position, I revealed the interest behind it: constraints, obligations, the need to optimize. I even mentioned considering a smaller scope as an alternative.
+
+Something changed. She stopped defending and started problem-solving. Asked about my actual budget. I told her — honestly. And she found an option that worked for both of us.
+
+That's the shift Fisher and Ury talk about: from positional bargaining to joint problem-solving. It only happened because the rapport was already there. Soft on the person, hard on the problem — it held.
 
 Result: ~7% off. Relationship intact.
 
