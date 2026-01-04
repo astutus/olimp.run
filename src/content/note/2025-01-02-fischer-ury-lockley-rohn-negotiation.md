@@ -1,6 +1,6 @@
 ---
 title: Fisher, Ury, Lockley, and Rohn Were All Right
-publishDate: "2025-01-02T10:00:00Z"
+publishDate: "2026-01-02T10:00:00Z"
 ---
 
 This wasn't about big money. It was about applying the method properly.
