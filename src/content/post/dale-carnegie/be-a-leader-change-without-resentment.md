@@ -46,15 +46,3 @@ When people feel respected, they cooperate.
 When they feel judged, they resist.
 
 So leadership isn’t domination. It’s change without humiliation.
-
-## Epilogue: the biography hits harder than the “rules”
-
-The book ends with a short Carnegie biography and it lands surprisingly well: poverty, awkwardness, repeated failures, and then pure persistence.
-
-Carnegie didn’t package charm — he reverse-engineered social dynamics because he needed them, then turned them into a system other people could use.
-
-It’s easy to dismiss this book as “obvious.”  
-It’s harder to apply it when you’re tired, irritated, and someone is being difficult.
-
-That’s the real test of the last chapter: leadership isn’t domination — it’s change without resentment.
-
