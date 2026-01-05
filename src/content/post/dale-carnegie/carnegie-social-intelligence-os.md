@@ -1,5 +1,5 @@
 ---
-title: "Carnegie: Social Intelligence Without Ego Wars"
+title: "Carnegie: My Social Intelligence OS"
 description: "Four chapters that sharpened one thing for me: people rarely resist your idea — they resist your posture. The real skill is influence without triggering defense."
 publishDate: "2026-01-05T21:00:00Z"
 tags: ["reflection", "social intelligence", "carnegie", "psychology", "personal growth", "leadership"]
