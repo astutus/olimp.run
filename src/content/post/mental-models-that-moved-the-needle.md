@@ -8,33 +8,33 @@ hidden: false
 
 Finished Shane Parrish's *The Great Mental Models, Vol. 1*. The topic is genuinely useful — I've been using mental models forever without calling them that.
 
-The framing I respect: he mentions writing this as a legacy for his kids — something they'd read as adults. I have the same goal with my own daughter, so the motivation resonates. But the execution falls flat: the style is vague, the examples don't hit, and there's too much storytelling padding around insights that could be sharper. The ratio of words to clarity is off.
+The framing I respect: he wrote this as a legacy for his kids — something they'd read as adults. I have the same goal with my own daughter, so the motivation resonates. But the execution falls flat: the style is vague, the examples don't land, and there’s too much storytelling padding around insights that could be sharper. The ratio of words to clarity is off.
 
-That said, a few things stuck. Not because they're new, but because they gave me sharper handles on stuff I was already doing (or should be doing more).
+That said, a few things stuck. Not because they’re new, but because they gave me sharper handles on stuff I was already doing (or should be doing more).
 
 ---
 
 ## Map: "map is not the territory"
 
-A **map** is a compression of reality. Useful because it simplifies; dangerous when you forget it's a simplification.
+A **map** is a compression of reality. Useful because it simplifies; dangerous when you forget it’s a simplification.
 
 Two takeaways I'm keeping:
 
-- **Make maps** of complex things (projects, systems, organizations). Otherwise you're reacting to noise.
-- **Don't confuse a map with competence.** A report, dashboard, narrative, or "expert summary" is still a map drawn by some cartographer. It can be good — and still omit what matters for *your* decision.
+- **Make maps** of complex things (projects, systems, organizations). Otherwise you’re reacting to noise.
+- **Don’t confuse a map with competence.** A report, dashboard, narrative, or "expert summary" is still a map drawn by some cartographer. It can be good — and still omit what matters for *your* decision.
 
-The question isn't "is this map true?" It's: **is this map good for the decision I'm making right now?**
+The question isn’t "is this map true?" It’s: **is this map good for the decision I’m making right now?**
 
 ---
 
 ## Circle of competence
 
-This model is brutal because it's correct.
+This model is brutal because it’s correct.
 
-- **Inside** your circle: you're better calibrated. You can usually see constraints and you more often know what you don't know.
-- **Outside**: you don't just lack answers — you lack the questions. That's where *unknown unknowns* multiply.
+- **Inside** your circle: you’re better calibrated. You can usually see constraints and you more often know what you don’t know.
+- **Outside**: you don’t just lack answers — you lack the questions. That’s where *unknown unknowns* multiply.
 
-Example: building something in ML (domain I know) vs jumping into a completely new business domain from zero. In the second case, you can miss ten constraints because you don't even know they exist.
+Example: building something in ML (domain I know) vs jumping into a completely new business domain from zero. In the second case, you can miss ten constraints because you don’t even know they exist.
 
 Also: the circle moves. Even "inside" requires refresh, because reality changes.
 
@@ -42,7 +42,7 @@ Also: the circle moves. Even "inside" requires refresh, because reality changes.
 
 ## Socratic method — my working checklist
 
-This is for slowing down when I feel certain. The goal is to force System 2 before System 1 locks in.
+This is for slowing down when I feel certain. The goal is to force **System 2** before **System 1** locks in.
 
 **Full version (Parrish's 6 steps):**
 
@@ -60,36 +60,36 @@ This is for slowing down when I feel certain. The goal is to force System 2 befo
 - **Evidence**: What supports it, what could falsify it?
 - **Implications**: What follows, and what if I'm wrong?
 
-I tested this on "it's worth developing yourself, reading books, etc." — the thing I take as obvious. Running it through the checklist was surprisingly clarifying. Not because the conclusion changed, but because the *reasons* got sharper.
+I tested this on "it’s worth developing yourself, reading books, etc." — the kind of belief I treat as obvious. Running it through the checklist was surprisingly clarifying. Not because the conclusion changed, but because the *reasons* got sharper.
 
-This is one of the few "thinking frameworks" that reliably reduces emotional overreaction — not by therapy, but by precision.
+This is one of the few thinking frameworks that reliably reduces emotional overreaction — not by therapy, but by precision.
 
 ---
 
 ## Probabilistic thinking (refresh, not revelation)
 
-Most decisions are not true/false. They're uncertainty management.
+Most decisions are not true/false. They’re uncertainty management.
 
 Three ideas that actually improve prediction:
 
 - **Bayesian thinking**: update beliefs as new evidence arrives, while respecting what you already know (base rates / priors).
-- **Fat tails (heavy tails)**: in many domains, extremes are far more likely than Gaussian intuition suggests. Outliers aren't noise — they often dominate outcomes.
+- **Fat tails (heavy tails)**: in many domains, extremes are far more likely than Gaussian intuition suggests. Outliers aren’t noise — they often dominate outcomes.
 - **Asymmetries**: focus on payoff structure (upside/downside), not only on what feels "likely."
 
 For me, the value is a clean refresh: fewer deterministic stories, more calibrated bets.
 
-Side note: I had the terminology backwards. "Fat tails" doesn't mean the fat middle of a bell curve. It means the *tails* carry more probability mass — extreme events are more likely than normal distribution suggests. Gaussian is thin-tailed. Wealth distribution, startup outcomes, viral content — those are fat-tailed.
+Side note: I had the terminology backwards. "Fat tails" doesn’t mean the fat middle of a bell curve. It means the *tails* carry more probability mass — extreme events are more likely than a normal distribution suggests. Gaussian is thin-tailed. Wealth distribution, startup outcomes, viral content — those are fat-tailed.
 
 ---
 
 ## Inversion + Force Field Analysis
 
-This was the most "new in practice" for me — and I already see a concrete use-case for a bank project that's bleeding out.
+This was the most "new in practice" for me — and I already see a concrete use-case for a bank project that’s bleeding out.
 
 **Inversion** means flipping the starting point:
 
-- Instead of "how do we reach the goal?", ask "how would we guarantee failure?" — then check if we're already doing those things.
-- Assume a hypothesis is true (or false) and list what else must be true in that world. If those conditions don't exist, the hypothesis has a problem.
+- Instead of "how do we reach the goal?", ask "how would we guarantee failure?" — then check if we’re already doing those things.
+- Assume a hypothesis is true (or false) and list what else must be true in that world. If those conditions don’t exist, the hypothesis has a problem.
 
 Sherlock Holmes in *A Scandal in Bohemia* does exactly this: if Irene Adler has the compromising photo and wants to blackmail the king, what else must be true? She must store it somewhere accessible, she must react to threats of losing it, etc. Work backwards from the claim.
 
@@ -103,7 +103,7 @@ Sherlock Holmes in *A Scandal in Bohemia* does exactly this: if Irene Adler has 
 
 Key insight: **reducing friction (step 4) usually beats adding pressure (step 3)**. More motivation, more KPIs, more reminders — these often increase resistance. Removing blockers gives lasting results.
 
-**Where I'll use it**: Instead of another "how do we fix this" meeting, I'll run inversion — "what would guarantee this fails completely?" — and see if we're already doing those things.
+**Where I'll use it**: instead of another "how do we fix this" meeting, I’ll run inversion — "what would guarantee this fails completely?" — and see if we’re already doing those things.
 
 ---
 
@@ -111,9 +111,9 @@ Key insight: **reducing friction (step 4) usually beats adding pressure (step 3)
 
 "Never attribute to malice what can be explained by stupidity."
 
-I default to this constantly. Someone screws up? Incompetence, not intent. That's usually right — but I've been missing a third category: **incentives**.
+I default to this constantly. Someone screws up? Incompetence, not intent. That’s usually right — but I’ve been missing a third category: **incentives**.
 
-In organizations, most problematic behavior isn't malice *or* stupidity. It's rational local optimization: people doing what makes sense *for them* given their constraints and rewards. This isn't evil, it's just misaligned incentives.
+In organizations, most problematic behavior isn’t malice *or* stupidity. It’s rational local optimization: people doing what makes sense *for them* given their constraints and rewards. This isn’t evil — it’s misalignment.
 
 New default: **Hanlon first, then incentives, then (rarely) intent.**
 
@@ -123,7 +123,7 @@ New default: **Hanlon first, then incentives, then (rarely) intent.**
 
 **Occam's Razor** — "simpler explanations are more often true" is fine as a search heuristic, not as a conclusion. Parrish's medical example actually annoyed me: in practice, doctors *over*-apply Occam and miss atypical cases because "simple = done". The razor is for prioritizing where to look, not for stopping the search.
 
-**Second-order thinking** — useful concept, but I already do this. Didn't need the label.
+**Second-order thinking** — useful concept, but I already do this. Didn’t need the label.
 
 ---
 
@@ -131,9 +131,9 @@ New default: **Hanlon first, then incentives, then (rarely) intent.**
 
 Beyond the models themselves, Parrish reminded me I have unfinished business:
 
-**Kahneman's *Thinking, Fast and Slow*** — I've read it, but not properly. It's not a book you read "on the side." It demands a dedicated slot, not gap-filling between other things. Time to re-read it with actual focus.
+**Kahneman's *Thinking, Fast and Slow*** — I’ve read it, but not properly. It’s not a book you read "on the side." It demands a dedicated slot, not gap-filling between other things. Time to re-read it with actual focus.
 
-**Taleb's *The Black Swan*** — I started it years ago, never finished. The book is intellectually demanding in a way that doesn't tolerate distraction. Parrish's probabilistic thinking section is basically Taleb-lite; I should go to the source.
+**Taleb's *The Black Swan*** — I started it years ago, never finished. The book is intellectually demanding in a way that doesn’t tolerate distraction. Parrish's probabilistic thinking section is basically Taleb-lite; I should go to the source.
 
 Both are now on the list — not as "nice to read someday," but as deliberate projects.
 
@@ -141,6 +141,7 @@ Both are now on the list — not as "nice to read someday," but as deliberate pr
 
 ## Bottom line
 
-Parrish's book is a catalog. Catalogs are fine, but they don't build skill — they build awareness that skills exist. The value came from a few tools I can actually *open and run*: inversion, Socratic checklist, Force Field.
+Parrish's book is a catalog. Catalogs are fine, but they don’t build skill — they build awareness that skills exist. The value came from a few tools I can actually *open and run*: inversion, the Socratic checklist, Force Field Analysis.
 
-If I revisit this post in 6 months and haven't used inversion at least once, the book was a waste. Let's see.
+If I revisit this post in 6 months and haven’t used inversion at least once, the book was a waste. Let’s see.
+
