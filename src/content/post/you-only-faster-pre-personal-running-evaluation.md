@@ -175,17 +175,213 @@ So I’m keeping both sides of the model:
 
 Because future-me may need the opposite emphasis, and because coaching someone else requires understanding both.
 
+## Training Phases, Zones, and Workouts (McMillan)
+
+I’m keeping this in the same post on purpose. *Phases* (sequence), *zones* (physiology), and *workouts* (execution) are one system. Splitting them would be like separating TCP from congestion control: possible, but it breaks the mental model.
+
+### Training phases: why they exist
+
+McMillan borrows the classic Lydiard-shaped idea: **build a base, then layer specificity, then taper/peak**. A “phase” is not a prison where you do only one type of work. It’s a **priority** for the block.
+
+The line that matters:
+
+> **“Do the training so you can do the training.”**  
+> Sometimes even: **“do the training so you can do the training so you can finally do the training.”**
+
+Translation: if you are not prepared for race-specific work, the plan won’t “make you” — it will just grind you down.
+
+### Two macro-types of phases
+
+#### 1) Basic fitness phases
+
+These weeks exist to build the *capacity* and *durability* required to execute the final race-specific block without breaking recovery.
+
+McMillan’s “modules” (high-level):
+
+1. **Injury Resistance**  
+   Non-running work that builds tolerance: strength, mobility, tissue capacity (tendons/ligaments/bones), and general robustness.
+
+2. **New Runner**  
+   Introductory structure: learning effort/pace, form cues, gentle quality, quick fitness boost with minimal risk.
+
+3. **Mileage Base**  
+   Building weekly volume toward a personal “sweet spot” — consistency over hero mileage.
+
+4. **Workout Base** (Lydiard vibe)  
+   Aerobic work plus foundational quality: **leg speed**, **aerobic threshold / steady-state**, and **long runs** to expand endurance.
+
+5. **Prep – Hills**  
+   Conditioning the legs and tissues for the stress of faster running.
+
+6. **Prep – Speed** (Rosa vibe)  
+   Developing speed before entering a stamina-heavy block (e.g., marathon-style training).
+
+7. **Prep – Stamina**  
+   Developing stamina before a speed-oriented block (e.g., 5K/10K), so the later specificity doesn’t destroy recovery.
+
+#### 2) Race-specific phase
+
+This is typically the **final 5–8 weeks** (depends on the event). The goal is to train the specific demands and limitations of the target race.
+
+#### Peak phase (last 1–2 weeks)
+
+Balancing freshness with a small amount of sharpening. Too much = fatigue. Too little = flatness.
+
+---
+
+## Race pace relativity: why McMillan talks in time, not distance
+
+This is one of the most practical concepts in the book.
+
+If a plan says: **5 × 1 mile at 5K pace**:
+- A 15:00 5K runner does ~24 minutes of hard running total.
+- A 30:00 5K runner does ~50 minutes of hard running total.
+
+Same written workout. Completely different physiological load.
+
+A better prescription is time-based, e.g.:
+
+- **5 × 5 minutes at 15-minute race pace** with **2 minutes easy**.
+
+Now the training stimulus is comparable across abilities. Distance changes, but the work is the same.
+
+---
+
+## Four training zones: simple model, strict boundaries
+
+McMillan frames training around four zones named by the benefit:
+
+1. **Endurance**
+2. **Stamina**
+3. **Speed**
+4. **Sprint**
+
+He uses six variables to define them: **effort**, **ventilation** (breathing), **pace**, **heart rate**, **VO2**, and **lactate**.
+
+In real training you mainly control:
+- **effort + breathing + pace**, with HR as a secondary check.
+
+### “No Man’s Land”
+
+Endurance and Stamina do **not** touch. The gap is the classic “gray zone”: effort rises, fatigue cost rises, but the adaptation is not proportional.
+
+In practice: if your “easy” drifts too fast for too long, you live in this middle zone and recovery starts to fail over weeks.
+
+---
+
+## Zones → workouts: what belongs where
+
+### Endurance zone: three purposes, three workouts
+
+McMillan splits Endurance work into three distinct intentions:
+
+1) **Recover from hard work** → **Recovery runs/jogs**  
+2) **Improve endurance (time on feet)** → **Long runs**  
+3) **Build and maintain aerobic base & running economy** → **Easy runs**
+
+**Recovery runs/jogs**
+- *Concept:* a slow jog, not a “run”.
+- *Purpose:* warm tissues, move blood, deliver rebuilding nutrients — nothing else.
+- *Typical duration:* 15–45 minutes (shorter is often better).
+
+**Long runs**
+- *Purpose:* endurance, durability, and mental time-on-feet.
+- *Key rule:* steady, resist the urge to speed up “to get home”.
+- *Typical duration:* ~90–240 minutes, depending on the plan.
+
+**Easy runs**
+- *Purpose:* the bulk of aerobic development and maintenance.
+- *Common error:* running them too fast until breathing becomes noticeably harder.
+
+### Stamina zone: everything around lactate threshold
+
+Stamina training sits around critical thresholds (lactate/ventilatory). McMillan thinks of it as:
+- **below threshold**
+- **at threshold**
+- **slightly above threshold**
+
+Workouts in this zone:
+
+**Steady-state runs**
+- Medium effort, long duration.
+- Often overlooked, but extremely effective.
+
+**Tempo runs**
+- Continuous work at/near threshold (“comfortably hard”).
+- If you’re speed-biased, you generally do better keeping these on the shorter end.
+
+**Tempo intervals**
+- Threshold-ish work split into longer repeats with short recoveries.
+
+**Cruise intervals**
+- Shorter repeats with short jog recoveries.
+- The trap: turning them into speedwork by going too fast.
+
+### Speed zone: VO2max intervals
+
+These are what most runners call “speedwork,” but the target is **aerobic capacity**:
+- repeats: **1–6 minutes**
+- goal: **10–30 minutes total time at VO2max**
+- recovery jog: roughly **½ to 1× the duration** of the fast running (or ~¼ to ½ the distance)
+
+Key warning: VO2max intervals are among the most stressful workouts for the musculoskeletal system. “More” is rarely better here.
+
+### Sprint zone: two distinct sprint goals
+
+McMillan splits Sprint into:
+
+**1) Lactic acid tolerance intervals**
+- repeats: **30–70 seconds**
+- recovery: **long** (often 2–5× repeat time)
+- goal: flood the system, then clear it, repeat
+
+**2) Neuromuscular (leg speed) strides**
+- repeats: **10–30 seconds**
+- recovery: **30–90 seconds**
+- goal: coordination, relaxed speed, clean mechanics
+- important: these should not become “heavy breathing” workouts
+
+---
+
+## Why phases + zones + workouts must stay together
+
+- **Phases** define *when* you prioritize what (sequence).
+- **Zones** define *what* stimulus you are applying (physiology).
+- **Workouts** define *how* you apply it safely (execution and guardrails).
+
+If those three drift apart, you get the usual pattern:
+lots of effort, rising fatigue, inconsistent quality, and a peak that arrives early (or never arrives).
+
 ## What I’m taking forward
 
-The takeaway is not a plan. It’s a control system:
+The takeaway is not a plan. It’s a control system — a way to *own* any plan and stop doing accidental “no man’s land” training.
 
-- **PRE before each cycle** (response, recovery, adaptation)
-- **ST/WK labeling** to prevent stupid workout clustering
-- **sweet spot mileage** instead of mileage ego
-- **recovery over calendar**
-- **execution discipline** (a workout is what your physiology experienced, not what the plan called it)
+- **PRE before each cycle** (response, recovery, adaptation)  
+  Not for self-labeling vanity (“I’m a Speedster”), but to predict *which sessions are high-cost* for me and where I need guardrails.
 
-This is the difference between “training” and “doing workouts”.
+- **ST/WK labeling of key workouts**  
+  Mark every specialized session as **ST** (fits me) or **WK** (costly). Then fix the plan when it clusters WK sessions or stacks them close to race week.
 
-Next: I’ll continue through the book into training zones and pace calculation, and I’ll merge McMillan’s terminology with Daniels’ pacing model so I can execute sessions precisely instead of improvising myself into fatigue.
+- **Sweet spot mileage (and a floor/ceiling)**  
+  A weekly range that produces progress without triggering injury/HRV drift. Mileage is a dial, not a religion — and it must react to life stress, age, and durability.
+
+- **Phases are sequencing, not dogma**  
+  Use phases to answer “do the training so you can do the training.”  
+  Basic fitness phases exist to make race-specific work *tolerable and productive* — not to cosplay Lydiard.
+
+- **Zones are physiology, not vibes**  
+  Endurance / Stamina / Speed / Sprint are a shared language that prevents category errors (e.g., turning a Stamina workout into a Speed workout because ego).
+
+- **Workouts are execution contracts**  
+  Each workout has a purpose *and* constraints (pace range, duration, recovery).  
+  If I run the right shape but at the wrong intensity, I did a different workout.
+
+- **Recovery rules the calendar**  
+  A session’s *cost* matters more than its label. Hard workouts need spacing based on my recovery rate, not on what a PDF says.
+
+- **Avoid “no man’s land” by default**  
+  Easy means easy (endurance HR/effort). Moderate has a target (stamina). Fast has structure (speed/sprint + proper recoveries). The gray zone is where my fatigue quietly compounds.
+
+This is the difference between “training” and “doing workouts”:  
+a plan is a template; the control system is what keeps it true.
 
