@@ -330,7 +330,7 @@ McMillan's research on improvement rates:
 
 **Older runners with years of experience:** unlikely to see significant improvement; better to create age-graded PRs and focus on slowing decline.
 
-(My note: I've been hammering 5K for 3 years now. By these estimates, I'm likely at or near plateau for this distance. If the next cycle doesn't produce progress, maybe it's time to try 10K — a new distance where improvement is still available. Also relevant: I'm a Combo-Speedster, so stamina-focused training for longer distances should eventually yield gains, even if it's a weakness.)
+(My note: I've been running 5K for 3 years and assumed I hit plateau. But then I did one proper McMillan cycle — Feb to May 2024 — and dropped from 23:27 to 22:03. That's 1.5 minutes off my PR in one cycle, after a 3-month winter break. So it's not a distance plateau. It's that most of my training cycles were broken — overtraining, wrong paces, no structure. The one good cycle produced massive gains. This reframes the question: I don't need to escape to 10K. I need to execute another clean cycle on 5K and see what's actually possible.)
 
 ### The off-season question
 
@@ -342,7 +342,54 @@ Open question: am I protecting myself from injury and burnout by letting the bod
 
 ### Specialty workouts
 
-*[Placeholder — to be expanded: Predictor workouts, Goal Pace workouts, Hill workouts, Combo workouts]*
+McMillan describes four types of specialty workouts that sit outside the standard zone-based training: predictor workouts, goal pace workouts, hill workouts, and combo workouts.
+
+**Predictor workouts**
+
+Predictor workouts test whether your goal time is realistic. For 5K:
+
+**5K Predictor:** 2 × 1.5 miles at goal pace, 400–600m recovery jog between.
+
+Do this 10–14 days before the race. If you can hold goal pace for both reps, you're fit enough. If you can't maintain pace, adjust expectations.
+
+(There are also predictor workouts for 10K, half-marathon, and marathon, but I'm focused on 5K for now.)
+
+**Goal pace workouts**
+
+These are workouts at your exact goal race pace — not zone-based, but pace-specific. The purpose is to "groove" the pace so your neuromuscular system knows it cold before race day.
+
+McMillan inserts these progressively through a training cycle: shorter goal-pace reps early, longer and more challenging ones later. By the 5th goal pace workout, the pace should feel automatic.
+
+Important: these are strong stressors. They replace another quality workout in the week — they're not added on top. And you need a solid fitness base before attempting them; beginners should just train for fitness first.
+
+**Hill workouts**
+
+McMillan considers hills one of the best training tools: cardiorespiratory stimulus, lactic acid buffering, leg strength, leg turnover practice — all with less pounding than flat speedwork.
+
+Types of hills:
+
+- **Long hills:** gradual slope, ~2–3 minutes, medium-hard effort (~30:00 race effort). 4–8 reps. Jog down to recover.
+- **Medium hills:** moderate slope, 45–60 seconds, hard effort (~15:00 race effort). 8–12 reps.
+- **Steep hills:** steep slope, 10–30 seconds, very hard effort (~5:00 race pace). Full muscle fiber recruitment.
+- **Hill circuits:** Lydiard-style — run up strongly, recover at top, do strides, run down strongly, recover at bottom, strides again.
+- **Long hill climbs:** 30–60+ minutes of continuous climbing (if you have access to mountains).
+- **Hilly runs:** just run hilly routes and attack the ups/downs.
+
+No hills? Use a treadmill with incline, or parking garages/bridges.
+
+(My note: My local hill is ~45 seconds, which makes it a Medium Hill. When McMillan's plans say "hills 6-8 reps" without specification, medium hills are typically the default. The progression in his 5K plans — 6-8 → 8-10 → 10-12 reps — is about building volume on that hill type, not switching between types.)
+
+**Combo workouts**
+
+Combo workouts cross multiple training zones in one session. Useful because races do the same — you don't stay in one zone from start to finish.
+
+Types:
+
+- **Progression runs:** continuous run that moves from Endurance to Stamina or Speed over the course of the run. Fast finish long runs are the marathon version.
+- **Alternating combos:** bounce between zones within one workout (e.g., 10 min Stamina → 4×1 min Speed → 10 min Stamina → 4×1 min Speed).
+- **Cut-downs:** like progression runs but with rest intervals between reps. Each rep gets shorter and faster (e.g., 1 mile at Stamina slow end → 1200m Stamina fast end → 800m Speed slow end → 400m Speed fast end or Sprint slow end).
+
+These add variety and race-specific stress. Use them sparingly and adjust based on how taxing they feel.
 
 ## The 10 Rules of Running
 
