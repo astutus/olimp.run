@@ -246,15 +246,103 @@ Practical rules that actually work:
 
 ## The Finer Points
 
-*[Placeholder — to be expanded]*
+This section covers the operational details that make or break a training cycle: how to adjust when life interferes, how to peak properly, and how to reality-check your goals.
 
-Topics to cover:
-- 7 Lessons for Adjusting Your Plan
-- Adding Tune-Up Races to Your Plan
-- Adding Training Modules to Your Plan
-- The Fine Art of Peaking for Your Goal Race
-- Can I Achieve My Goal?
-- Specialty Workouts: Predictor, Goal Pace, Hill, Combo
+### Seven lessons for adjusting your plan
+
+McMillan's core message: you designed the perfect plan, now get ready to change it. Weather, illness, work, life — something will interfere. The question is how to adjust without destroying the cycle.
+
+**Lesson #1: Respect the rhythm of your schedule**
+
+"Rhythm" = the flow of stress and rest across the week. When you move workouts around, don't compress the stress. If tempo was Thursday and long run Saturday, moving tempo to Friday means back-to-back stress days. Better to skip one workout than to stack them.
+
+McMillan's bottom line: err on the side of more rest rather than compressing stress.
+
+**Lesson #2: Don't sacrifice recovery after a race**
+
+A race is the most stressful training you do. Add EXTRA recovery after — not just the normal post-workout rest. If you normally do a workout Tuesday but raced Sunday, move it to Wednesday or Thursday.
+
+(My note: I expected longer recovery — he's saying 3–4 days and then back to normal training. This is more aggressive than I assumed.)
+
+**Lesson #3: Maintain your long run**
+
+Over the course of your running career, the long run is the single most important workout for developing endurance. When adjusting your week, protect the long run first. Skip speed work before you skip the long run — even if it means moving the long run to midweek.
+
+(My note: This is a gap in my training. I've always done very few long runs — off-season I rarely hit 10km. For 5K training this felt optional. Maybe it's not.)
+
+**Lesson #4: Maintain your frequency**
+
+Keep the number of running days per week constant, even if you have to skip key workouts. The body likes routine. Even a short jog on a "missed" day keeps the rhythm intact.
+
+**Lesson #5: Err conservative — don't squeeze in workouts**
+
+"Squeezing in" = forcing a missed workout into a slot where it doesn't fit (e.g., doing Thursday's tempo on Friday before Saturday's long run). This rarely works. Better to skip the workout and maintain frequency with an easy run.
+
+**Lesson #6: Sacrifice anything to get to the line healthy**
+
+Being the fittest spectator sucks. When adjusting, never increase injury risk. Compressing stressful days is the usual culprit. One workout or race doesn't make or break a cycle — but one injury can.
+
+**Lesson #7: Never try to make up a botched workout**
+
+If a workout falls apart mid-session, don't repeat it later that day or the next day. There was a reason it failed — usually insufficient recovery. Move on. The next workout will likely be exceptional.
+
+### Tune-up races and training modules
+
+McMillan covers how to insert tune-up races into a plan (adjust workouts before/after, respect recovery, use the race as a stamina stimulus) and how to extend a 12-week plan using modular blocks (Mileage Base, Workout Base, Prep-Hills, Prep-Speed, Prep-Stamina).
+
+These are useful for plan construction but not core theory. The key concept: modules can be stacked to build out a longer cycle, and the order matters (e.g., Mileage Base → Hills → race-specific). Adjust based on your PRE profile.
+
+### The fine art of peaking
+
+McMillan explicitly rejects the word "tapering" — he calls it "peaking." His argument: traditional tapering (large volume reduction + intensity increase over 2–3 weeks) is hit-or-miss. Peaking is more precise.
+
+**Secret #1: Don't change your weekly running routine**
+
+If you run 4 days/week, keep running 4 days/week. Reducing frequency makes you feel flat.
+
+**Secret #2: Reduce volume, but not too much**
+
+Two weeks out: reduce daily volume by 10–20 minutes. Race week: reduce by 20–30 minutes. Combined with naturally shorter long runs, this drops total volume enough to freshen up — but not so much that you go stale.
+
+McMillan's opinion: more runners fail from tapering too much than too little.
+
+**Secret #3: Keep the engine revved**
+
+Reduce volume, but do NOT reduce intensity. Some fast running in the peaking phase brings body and mind to peak condition. Don't race workouts, but don't back off either.
+
+**Secret #4–6: Mental game**
+
+Plan your race strategy and stick with it. Reflect on tough workouts where you gutted it out (builds toughness belief). Reflect on your best workouts (builds confidence). Have fun — you're not going for Olympic gold.
+
+(My note: This confirms my experience. When I did traditional tapers — cutting volume hard — form collapsed. The body went flat. The key seems to be: reduce volume modestly, keep intensity, maintain routine. Don't overthink it.)
+
+### Can I achieve my goal?
+
+McMillan's research on improvement rates:
+
+**New runners:** 3–10% improvement per year until experience catches up.
+
+**Switching to a new distance that matches your strength:** 2–7% improvement for first 2–3 years, then plateau.
+
+**Switching to a new distance that doesn't match your strength:** 0–4% improvement for 1–2 years, then plateau. Depends on how "extreme" your type is — pure Speedsters struggle at long distances no matter how much stamina work they do; Combo types can overcome weaknesses with smart training.
+
+**Older runners new to sport:** can improve like younger runners, but may plateau faster.
+
+**Older runners with years of experience:** unlikely to see significant improvement; better to create age-graded PRs and focus on slowing decline.
+
+(My note: I've been hammering 5K for 3 years now. By these estimates, I'm likely at or near plateau for this distance. If the next cycle doesn't produce progress, maybe it's time to try 10K — a new distance where improvement is still available. Also relevant: I'm a Combo-Speedster, so stamina-focused training for longer distances should eventually yield gains, even if it's a weakness.)
+
+### The off-season question
+
+One thing McMillan doesn't address directly: winter breaks.
+
+My pattern: 3 months off-season with minimal running (3× per week, ~5km, no intensity). A friend argues this kills continuity — he trains year-round and says the rebuild time I spend could be progress time instead.
+
+Open question: am I protecting myself from injury and burnout by letting the body rest? Or am I wasting months every year rebuilding instead of building? No clear answer yet. Worth tracking.
+
+### Specialty workouts
+
+*[Placeholder — to be expanded: Predictor workouts, Goal Pace workouts, Hill workouts, Combo workouts]*
 
 ## The 10 Rules of Running
 
