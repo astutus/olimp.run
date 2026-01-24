@@ -393,15 +393,93 @@ These add variety and race-specific stress. Use them sparingly and adjust based 
 
 ## The 10 Rules of Running
 
-*[Placeholder — to be expanded]*
+These are the fundamentals — lessons distilled from 100 years of coaches and athletes experimenting (sometimes with crazy ideas like 300 miles/week or daily speedwork). McMillan recommends re-reading these before every training cycle.
 
-1. Obey Your Stress/Rest Cycle
-2. Beware the Rule of Too's
-3. Endurance is Paramount
-4. Learning Effort
-5. Becoming a Complete Runner
-6. The Body and Mind like Variety
-7. Basic vs. Race-Specific Fitness
-8. Find Your Sweet Spot
-9. Designing for Success
-10. Respect that You Change
+### Rule #1: Obey your stress/rest cycle
+
+**Optimal Stress + Optimal Rest = Optimal Progress.**
+
+Every training stress must be followed by appropriate rest. Too many runners focus only on the stress side (workouts, mileage, races) and ignore the rest side (days off, easy running, sleep, nutrition). The greater the training stress, the more rest required.
+
+This is why we labeled workouts as "quick recovery" or "long recovery" in PRE — to ensure enough recovery after each session type.
+
+### Rule #2: Beware the Rule of Too's
+
+Push **too hard**, **too soon**, or **too often** → injury and overtraining.
+
+Running adaptation is gradual (weeks, months, years). The musculoskeletal system especially needs time. Don't crash train. The right training level is usually a bit less than what you *could* do.
+
+"Running isn't always about what you can do but more often about what you should do."
+
+### Rule #3: Endurance is paramount
+
+McMillan's Pyramid of Performance: basic fitness (endurance + stamina) forms the base; speed fitness sits on top.
+
+Over a running career, the greatest improvement comes from expanding the base. Speed can improve, but only a relatively small amount. Endurance and stamina can improve massively over years.
+
+Example: Brett Gotcher ran 4:33 mile as a high school freshman. By graduation from Stanford, he could run that pace for a full 5K (14:04). Later, he could hold his high school 5K pace for a full marathon.
+
+Build the base larger → stack speed on top → faster races.
+
+### Rule #4: Learning effort (calibrating your inner GPS)
+
+Pace and heart rate are tools to *learn* effort, not replace it. The goal is to calibrate your internal sense of effort across all training zones.
+
+Why it matters: when conditions change (weather, terrain, fatigue, "one of those days"), you can adjust based on feel and still deliver your best performance.
+
+Stamina zone is especially good for this — the ventilatory and lactate thresholds are physically noticeable. You *feel* when you've crossed them.
+
+### Rule #5: Become a complete runner
+
+A complete runner isn't just someone who does varied workouts. It means building overall athleticism: core, strength, mobility, balance, and injury-prevention exercises.
+
+How much ancillary work you need depends on inherited athletic ability and history. Some runners are naturally robust and need minimal extra work. Others need a lot more to stay healthy and run faster.
+
+### Rule #6: The body and mind like variety
+
+Include workouts from all four zones. Varied stress → faster adaptation.
+
+Example: if you need to build stamina, don't just do tempo runs for 6 weeks. Rotate through tempo runs, cruise intervals, tempo intervals, steady-state runs. Same zone, different stimuli. More effective and more fun.
+
+### Rule #7: Basic fitness vs race-specific fitness
+
+Two types of training across the year:
+
+1. **Basic fitness** (60–70% of year): consistent mileage, long runs, endurance/stamina focus with sprinklings of speed/sprint.
+2. **Race-specific fitness** (30–40% of year): workouts targeted at your goal race demands.
+
+As you get more experienced, the race-specific phase can shorten — you know how long it takes to peak, and shorter phases reduce injury risk and burnout.
+
+You can still race well on basic fitness. One strategy: do basic training until race performances plateau, *then* shift to race-specific work.
+
+### Rule #8: Find your sweet spot
+
+Sweet spot applies to both **volume** and **intensity**.
+
+You've hit it when: consistently good workouts, positive races, training feels challenging but sustainable.
+
+Signs you're outside it: struggling workout after workout, failing races. Fix: reduce volume 10–20%, reduce intensity 10–20%.
+
+The challenge: your sweet spot constantly moves. Life stress lowers it. Low stress raises it. Experience shifts it. You must keep evaluating.
+
+It's okay to push outside your sweet spot occasionally to find your limits — just accept some bad workouts/races and raise injury-prevention focus during those periods.
+
+### Rule #9: Design for success
+
+Set up your training so workouts have the best chance of success. This doesn't mean easy — it means using PRE to avoid failure patterns.
+
+Strengths mostly, weaknesses sparingly. No weakness workouts during high-stress life periods. Adjust on the fly. Never hurt momentum, motivation, or confidence.
+
+Positive workout → confidence → more positive workouts → motivation wave → breakthrough.
+
+### Rule #10: Respect that you change
+
+You're not a robot. You change from cycle to cycle.
+
+**Positive:** benefits accumulate across seasons, you can handle more volume/intensity over time, experience teaches you what works.
+
+**Negative:** life happens — injury, illness, family, work. You won't always train the way you want. Accept it and design around current reality.
+
+Training is not a straight upward line. It's an upward sine wave — periods of rapid ascent, periods where improvement stalls or reverses. This is normal.
+
+(My note: "Respect that you change" is the rule I've violated most. I kept expecting linear progress and got frustrated when cycles crashed. The sine wave framing is more honest — and more useful.)
