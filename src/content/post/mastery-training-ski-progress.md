@@ -1,8 +1,8 @@
 ---
 title: "Mastery Training: Ski Progress With My Daughter"
-description: "Four winters from 'I can’t ski' to full control, jumps, and 70+ km/h — with my daughter as the real coach."
+description: "Four winters from 'I can’t ski' to full control, jumps, and 70+ km/h — powered by consistency."
 publishDate: "2026-01-25T12:00:00Z"
-tags: ["skiing", "parenting", "training", "mastery", "fitness"]
+tags: ["skiing", "parenting", "training", "mastery", "consistency"]
 hidden: false
 ---
 
@@ -36,22 +36,14 @@ We spent about two more hours on the bunny hill, then moved to a steeper one. Br
 
 No elegance. No feeling of flow yet. But we were skiing.
 
-That day contained the whole pattern:
-- **instruction** gives you a map,
-- **reps** give you a nervous system,
-- **a curious child** gives you the courage to try the next slope before your adult brain votes “no”.
-
-Garmin says 2022 was small in volume — **1.0 hour and 15.6 km** total — but psychologically it was the season that created momentum.
+Garmin numbers for 2022 are *not the whole story* — I simply wasn’t logging everything back then. Same for 2023. The point isn’t that those winters were “low volume”; the point is that we were already putting in serious time on snow — and the results compounded.
 
 ## 2023: from “we survive” to “we ski”
 
 In 2023 everything was smoother.
-We were skiing “as skiers”: most slopes, excluding the hardest red runs. We used the day fully — multiple sessions, every day. Not heroic. Just consistent.
+We were skiing “as skiers”: most slopes, excluding the hardest red runs. Multiple sessions per day, every day. Not heroic. Just consistent.
 
-Numbers (from Garmin): **4.4 hours, 77.3 km** across the season.
-Average speed (Garmin’s `Avg Speed`) was around **16.8** with a top speed of **60.3**.
-
-The key change wasn’t speed. It was **control**: less fear, fewer emergency-brakes, fewer moments where legs burn because you’re fighting gravity instead of working with it.
+Again: Garmin data from that period is incomplete, but the experience is clear — more time on snow, more confidence, more control.
 
 ## 2024: the season that didn’t happen
 
@@ -59,21 +51,17 @@ Then 2024 failed completely.
 My daughter got sick on arrival — very high fever — and after three days we went home.
 The season was basically zero.
 
-It’s a good reminder that training cycles are not “linear progression”.
+It’s a good reminder that training cycles are not linear progression.
 Reality still exists, unfortunately.
 
 ## 2025: return and volume
 
 In 2025 we came back hard.
 
-Garmin: **23.7 hours and 122.0 km** of skiing.
-That’s where the system started to look like a real program, not a hobby.
+Garmin captured **23.7 hours and 122.0 km** of skiing.
+This is where it started to look like a real program, not a hobby.
 
-Interestingly, the average speed dropped (to ~**11.1**) while max speed stayed high (**58.0**).
-That’s not “regression” — it’s what happens when you:
-- spend more time doing technique,
-- stop treating every run as a panic sprint,
-- take breaks like a human, not like a machine.
+Top speed that season: **58.0 km/h**.
 
 ## January 2026: next level — and actual fun
 
@@ -84,20 +72,25 @@ We skied everywhere with full control. And we started doing the things that *for
 - playing on steep red runs, looping them for reps,
 - skiing backwards,
 - skiing in a tuck,
-- and yes, hitting **70+ km/h** (Garmin shows a peak **73.0**).
+- and yes, hitting **70+ km/h** (Garmin shows a peak **73.0 km/h**).
 
-This season is also the first time I noticed something very specific:
-I wasn’t sweating from fear, and my legs didn’t hurt from braking.
+This season I noticed something very specific:
+I wasn’t sweating from effort — not from hiking uphill with skis, not from braking, not from “fighting the slope”.
+If anything, I was *colder* at times because I wasn’t overheating.
 
-That’s not “I got stronger”. That’s: the braking pattern got replaced by a better motor program.
-Less wasted force. More efficiency. More composure.
+That’s not “my fear went away”.
+That’s being in objectively ridiculous shape for a ski trip:
+- aerobic base from running,
+- strength from gym and calisthenics,
+- mobility and durability from consistent work,
+- plus technique improvements that make braking less of a leg-burning war.
 
-Garmin summary for 2026: **28.3 hours, 137.4 km**.
-Average speed around **9.8** with that **73.0** max — again: more time, more variety, more technique work, less “always fast”.
+Garmin summary for 2026: **28.3 hours, 137.4 km**, peak speed **73.0 km/h**.
 
-And that’s the point:
-**mastery doesn’t look like constant speed. It looks like range.**
-Range of slopes, range of movements, range of confidence.
+And the core lesson is boring — which is why it works:
+**training makes the master.**
+Not motivation. Not talent. Not one heroic week.
+Consistency across winters.
 
 ## The hidden coach: a child’s curiosity
 
@@ -105,23 +98,6 @@ The funniest part is that the real driver was not my motivation.
 It was my daughter’s curiosity.
 
 She pulled me into the snow park. She pulled me into “try it” moments. I often didn’t *want* to do it — adult risk calculus kicks in — but I did it anyway because the training partner was small, persistent, and immune to my excuses.
-
-## The adult advantage: a fitness base that compounds
-
-The other driver was boring and predictable:
-running, calisthenics, gym work, mobility.
-
-That physical base paid dividends on the slope:
-- more stability,
-- less fatigue,
-- fewer breaks needed,
-- more days in a row without feeling wrecked.
-
-I’m almost 46.
-And I can honestly say this was the first ski trip where I felt like I was in the top slice of people on the slope — not because I’m a daredevil, but because I can ski with control and play.
-
-Also: I did all of this while being heavily sick for two days.
-Which is either a testament to training… or proof that I sometimes make questionable decisions. Possibly both.
 
 ## Closing
 
@@ -133,6 +109,4 @@ time + reps + health, converted into shared fun.
 
 Because being fit is not about abs.
 It’s about being able to say “yes” when your child wants to do something alive.
-
----
 
