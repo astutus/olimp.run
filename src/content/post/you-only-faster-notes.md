@@ -172,12 +172,19 @@ McMillan splits Endurance work into three distinct intentions:
 
 **Stamina zone workouts**
 
-Stamina training sits around critical thresholds (lactate/ventilatory):
+McMillan divides Stamina into three sub-zones based on proximity to lactate threshold:
 
-- **Steady-state runs:** the underused workhorse; medium effort, long duration; extremely effective.
-- **Tempo runs:** continuous threshold effort ("comfortably hard"); rhythm and control.
-- **Tempo intervals:** threshold broken into longer repeats with short recoveries.
-- **Cruise intervals:** shorter threshold repeats with short jog recoveries. The trap: turning them into speedwork by going too fast.
+**Below threshold** (1:15:00–2:15:00 race pace, HR 83–87%):
+- **Steady-state runs:** 25–90 minutes continuous at medium effort. The underused workhorse — not as sexy as tempo, but extremely effective. This is roughly Garmin's green zone.
+
+**At threshold** (40:00–75:00 race pace, HR 85–90%):
+- **Tempo runs:** 15–40 minutes continuous at "comfortably hard" effort. Rhythm and control. Speedsters should keep these shorter (15–25 min); Endurance Monsters can go longer (30–40 min).
+
+**Above threshold** (25:00–60:00 race pace):
+- **Tempo intervals:** longer repeats (6–15 min) with longer recovery (2–5 min jog). Like tempo runs broken into chunks.
+- **Cruise intervals:** shorter repeats (3–8 min) with shorter recovery (30s–2 min). Popularized by Daniels. The trap: running them too fast and turning Stamina work into Speed stress.
+
+The challenge with all Stamina workouts: keep from running too fast. Better to go longer at a given pace than faster. These are moderate efforts — running faster just shortens time in the correct zone.
 
 **Speed zone workouts**
 
