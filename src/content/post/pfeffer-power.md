@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Pfeffer: Power as a Learnable Skill"
 description: "Performance doesn't equal success. Pfeffer demolishes the excuses and shows that power is a skill, not a birthright."
@@ -99,9 +98,3 @@ Pfeffer ends the introduction with three pieces of advice:
 *[Draft — chapters in progress]*
 
 ---
-
-<!--
-Filename: pfeffer-power.md
-Commit: docs: add draft post on Pfeffer's Power (introduction)
--->
-```
