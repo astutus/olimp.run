@@ -12,7 +12,7 @@ Context: [Block 2](/posts/training-lab-block1-feb2026) ran full 6+1 weeks. All l
 
 [Spiroergometry test](/posts/shocking-vo2max-no-base) changed running fundamentally. VO2max ~67.5 ml/kg/min but LT1 at 138 bpm - three years of "easy" running in grey zone, zero aerobic base. Running is now full base rebuild under lab protocol.
 
-This block is a **recovery mesocycle**. Not deload, not build - lighter intensity, technique focus, ścięgna catch up, new movement patterns. Summer pace.
+This block is a **recovery mesocycle**. Not deload, not build - lighter intensity, technique focus, tendons catch up, new movement patterns. Summer pace.
 
 ## Key changes from Block 2
 - **Incline bench 15-20° replaces flat bench** - junction gets 6 weeks off from flat press pattern. Same muscles, different angle, lower absolute load, less stretch on pec-delt junction.
