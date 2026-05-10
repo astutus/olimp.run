@@ -62,7 +62,7 @@ This is the world the question lives in. The filter is not optional.
 
 So why do I keep doing this work?
 
-Because life has its rules. There is a family. There is a mortgage. There is the job that pays both. None of that is a transcendent philosophical choice. It is a base condition. Pretending otherwise would be theatre.
+Because life has its rules. There is a family. There are bills. There is the job that pays them. None of that is a transcendent philosophical choice. It is a base condition. Pretending otherwise would be theatre.
 
 Once I accept the base condition, the question is no longer *should I do this work*. The question is *if I am doing it, on what terms?* And the answer is: sharp ones.
 
