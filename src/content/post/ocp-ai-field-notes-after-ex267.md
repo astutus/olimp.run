@@ -63,7 +63,7 @@ Distributed workloads got a teaser. Useful as orientation, but you only really u
 
 Evaluation: this is where the earlier study paid off. Confusion matrix, precision, recall, sensitivity, specificity, accuracy as a sometimes-misleading comfort metric. Without that prework the section would have been thin. With it, it slotted in cleanly.
 
-Model Serving is where the course wasted my time. It spent significant attention on ModelMesh, which is gone in 3.x. The pivot to ONNX and OpenVINO is the de facto direction now. You can argue the time was not wasted, that context matters, that you should know what came before. In operational terms it was time spent on a corpse.
+Model Serving is where a real chunk of the course aged poorly, through no fault of the authors. They invested heavily in ModelMesh, and by extension in ONNX and the OpenVINO Model Server, which were ModelMesh's natural runtimes at 2.x. Then 3.x dropped ModelMesh entirely. None of that was foreseeable when the course was built. In operational terms a meaningful fraction of the course was time spent on a stack that is no longer there. Not the authors' fault. The cost of learning a product that moves this fast.
 
 Pipelines was strong. Real code, realistic examples. KFP became something I could actually reason about: defining components, decorating functions for `dsl.pipeline`, wiring things together. Then a section on Elyra. Elyra is fine. It is even nice for early adoption when teams are still finding their first pipeline. I do not see it as the enterprise endgame. Real teams will move into code, because pipelines deserve to live in version control, in review, and in tests.
 
