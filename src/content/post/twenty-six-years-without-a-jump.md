@@ -28,10 +28,10 @@ This is not a strength problem. This is a transmission problem.
 
 The picture clears up the moment you stop thinking of "leg strength" as one thing and start thinking of it as a curve. Four zones across the force-velocity spectrum:
 
-- **Max strength:** low velocity, high force. Grinding a heavy squat.
-- **Speed-strength:** mid velocity, high force. Explosive concentric, broad jump.
-- **Strength-speed:** high velocity, mid force. Light, fast efforts.
-- **Reactive / max speed:** very high velocity, low force. Stretch-shortening cycle, pogos, sprint mechanics.
+- **Zone 1 - Max strength:** low velocity, high force. Grinding a heavy squat.
+- **Zone 2 - Speed-strength:** mid velocity, high force. Explosive concentric, broad jump.
+- **Zone 3 - Strength-speed:** high velocity, mid force. Light, fast efforts.
+- **Zone 4 - Reactive / max speed:** very high velocity, low force. Stretch-shortening cycle, pogos, sprint mechanics.
 
 I had Zone 1. Quietly built over years. Everything to the right of it was missing.
 
