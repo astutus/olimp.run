@@ -63,17 +63,24 @@ So broad jumps and counter-movement jumps come first. Pogos are secondary, low v
 
 ## The plan
 
+Two components running in parallel:
+
+1. **Daily coordination work** on the dog walk - low strain, every day.
+2. **Dedicated plyo sessions** - 2 or 3 times per week, ~15 min each.
+
+Both matter. The daily part keeps the pattern alive between sessions; the dedicated sessions do the actual loading.
+
 ### Daily
 
 A-skips 2x10m on the dog walk. Coordination drill, low strain. Cut it if the hip flexor talks back - psoas memory from the tuck jump strain.
 
-### Weekly cadence
+### Weekly cadence for dedicated sessions
 
 - **W1-2:** 2x per week (Wed pre-gym, Sat standalone)
 - **W3-4:** 3x per week (+Thu) if progression criteria are met
 - **Not on:** Tue (quality run), Sun (long run), Mon (off)
 
-### Session structure (~15 min)
+### Dedicated session structure (W1-W4, ~15 min)
 
 | # | Exercise | Dose | Rest | Goal |
 |---|----------|------|------|------|
@@ -83,6 +90,8 @@ A-skips 2x10m on the dog walk. Coordination drill, low strain. Cut it if the hip
 | 4 | CMJ | 3x3 | 60-90s full | Vertical explosive concentric |
 | 5 | Pogos | 2x8-10s | 45-60s | Secondary reactive |
 | - | Line hops | OUT | - | Too many variables for now |
+
+Same doses through W4. What changes between W1-2 and W3-4 is the frequency (2x to 3x per week), not the session itself. Volume increases come only after a clean W4 - see progression criteria below.
 
 ### Rules
 
