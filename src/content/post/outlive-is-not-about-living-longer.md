@@ -136,6 +136,8 @@ Sleep is not recovery from life.
 
 Sleep is part of the work.
 
+I will also never forget Khabib Nurmagomedov talking about recovery. People imagine massage, procedures, treatments, some special athlete ritual. His answer was simpler: real recovery is sleep. He trained, and then he slept during the day, sometimes two or three hours. That is recovery. Not theatrical recovery. Actual recovery.
+
 ## The Brain Also Needs Training
 
 This is the part I would emphasize even more than Attia does.
@@ -150,11 +152,11 @@ This is real cognitive load: abstraction, memory, logic, language, pattern recog
 
 I believe this matters deeply.
 
-Part of that belief comes from my grandmother. I loved her. She lived to around eighty-nine, but her final years were marked by severe dementia and Alzheimer's. She spent too much time alone. Too much television. Too little contact. Too few strong cognitive and social stimuli.
+Part of that belief comes from my grandmother. I loved her. She lived to around ninety, but her final years were marked by severe dementia and Alzheimer's. She spent too much time alone. Too much television. Too little contact. Too few strong cognitive and social stimuli.
 
-I cannot prove that this caused her decline. That would be too clean and too arrogant. Genetics, vascular health, pathology, isolation, hearing, mood, metabolism - all of it may matter.
+I cannot prove, medically, that this caused her decline. That would be too clean and too arrogant. Genetics, vascular health, pathology, isolation, hearing, mood, metabolism - all of it may matter.
 
-But I know what I saw.
+But I am deeply convinced that what I saw was not just genetics. I believe - strongly - that part of her mind degraded because it was no longer being used, challenged, connected, and fed with real stimuli. Maybe that belief is not a randomized clinical trial. Fine. It is still one of the beliefs that moves me.
 
 And what I saw gave me fuel.
 
