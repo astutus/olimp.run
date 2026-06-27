@@ -1,6 +1,6 @@
 ---
 title: "Training Lab: Strength Block 4 + Stamina Foundation"
-description: "Flat bench returns, pressing is consolidated into one day, legs are wave-loaded, shoulder pressing is removed, and running shifts into base plus controlled stamina/threshold-light work."
+description: "Flat bench returns, strength runs as a 6-week build, shoulder pressing is removed, and running uses a separate 3:1 stamina/base rhythm."
 publishDate: "2026-06-27T20:00:00Z"
 tags: ["training", "strength", "running", "block4", "stamina", "threshold", "base", "recovery"]
 hidden: false
@@ -8,28 +8,37 @@ hidden: false
 
 Starting after **1 week deload**.
 
-Context: [Block 3](/posts/training-lab-block3-may2026) worked. It was supposed to be a lighter summer recovery mesocycle, but the outcome was stronger than expected: squat returned to **70 kg 3x6**, incline bench reached **75 kg 3x5**, dips reached **BW 3x8**, leg press maxed the machine, hip thrust reached **110 kg easily**, and core work finally started to feel productive.
+Context: [Block 3](/posts/training-lab-block3-may2026) worked better than expected. It was planned as a lighter summer recovery mesocycle, but almost everything moved: squat returned to **70 kg 3x6**, incline bench reached **75 kg 3x5**, dips reached **BW 3x8**, leg press maxed the stack, hip thrust reached **110 kg easily**, and core work finally started to feel like real strength work.
 
 The main lesson was not "push harder." The main lesson was **stress distribution**.
 
-The front delt / pec-delt junction still talks when pressing exposure accumulates. It did that in Block 1, it did that in Block 2, and it started whispering again in Block 3. This block accepts that signal instead of arguing with it.
+The front delt / pec-delt junction still talks when pressing exposure accumulates. It did that in earlier blocks and started whispering again here. This block accepts that signal instead of arguing with it.
 
-Running also changed. The post-spiroergometry rebuild is no longer pure low-HR base only. The new block is **Stamina / Threshold Foundation**: base volume stays controlled, and one weekly quality session builds the bridge between easy running and later 5K-specific work.
+Running also changed. The post-spiroergometry rebuild is no longer pure low-HR base only. The new running block is **Stamina / Threshold Foundation**: base stays controlled, and one weekly quality session builds the bridge between easy running and later 5K-specific work.
 
-This is not a specialization block. It is a **foundation block**.
+This is not a 5K specialization block. It is a **foundation block**.
 
 ## Block logic
 
 ### Strength
 
+Strength and running now use **different rhythms**.
+
+- **Strength:** 6-week build + Week 7 deload.
+- **Running:** 3-week build + Week 4 deload.
+
+The Week 4 deload belongs to running, not the gym. Strength only backs off early if recovery markers force it.
+
+Key decisions:
+
 - **Flat bench returns** as the only heavy pressing pattern.
-- **Dips stay**, but only bodyweight and only if the junction stays quiet.
+- **Dips stay**, but bodyweight only and only while the junction stays quiet.
 - **No shoulder pressing** this block: no DB OHP, no machine shoulder press, no behind-the-neck press.
 - **No DB incline press** this block. Pressing stays consolidated in Session A.
 - **Shoulders are trained through wall handstand holds, lateral raises, and rear delt work.**
 - **Pull-ups return only as dynamic singles/doubles**, not volume work.
 - **Lat pulldown moves to Session B** for controlled vertical pulling volume.
-- **Legs are wave-loaded**: Session A is the heavy leg day, but not every leg movement is heavy every week.
+- **Session A is the heavier leg day**, but Bulgarian split squat becomes a stability/accessory movement, not a third max-effort lift.
 - **Hip thrust stays** because it is productive and spine-friendly.
 - **Core stays prominent** because it is finally creating a clear training effect.
 
@@ -39,7 +48,7 @@ This is not a specialization block. It is a **foundation block**.
 - 1 quality session per week.
 - No regular 180+ HR work.
 - Base is conservative: average around **140-142 bpm**, not chasing 149.
-- Every 4th week is a deload.
+- Every 4th week is a running deload.
 
 ---
 
@@ -65,6 +74,7 @@ If Sunday recovery hurts Tuesday quality, Sunday becomes off or walking.
 - **RIR 2-3** only in Week 5-6 and only if recovery is good.
 - No grinders.
 - No ego tests.
+- Strength does **not** deload in Week 4 by default.
 - If front delt / junction pain increases 24-48h after Session A, reduce dips first, then bench volume.
 - If L5/S1 talks, stop the movement or switch to the supported version.
 - If legs feel flat despite good HRV, reduce leg press or Bulgarian first.
@@ -85,49 +95,49 @@ If Sunday recovery hurts Tuesday quality, Sunday becomes off or walking.
 
 ## Smith / hack / belt squat
 
-This replaces free back squat for one block. The goal is quad stimulus with less coordination and less spinal demand. It is a new pattern, so the load is machine-specific.
+This replaces free back squat for one block. The goal is quad stimulus with a controlled path and less coordination demand. It is a new pattern, so the load is not compared directly to barbell squat.
 
-| Week | Work | Notes |
-|---|---|---|
-| W1 | 3x8 @RIR4 | Find the groove. No comparison to barbell squat. |
-| W2 | 3x8 @RIR3 | Add load if W1 was clean. |
-| W3 | 3x6-8 @RIR2-3 | First stronger exposure. |
-| W4 | 2x8 easy | Leg deload / fatigue dump. |
-| W5 | 3x6-8 @RIR2-3 | Return to W3 load or slightly above. |
-| W6 | 3x6-8 @RIR2-3 | Top week, no grinders. |
-| W7 | 2x8 easy | Deload. |
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 55 kg | 3x6-8 @RIR3-4 | Controlled groove. |
+| W2 | 60 kg | 3x6-8 @RIR3 | |
+| W3 | 65 kg | 3x6-8 @RIR3 | |
+| W4 | 70 kg | 3x6-8 @RIR3 | No gym deload here. |
+| W5 | 75 kg | 3x6-8 @RIR2-3 | Strong but clean. |
+| W6 | 80 kg | 3x6-8 @RIR2-3 | Top week, no grinders. |
+| W7 | 50 kg | 2x8 easy | Deload. |
 
 ## Plate-loaded leg press
 
-New machine, new setup. Use ROM and tendon feedback as the governor.
+New machine, new setup. Use ROM and tendon feedback as the governor. Start from **4x25 kg = 100 kg plus sled**.
 
-| Week | Work | Notes |
-|---|---|---|
-| W1 | 2x8-10 @RIR4 | Around current easy working load. |
-| W2 | 2x8-10 @RIR3 | Add load if tendon is quiet. |
-| W3 | 2x8-10 @RIR2-3 | Stronger week. |
-| W4 | 2x8 easy | Reduce load 25-30%. |
-| W5 | 2x8-10 @RIR2-3 | Back to W3 or slightly above. |
-| W6 | 2x8-10 @RIR2-3 | Either more load or more reps, not both. |
-| W7 | 2x8 easy | Deload. |
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 100 kg + sled | 2x8-10 @RIR3-4 | Easy start. |
+| W2 | 110 kg + sled | 2x8-10 @RIR3 | |
+| W3 | 120 kg + sled | 2x8-10 @RIR3 | |
+| W4 | 130 kg + sled | 2x8-10 @RIR3 | Continue build. |
+| W5 | 140 kg + sled | 2x8-10 @RIR2-3 | If tendon is quiet. |
+| W6 | 150 kg + sled | 2x8-10 @RIR2-3 | 160 only if 150 is easy and tendon stays quiet. |
+| W7 | 80-100 kg + sled | 2x8 easy | Deload. |
 
-If the tendon tension grows after the session, reduce ROM or load next week.
+If tendon tension grows after the session, repeat the same load next week or reduce ROM slightly. Linear progression is useful only while tissue feedback stays clean.
 
 ## Bulgarian split squat
 
-This stays in Session A, but it is not the third max-effort leg lift.
+This stays in Session A, but now it is a stability/accessory movement. The previous block ended around **2x18 kg x6**, so this block deliberately backs off.
 
-| Week | Load | Notes |
-|---|---|---|
-| W1 | 2x12 kg, 2x8/leg @RIR4 | Controlled restart. |
-| W2 | 2x14 kg, 2x8/leg @RIR3-4 | |
-| W3 | 2x16 kg, 2x6-8/leg @RIR3 | Strong but not brutal. |
-| W4 | 2x10 kg, 2x8/leg easy | Deload. |
-| W5 | 2x16 kg, 2x8/leg @RIR3 | Accumulate. |
-| W6 | 2x18 kg, 2x6/leg @RIR2-3 | Only if legs are fresh. |
-| W7 | 2x8 kg, 2x8/leg easy | Deload. |
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 2x8 kg | 2x8-10/leg @RIR4 | Stable, technical. |
+| W2 | 2x8 kg | 2x8-10/leg @RIR4 | Repeat for control. |
+| W3 | 2x10 kg | 2x8-10/leg @RIR3-4 | |
+| W4 | 2x10 kg | 2x8-10/leg @RIR3-4 | |
+| W5 | 2x12 kg | 2x8-10/leg @RIR3 | |
+| W6 | 2x12 kg | 2x8-10/leg @RIR3 | Still not heavy. |
+| W7 | 2x8 kg | 2x8/leg easy | Deload. |
 
-Rule: if leg press is pushed harder, Bulgarian stays lighter. If Bulgarian is pushed harder, leg press stays controlled.
+The goal is stability, knee/hip control, and clean unilateral work. Not ambition.
 
 ## Flat bench press
 
@@ -135,15 +145,18 @@ Flat bench returns. This is the only heavy pressing pattern of the week.
 
 Grip: slightly narrower than the old wide grip, not close-grip.
 
-| Week | Load | Notes |
-|---|---|---|
-| W1 | 72.5 kg 3x6 @RIR4 | Pattern return. |
-| W2 | 75 kg 3x6 @RIR3 | |
-| W3 | 77.5 kg 3x5-6 @RIR2-3 | |
-| W4 | 70 kg 2x6-8 easy | Pressing deload. |
-| W5 | 80 kg 3x5 @RIR2-3 | Only if junction is quiet. |
-| W6 | 80 kg 3x6 or 82.5 kg 3x5 @RIR2-3 | No max testing. |
-| W7 | 65 kg 2x8 easy | Deload. |
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 65 kg | 3x6 @RIR4 | Pattern return after deload. |
+| W2 | 70 kg | 3x6 @RIR3 | |
+| W3 | 75 kg | 3x6 @RIR3 | |
+| W4 | 80 kg | 3x5 @RIR2-3 | Return to known territory. |
+| W5 | 80 kg | 3x5-6 @RIR2-3 | Own the weight. |
+| W6 | 82.5-85 kg | 3x5 @RIR2-3 | 85 only if W5 was clean and quiet. |
+| W7 | 50-60 kg | 2x8 easy | Deload. |
+
+Minimum success: **80 kg becomes stable again without escalating front delt / junction pain**.  
+Very good outcome: **82.5-85 kg x5 in Week 6** without a price.
 
 If front delt / junction pain grows after bench, reduce dips first. If it still grows, reduce bench volume.
 
@@ -153,12 +166,12 @@ Dips stay because they build triceps and pressing confidence, but they are not a
 
 | Week | Work | Notes |
 |---|---|---|
-| W1 | 2x5 @RIR4 | Controlled ROM. |
-| W2 | 2x6 | |
+| W1 | 2x6 | Controlled ROM. |
+| W2 | 2x6 | Repeat. |
 | W3 | 2x7 | |
-| W4 | Skip or 2x5 easy | Deload. |
+| W4 | 2x7 | No added weight. |
 | W5 | 2x8 | |
-| W6 | 3x8 only if silent | No added weight. |
+| W6 | 2x8, optional 3rd set only if silent | No ego. |
 | W7 | Skip | Deload. |
 
 No aggressive bottom stretch. If the junction talks, dips are out.
@@ -167,10 +180,17 @@ No aggressive bottom stretch. If the junction talks, dips are out.
 
 Low-cost triceps work.
 
-- 2-3x10 @RIR2-3
-- Full extension
-- 1 second squeeze at lockout
-- No body swing
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 30 kg | 2-3x10 @RIR3 | |
+| W2 | 30 kg | 2-3x10 @RIR3 | |
+| W3 | 30-35 kg | 2-3x10 @RIR2-3 | Move only if clean. |
+| W4 | 35 kg | 2-3x10 @RIR2-3 | |
+| W5 | 35 kg | 2-3x10 @RIR2-3 | |
+| W6 | 35 kg or +1 step | 2-3x10 @RIR2-3 | Only if elbows are quiet. |
+| W7 | 25 kg | 2x10 easy | Deload. |
+
+Full extension, 1 second squeeze at lockout, no body swing.
 
 ## Leg curl + adductor/abductor
 
@@ -223,23 +243,33 @@ No sets of 8. If jump quality drops, stop.
 
 This is the main heavy lift in Session B. It stays because it is productive and well tolerated.
 
-| Week | Load | Notes |
-|---|---|---|
-| W1 | 100 kg 3x8 @RIR3-4 | Strong restart. |
-| W2 | 110 kg 3x8 @RIR3 | |
-| W3 | 115-120 kg 3x6-8 @RIR3 | |
-| W4 | 90 kg 2x8 easy | Deload. |
-| W5 | 120-125 kg 3x6-8 @RIR2-3 | |
-| W6 | 125-130 kg 3x6-8 @RIR2-3 | No lumbar extension at the top. |
-| W7 | 70-80 kg 2x8 easy | Deload. |
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 100 kg | 3x8 @RIR3-4 | Strong restart. |
+| W2 | 110 kg | 3x8 @RIR3 | |
+| W3 | 120 kg | 3x6-8 @RIR3 | |
+| W4 | 130 kg | 3x6-8 @RIR3 | Continue build. |
+| W5 | 130 kg | 3x6-8 @RIR2-3 | Own the load. |
+| W6 | 140 kg | 3x6-8 @RIR2-3 | Only if 130 has no cost. |
+| W7 | 80 kg | 2x8 easy | Deload. |
 
-Do not jump to 140 kg unless 125-130 kg has no cost the next day.
+No lumbar extension at the top. If 130 creates next-day cost, Week 6 stays 130.
 
 ## Hamstring curl
 
-- 3x10 @RIR3
-- Controlled eccentric
-- No ego-maxing the stack
+Continue progressing by machine stack position.
+
+| Week | Load | Work | Notes |
+|---|---|---|---|
+| W1 | 5 plates from the end | 3x10 @RIR3 | |
+| W2 | 4 plates from the end | 3x10 @RIR3 | |
+| W3 | 3 plates from the end | 3x10 @RIR3 | Previous strong territory. |
+| W4 | 3 plates from the end | 3x10 @RIR3 | Repeat and own. |
+| W5 | 3 or 2 plates from the end | 3x10 @RIR2-3 | Only if hamstrings are fresh. |
+| W6 | 3 or 2 plates from the end | 3x10 @RIR2-3 | No ego if running feels it. |
+| W7 | 6 plates from the end | 2x10 easy | Deload. |
+
+Controlled eccentric, no stack ego.
 
 ## Dynamic pull-ups
 
@@ -251,21 +281,37 @@ Pull-ups return as neural practice, not fatigue work.
 - Stop before speed drops
 - No volume sets
 
+The goal is to keep the skill and power without recreating the recovery problem from 2x weekly volume pull-ups.
+
 ## One-arm DB row
 
-- 3x8-10/side
-- 1 second pause at the top
-- No torso rotation
-- If L5/S1 talks, switch back to chest-supported row
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 26 kg | 3x8-10/side | Clean start. |
+| W2 | 28 kg | 3x8-10/side | |
+| W3 | 30 kg | 3x8-10/side | |
+| W4 | 32 kg | 3x8-10/side | |
+| W5 | 34 kg | 3x8-10/side | |
+| W6 | 36 kg | 3x8-10/side | 38-40 belongs to the next block unless 36 is perfect. |
+| W7 | 22-24 kg | 2x8 easy | Deload. |
+
+1 second pause at the top. No torso rotation. If L5/S1 talks, switch back to chest-supported row.
 
 ## Lat pulldown
 
 Controlled vertical pulling volume.
 
-- 2x8-10 @RIR3
-- Full stretch
-- No jerking
-- If dynamic pull-ups felt heavy, keep pulldown lighter
+| Week | Load | Work | Notes |
+|---|---|---|---|
+| W1 | 1 big plate | 2x8-10 @RIR3 | Clean reps. |
+| W2 | 1 big plate | 2x8-10 @RIR3 | Repeat. |
+| W3 | 2 big plates | 2x8-10 @RIR3 | |
+| W4 | 2 big plates | 2x8-10 @RIR3 | Own it. |
+| W5 | 3 big plates | 2x8-10 @RIR2-3 | No cheating. |
+| W6 | 3 big plates | 2x8-10 @RIR2-3 | No jerking. |
+| W7 | 1 big plate | 2x8 easy | Deload. |
+
+Full stretch, controlled scapula, no body English. If dynamic pull-ups felt heavy, keep pulldown lighter.
 
 ## Wall handstand hold
 
@@ -276,6 +322,8 @@ This replaces shoulder pressing for the block.
 - Push tall through the floor
 - No handstand push-ups
 - Stop far from failure
+
+This is shoulder exposure without the movement pattern that irritates the front delt.
 
 ## DB lateral raise
 
@@ -288,6 +336,8 @@ Main lateral delt builder.
 - No front raises
 - No swinging
 
+Find the right load in Week 1. The target is clean lateral delt tension, not load display.
+
 ## Rear delt fly / reverse pec deck
 
 Rear delt and shoulder balance.
@@ -297,28 +347,37 @@ Rear delt and shoulder balance.
 - No ego load
 - Feel rear delt, not traps
 
+This pairs with lateral raises to build shoulder structure without adding more front-delt pressing.
+
 ## One-arm DB overhead triceps extension
 
 Second triceps exposure of the week.
 
-| Week | Load | Notes |
-|---|---|---|
-| W1-W3 | 12 kg 3x8-10/arm | Clean reps. |
-| W4 | 10-12 kg 2x8 easy | Deload. |
-| W5-W6 | 12-14 kg 3x8-10/arm | 14 kg only after clean 3x10 at 12 kg. |
-| W7 | 10 kg 2x10 easy | Deload. |
-
-No elbow swing.
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 12 kg | 3x8-10/arm | Clean reps. |
+| W2 | 12 kg | 3x8-10/arm | |
+| W3 | 12 kg | 3x8-10/arm | Own it. |
+| W4 | 14 kg | 3x8-10/arm | Only if elbows are quiet. |
+| W5 | 14 kg | 3x8-10/arm | |
+| W6 | 14 kg | 3x8-10/arm | No elbow swing. |
+| W7 | 10-12 kg | 2x10 easy | Deload. |
 
 ## Biceps
 
-Biceps rebuilds slowly.
+Biceps rebuilds slowly. The forearms and grip are strong, but elbows still decide the pace.
 
-- 2-3x10
-- RIR3
-- Slow eccentric
-- Rotate hammer curl and supinated curl
-- No jump from 12 kg to 20 kg just because it is there
+| Week | Load | Work | Notes |
+|---|---:|---|---|
+| W1 | 14 kg | 2-3x8-10 | Slow eccentric. |
+| W2 | 16 kg | 2-3x8-10 | |
+| W3 | 18 kg | 2-3x8-10 | Clean reps only. |
+| W4 | 18 kg | 2-3x8-10 | Repeat. |
+| W5 | 18 kg or 20 kg top set | 2-3x8-10 | 20 only if elbows are silent. |
+| W6 | 20 kg if clean | 2-3x8-10 | No swinging. |
+| W7 | 12-14 kg | 2x10 easy | Deload. |
+
+Rotate hammer curl and supinated curl. No jump to 20 kg if the elbow starts talking.
 
 ## Core B
 
@@ -457,9 +516,9 @@ Progression is longer work duration, not higher HR.
 - 50 min Recovery
 - HR 130-138
 
-## Week 4 - Deload + steady
+## Week 4 - Running deload + steady
 
-Volume and load down around 30%.
+Running volume and load down around **30%**. Strength does not automatically deload here.
 
 **Tuesday**
 
@@ -540,6 +599,7 @@ Strength success:
 - Flat bench returns without escalating junction pain.
 - Dips stay clean and bodyweight-only.
 - Legs stay strong without killing running freshness.
+- Smith squat gives quad work without L5/S1 cost.
 - Hip thrust progresses without lumbar cost.
 - Shoulders get trained without shoulder pressing.
 - Pull-ups stay explosive instead of becoming another fatigue sink.
@@ -550,6 +610,6 @@ Running success:
 - Tempo and cruise work stays controlled.
 - 180+ HR stays out of the block.
 - Same HR gradually buys more pace.
-- Deload week arrives before the body has to force one.
+- Running deload arrives before the body has to force one.
 
-The point of this block is simple: **one real pressing day, one real leg day, one controlled running quality day, and enough recovery to keep all three moving.**
+The point of this block is simple: **one real pressing day, one heavy leg day, one controlled running quality day, and enough recovery to keep all three moving.**
