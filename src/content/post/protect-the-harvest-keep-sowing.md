@@ -94,6 +94,8 @@ There is nothing wrong with negotiation. There is nothing wrong with protecting 
 
 But counting is not a strategy.
 
+I also caught a flaw in my own thinking. I used to say that poor people think about saving while rich people think about earning more. Fixating on defending the harvest, while neglecting value creation and earning power, is basically the same mistake in a more respectable costume.
+
 Negotiating small costs, fighting bureaucratic battles, optimizing expenses, and defending against leakage are all useful skills. They are not a life direction.
 
 The center has to move.
