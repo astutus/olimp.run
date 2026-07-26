@@ -1,6 +1,6 @@
 ---
 title: "No Time to Think"
-description: "Eight days in Kefalonia, seven hours of goal setting, and the discovery that I had been selling the only hours in which I can think."
+description: "Eight days in Kefalonia, seven hours of goal setting, and the discovery that I had been selling the hours in which I think best."
 publishDate: "2026-07-26T19:30:00Z"
 tags: ["reflection", "decision-making", "personal growth", "career", "training", "parenting"]
 hidden: false
@@ -8,7 +8,7 @@ hidden: false
 
 I packed two books for Kefalonia. Eight days, the 16th to the 23rd, a hotel, the sea, no meetings, and the standard holiday delusion that this time the reading would actually happen. I came home having read nothing at all.
 
-Martynka is almost eleven and she wanted something from me from morning until evening, so that is what she got: the pool, the sea, the slides, the next thing invented before the previous one had properly finished. Other parents joined in occasionally. As far as I could tell I was the only adult in the water all day, every day, behaving like one of the children. The complete productive output of the week was a few fifteen minute maths sessions and two Cambly Kids English lessons.
+Martynka is almost eleven and she wanted something from me from morning until evening, so that is what she got: the pool, the sea, the slides, the next thing invented before the previous one had properly finished. Other parents joined in occasionally. As far as I could tell, I was the only parent joining in from morning until evening, every day, behaving like one of the children. The complete productive output of the week was a few fifteen-minute maths sessions and two Cambly Kids English lessons.
 
 By my usual standards that is a failed week. I want to leave it looking like a failure for a while, because it took me until the following weekend to work out what it actually was.
 
@@ -60,17 +60,17 @@ Metaphors have technical limits and I am not suggesting anyone walk around with 
 
 After I got home I listened to Dry Creek Dewayne, an old rancher who has ended up as an influencer, which is a sentence I did not expect to write and does not change the fact that he is worth listening to.
 
-The mechanism interests me as much as the content. I did not start watching Jim Rohn in order to learn something new. I started because he stated things I had already reached on my own, which bought him enough credibility that I wanted to see how much further the same road went past the point I had got to myself. Dewayne arrived the same way. It behaves like vocabulary. I can study a word four times and lose it, then hear it used once in a real conversation and keep it permanently. The external voice does not create the thought. It fixes it in place.
+I noticed the same mechanism that drew me deeper into Jim Rohn. Both of them stated things I had already begun to reach on my own. Recognition created trust, and trust made me curious about where the same road went next. It works like vocabulary: I can study a word several times and lose it, then hear it used once in a real conversation and keep it permanently. The external voice does not create the thought. It fixes it in place.
 
-He made two points that fixed things in place. The first was the one I had reached that same weekend: when a person works hard and then stays productive after work, there is never a moment quiet enough to think. Productivity is an excellent hiding place from strategy, and it is respected, which makes it a better hiding place than laziness.
+Dewayne made two points that did exactly that. The first was the one I had reached that same weekend: when a person works hard and then stays productive after work, there is never a moment quiet enough to think. Productivity is an excellent hiding place from strategy, and it is respected, which makes it a better hiding place than laziness.
 
-The second was sharper. He asked what difference it makes to the people around you whether you press 180 pounds or 200. Usually none. What it changes is your opinion of yourself.
+The second was sharper. He asked what difference it makes to the people around you whether you lift 180 pounds or 200. Usually none. What it changes is your opinion of yourself.
 
 ## What the training was for
 
 I care about progress and I do not intend to stop. I want to run faster, get stronger, improve the 5K, and see evidence that the work is still producing adaptation rather than managed decline. Numbers matter because they make feedback difficult to fake. But measurable is not the same as meaningful, and the measurable thing is always the easier one to remember.
 
-Would five seconds off a 5K materially improve my daughter's life? No. Would another five kilograms on a lift make me a better father? Almost certainly not. What does matter is being aerobically fit enough to spend eight consecutive days in the water, on the slides, up and down stairs, in constant motion, behaving like a ten year old alongside an eleven year old, without needing a recovery day in the middle and without sitting at the edge of the pool because my back, my knees or my conditioning had made playing too expensive.
+Would five seconds off a 5K materially improve my daughter's life? No. Would another five kilograms on a lift make me a better father? Almost certainly not. What does matter is being aerobically fit enough to spend the week in the water, on the slides, up and down stairs, in constant motion, behaving like a ten-year-old alongside an almost eleven-year-old, without sitting at the edge of the pool because my back, my knees or my conditioning had made playing too expensive.
 
 That was the actual return on years of training, collected in Kefalonia, and it appears on no watch. Not a race time. Capacity. A body that let me participate instead of supervise.
 
@@ -84,4 +84,6 @@ Sometimes the answer is still yes. Sometimes the question ends the argument.
 
 The books came home unread, which was the correct outcome. I only know that because a week away bought me two clear mornings in which to work it out.
 
-That is the unresolved problem. Everything above is a conclusion. The mechanism that produced those conclusions is not something I control: the thinking that decides where the next decade points is currently available to me once a year, on the far side of an airport, in the residue of a holiday I did not plan as thinking time. Deciding direction is not the reward for finishing the important work. It is the important work, and at the moment it is the only part of my week that has no window reserved for it.
+I have a direction now, and I have a system for reviewing it. What I do not yet have is a reliable place for this kind of thinking inside an ordinary week. Deciding direction is not the reward for finishing the important work. It is part of the important work, and it is still the easiest part to leave unscheduled.
+
+I have a map now. What I still do not have is a reliable place in an ordinary week to question it.
