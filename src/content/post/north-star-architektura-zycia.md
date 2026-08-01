@@ -182,6 +182,19 @@ Książki i idee są inputem. Rezultatem ma być trafniejsza decyzja albo zmiana
 
 # Cele 1-roczne
 
+## Zasada aktualizacji celów
+
+Ten dokument jest aktualną mapą operacyjną, a nie kroniką tygodnia. Bieżące obserwacje i wykonane zadania zapisuję w papierowym przeglądzie tygodniowym.
+
+Do celu w tym dokumencie dopisuję tylko wtedy, gdy:
+
+- kończę istotny milestone,
+- zmienia się diagnoza, strategia albo kolejność działań,
+- pojawia się nowy konkretny następny ruch,
+- rezultat lub WHY przestają być aktualne.
+
+Aktywne cele roczne mogą mieć dwa krótkie pola: **Aktualny stan** i **Następne ruchy**. Nie prowadzę pod nimi tygodniowego logu.
+
 ## 1. Uzyskać znacząco lepszą pozycję rynkową i docelowy total compensation
 
 ### Rezultat
@@ -220,24 +233,30 @@ Jestem wysoko wykwalifikowany i osiągam ponadprzeciętne wyniki, ale obecne wyn
 
 Większe earning power da mi kapitał i przestrzeń potrzebne do budowy prawdziwej autonomii.
 
+### Aktualny stan
+
+31 lipca 2026 zdałem OCP Virtualization exam z wynikiem 90%. Jednym ruchem zrealizowałem dwa milestones: odnowiłem specjalizację OCP Virtualization oraz zabezpieczyłem RHCA i pozostałe aktywne certyfikacje do lipca 2029.
+
+To zamyka etap łatwego wzmacniania pozycji przez certyfikaty. Dalszy zwrot ma pochodzić przede wszystkim z lepszego opakowania istniejącej wartości, wejścia na rynek i rozwoju enterprise AI - nie z kolekcjonowania kolejnych odznak.
+
+### Następne ruchy
+
+1. Stworzyć jasną value proposition i spójną narrację rekrutacyjną.
+2. Na jej podstawie przygotować mocny profil LinkedIn.
+3. Równolegle regularnie odpowiadać na wartościowe kontakty rekrutacyjne, selektywnie inicjować rozmowy i nie czekać na poczucie pełnej gotowości.
+4. W codziennej pracy pogłębiać enterprise AI i budować portfolio realnych wdrożeń, discovery, automatyzacji oraz wpływu biznesowego.
+5. Zabezpieczać także wariant pozostania w obecnej firmie: przygotować argumentację i porozmawiać z managementem o stockach oraz całościowym total compensation.
+
 ### Milestones i możliwe projekty
 
 Nie kontroluję tego, czy konkretna firma złoży ofertę. Kontroluję jakość swojej narracji, liczbę wejść na rynek i gotowość do negocjacji.
 
 - odbyć co najmniej 2 wartościowe rozmowy rynkowe lub rekrutacyjne na kwartał, do czasu uzyskania satysfakcjonującej oferty,
-- przygotować mocny profil LinkedIn,
-- stworzyć jasną value proposition i narrację rekrutacyjną,
-- regularnie odpowiadać na wartościowe kontakty rekrutacyjne,
-- prowadzić rozmowy bez czekania na poczucie pełnej gotowości,
 - nauczyć się lepiej negocjować total compensation,
-- rozwijać enterprise AI,
-- ukończyć AI500 lub AI501,
-- utrzymać RHCA niewielkim kosztem,
-- zdać OCP Virtualization exam, jeżeli ROI pozostanie dobre,
-- rozważyć praktyczną ścieżkę Databricks,
-- budować portfolio realnych wdrożeń i automatyzacji.
+- ukończyć AI500 lub AI501 tylko wtedy, gdy wniesie nowy market signal albo użyteczną kompetencję,
+- rozważyć praktyczną ścieżkę Databricks po wykonaniu działań bezpośrednio testujących rynek.
 
-Certyfikat jest market signal. Nie jest pozwoleniem na aplikowanie.
+Certyfikat jest market signal. Nie jest pozwoleniem na aplikowanie ani substytutem wejścia na rynek.
 
 ## 2. Zamknąć najważniejsze fronty prawne, administracyjne i remontowe
 
@@ -248,6 +267,17 @@ Certyfikat jest market signal. Nie jest pozwoleniem na aplikowanie.
 - **MOPS:** decyzja zależy od propozycji. Jeżeli warunki będą do udźwignięcia bez istotnego uszczerbku, przyjmuję je i zamykam temat bez walki dla samej walki. Jeżeli żądanie będzie wysokie i wsteczne, wchodzę w spór sądowy jako świadomy wybór.
 - **Sprawa taty:** sprawę prowadzi pełnomocnik. Moja rola ogranicza się do niezbędnych decyzji i dokumentów, a nie osobistego prowadzenia frontu.
 - odzyskać uwagę zajętą przez defense.
+
+### Aktualny stan - mieszkanie w Olsztynie
+
+Podpisałem akt notarialny, złożyłem wniosek o wycenę książeczki mieszkaniowej i uruchomiłem etap wykonawczy obejmujący płytki, przeróbki, wykończenie oraz malowanie. Oddałem wykonawcy inicjatywę operacyjną, pozostawiając sobie kontrolę jakości, zakresu, kosztów i kluczowych decyzji. Negocjacyjnie zapłaciłem cenę rynkową, ale nie wyciągnąłem około 1,5-2 tys. PLN rabatu; rundę rozegrałem w cudzych warunkach, bez istotnej szkody finansowej, za to z konkretną lekcją dotyczącą setupu negocjacji.
+
+### Następne ruchy - mieszkanie w Olsztynie
+
+- kontrolować jakość i zgodność prac z ustalonym zakresem,
+- zatwierdzać kolejne decyzje materiałowe i wykonawcze bez przejmowania operacyjnego prowadzenia robót,
+- pilnować kosztu końcowego i nie rozszerzać zakresu bez świadomej decyzji,
+- domknąć wycenę i rozliczenie książeczki mieszkaniowej.
 
 ### WHY
 
@@ -645,6 +675,8 @@ Pytania:
 ## Raz w tygodniu
 
 Przegląd prowadzę w **tym samym papierowym dzienniku**, na jednej stronie, jako zwykły wpis do wykonania i wykreślenia. Bez osobnego pliku, aplikacji ani nowego systemu.
+
+Nie aktualizuję po nim automatycznie całego dokumentu. Przenoszę tu tylko zmianę istotną strategicznie: ukończony milestone, zmianę kolejności działań, nowy bottleneck albo korektę celu. Dzięki temu tygodniowy przegląd steruje działaniem, ale nie produkuje biurokracji.
 
 Krótko przejrzeć:
 
