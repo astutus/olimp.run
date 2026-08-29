@@ -1,6 +1,6 @@
 ---
-title: "NeuroForge 5.0 Light"
-publishDate: "2026-06-10T10:00:00Z"
+title: "NeuroForge 5.0 Light Review"
+publishDate: "2026-08-10T10:00:00Z"
 ---
 
 # NeuroForge 5.0 Light
