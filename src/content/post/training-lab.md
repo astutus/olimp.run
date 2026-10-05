@@ -1,300 +1,185 @@
 ---
-title: "Training Lab: Active Rest + Running Reset"
-description: "Two weeks of deliberately lower training cost after Block 4: less running volume, broader cardio, lighter strength work, and no progression."
-publishDate: "2026-09-06T14:34:00Z"
-tags: ["training", "strength", "running", "recovery", "active-rest", "fatigue-management"]
+title: "Training Lab: October Accumulation Block"
+description: "Four weeks of lighter loads, rising set volume and longer runs, with recovery deciding how far the plan goes."
+publishDate: "2026-10-05T20:39:34Z"
+tags: ["training", "strength", "running", "decision-making"]
 hidden: false
 ---
 
-I started this training cycle in November 2025.
+The [September block](/posts/training-lab-block5-sep2026/) was about active rest and resetting running. This block moves back into accumulation: three weeks of increasing work, followed by one week of deload.
 
-Since then, the details changed, but the basic pattern stayed surprisingly similar: two strength sessions, four runs, progressive loading, another mesocycle, another deload, then repeat.
+The dates are **October 5 to November 1, 2026**.
 
-It worked.
+I want to rebuild useful training volume without immediately returning to heavy weights. I also want to find out how I respond to longer easy runs. Both matter, but they compete for the same recovery budget, especially during a cut.
 
-Just not equally everywhere.
+The plan is concrete. Its upper end is conditional.
 
-My legs progressed very well. [Block 4 confirmed that clearly](/posts/strength-block-4-progress-stalls-and-cost/): Smith squat moved to 80 kg for controlled sets, leg press went far beyond the original plan, and hip thrust reached 130 kg with reserve.
+## What I am changing
 
-Bench was different. Different loads, different rep ranges, essentially the same estimated strength.
+On the strength side, the main variable is **working sets**. Bench and squat move from three to five sets. The main row and lat pulldown follow the same progression. Hip thrust moves from two to four.
 
-Running became even more obvious. I spent the entire year running consistently, including laboratory testing, low-HR base work, stamina work, and eventually a Garmin Greg McMillan plan that was supposed to end with a proper 10K test.
+I suspect that three weekly sets of barbell bench were too little for the progress I wanted. That is a working hypothesis, not a diagnosis. This time I also keep three sets of flat DB bench on a second day, giving the chest six, seven and eight weekly sets.
 
-That test is not happening.
+Arms and lateral/rear delts also accumulate volume. Supporting exercises can stay stable. Accumulation does not require adding a set to every exercise simply because another Monday has arrived.
 
-The groin started complaining before the block was finished, fast running made it worse, and forcing a record attempt now would be a stupid way to protect an ego problem.
+On the running side, easy duration increases from 50 to 60 minutes, and long runs from 60 to 70. The quality session starts with upper-Z3 work, then moves into controlled cruise intervals.
 
-This may be the first year in a long time without a serious PB attempt.
+This will tell me something about my tolerance of the combined workload. It will not isolate the effect of the long run: easy duration, intervals and lifting volume are changing too. Calling it an experiment does not magically remove the confounders.
 
-Fine.
+## Weekly schedule
 
-I am not training for the annual report. I am trying to stay strong, fast, and functional for decades.
+| Day | Session |
+|---|---|
+| Monday | Off |
+| Tuesday | Strength A: bench, horizontal pull, arms, light legs |
+| Wednesday | Quality run |
+| Thursday | Strength B: squat, hip thrust, DB bench, vertical pull |
+| Friday | Easy run |
+| Saturday | Strength C: shoulders, back, arms, moderate leg press |
+| Sunday | Long easy run |
 
-So the next phase is not another accumulation block.
+Squat and hip thrust sit on Thursday so their increasing volume does not land immediately before the Wednesday quality run. Saturday still includes legs, but their dose has to leave Sunday's run easy.
 
-It is two weeks of **Active Rest**.
+## Strength: lighter load, more work
 
-## Why Active Rest now
+For the larger lifts, I start around **60% of current 1RM/e1RM**. Current matters. Historical records are not today's prescription. Isolation loads are selected through reps and RIR rather than percentage calculations.
 
-I initially assumed Active Rest would mean another four- or five-week mesocycle.
+The intention is to reduce peak loading while rebuilding volume. A light bar does not guarantee a cheap session: enough sets or reps close to failure can still generate plenty of fatigue.
 
-It does not.
+| Week | Effort |
+|---|---|
+| W1 | About RIR 4 |
+| W2 | About RIR 3-4 |
+| W3 | About RIR 3-4 |
+| W4 | About RIR 5-6 |
 
-Going back to *Scientific Principles of Strength Training* clarified the distinction. Active Rest is a dedicated fatigue-management block, usually around two weeks, with both volume and intensity reduced heavily. It has no normal accumulation phase and no progression.
+Tuesday leg work and Saturday leg press/curl stay around **RIR 4-5**. I calibrate starting weights in the first sessions. If the load and rep range produce a very different RIR, I adjust rather than pretending the percentage settles everything.
 
-That fits the problem unusually well.
+There is no simultaneous planned weekly load progression. Sets are already rising. Reps can improve within the prescribed range at comparable effort.
 
-I have already completed a deload, so this is not about needing another easy week because one session felt hard.
+All tables show **working sets, excluding warm-up**. Unilateral sets are performed on each side; they are not counted twice in weekly muscle totals.
 
-It is about accumulated cost from months of repetitive loading:
+### Tuesday: Strength A
 
-- nine months of hip thrusts,
-- repeated heavy pressing,
-- continuous running volume,
-- increasingly strong lower-body work,
-- and finally a groin signal that started affecting running, leg training, and core work at the same time.
+| Exercise | Reps | Oct 6 | Oct 13 | Oct 20 | Oct 27: deload |
+|---|---|---:|---:|---:|---:|
+| Barbell flat bench | 10-15 | 3 | 4 | 5 | 2 |
+| Supported one-arm DB row | 10-15/side | 3 | 4 | 5 | 2 |
+| Leg extension | 12-15 | 2 | 2 | 2 | 1 |
+| Leg curl | 10-15 | 2 | 2 | 2 | 1 |
+| Lateral raise | 12-20 | 2 | 3 | 4 | 2 |
+| Hammer curl | 10-15 | 2 | 3 | 4 | 2 |
+| Rope pushdown | 10-15 | 2 | 3 | 4 | 2 |
+| Pallof press | 10-12/side | 2 | 2 | 2 | 1 |
 
-The objective for the next fourteen days is therefore simple:
+The row is supported, without rotating the torso to finish a rep. Leg extension and curl are light enough to preserve the next day's quality run.
 
-> Keep the movement patterns. Remove the need to prove anything.
+### Thursday: Strength B
 
-No overload.
+| Exercise | Reps | Oct 8 | Oct 15 | Oct 22 | Oct 29: deload |
+|---|---|---:|---:|---:|---:|
+| Free back squat | 10-12 | 3 | 4 | 5 | 2 |
+| Hip thrust | 10-15 | 2 | 3 | 4 | 2 |
+| DB flat bench press | 10-15 | 3 | 3 | 3 | 1 |
+| Lat pulldown | 10-15 | 3 | 4 | 5 | 2 |
+| Supinating DB curl | 10-15 | 2 | 2 | 2 | 1 |
+| One-arm DB overhead triceps extension | 12-15/side | 2 | 2 | 2 | 1 |
+| Plank | 30-45 seconds | 2 | 2 | 2 | 1 |
 
-No rep records.
+The free squat stays. I use the range I currently tolerate rather than forcing depth. Hip thrust stays too: it is direct glute work, and being on a cut is not a reason to remove it. Progress in that exercise is progress in that exercise, not automatic proof of better running.
 
-No "I feel good today, so technically this is still Active Rest at RIR 1."
+Hip thrust ends without lumbar hyperextension. Overhead triceps work stays light; if my elbow or shoulder objects, I substitute a tolerated pushdown. The deload plank is 20-30 seconds.
 
-## The running reset
+### Saturday: Strength C
 
-Running changes more than strength.
+| Exercise | Reps | Oct 10 | Oct 17 | Oct 24 | Oct 31: deload |
+|---|---|---:|---:|---:|---:|
+| Seated DB shoulder press | 10-15 | 2 | 3 | 3 | 1 |
+| Supported one-arm DB row | 10-15/side | 2 | 2 | 2 | 1 |
+| Selectorized leg press | 10-15 | 3 | 3 | 3 | 1 |
+| Leg curl | 12-15 | 2 | 2 | 2 | 1 |
+| Reverse pec deck | 12-20 | 2 | 3 | 4 | 2 |
+| EZ-bar curl | 10-15 | 2 | 3 | 4 | 2 |
+| Rope pushdown | 10-15 | 2 | 3 | 4 | 2 |
+| Cable crunch | 10-15 | 1 trial set | Up to 2 | Up to 2 | 1 easy |
 
-The previous structure was four runs per week, with roughly three one-hour sessions and one long run around 90 minutes.
+Shoulder press uses a near-upright backrest. Its progression is deliberately smaller than lateral raise and reverse pec deck because bench work is increasing too.
 
-That is gone.
+The selectorized leg press is the machine I tolerated. The plate-loaded version provoked pain. I do not need a complete biomechanical explanation to respect that difference. Range ends before the pelvis loses support or the lower back rounds.
 
-For these two weeks:
+Cable crunch starts as a tolerance test: one light set, comfortable range, then a next-day check. A second set is earned through a quiet response. If it provokes the groin or back, it comes out.
 
-- running frequency drops from **4 to 3 sessions per week**,
-- every run is limited to roughly **40-50 minutes**,
-- there is only **one steady run**,
-- there are no cruise intervals, repeats, or hard threshold sessions,
-- and a fourth aerobic session comes from **30 minutes on the StairMaster**.
+Rest is normally **2-3 minutes for larger movements**, **1-2 minutes for isolation work**. Larger lifts get gradual warm-up sets.
 
-This reduces running specificity slightly on purpose.
+### Weekly strength volume
 
-For most of the year I treated running improvement as if more running-specific volume was automatically better. The result was a lot of slow running, a lot of accumulated impact, and not much evidence that another 90-minute easy run was the missing ingredient.
+| Area | W1 | W2 | W3 |
+|---|---:|---:|---:|
+| Chest | 6 | 7 | 8 |
+| Back | 8 | 10 | 12 |
+| Quads | 8 | 9 | 10 |
+| Hamstrings: leg curls | 4 | 4 | 4 |
+| Hip thrust | 2 | 3 | 4 |
+| Biceps: direct | 6 | 8 | 10 |
+| Triceps: direct | 6 | 8 | 10 |
+| Shoulder press | 2 | 3 | 3 |
+| Lateral raise | 2 | 3 | 4 |
+| Reverse pec deck | 2 | 3 | 4 |
 
-For now I want a broader aerobic stimulus with lower mechanical cost.
+Glutes also work in squat and leg press. Arms receive additional work through pulls and presses. These totals describe the program, not perfectly interchangeable biological units.
 
-Not less cardio.
+## Running: extend the dose before chasing intensity
 
-Less repeated running load.
+| Week | Wednesday: quality | Friday: easy | Sunday: long |
+|---|---|---|---|
+| W1: Oct 5-11 | Oct 7: 20 min tempo-light, up to 166 bpm | Oct 9: 50 min | Oct 11: 60 min |
+| W2: Oct 12-18 | Oct 14: 5 x 4 min cruise, around 172 bpm | Oct 16: 55 min | Oct 18: 65 min |
+| W3: Oct 19-25 | Oct 21: 5 x 5 min cruise, similar effort to W2 | Oct 23: 60 min | Oct 25: 70 min |
+| W4: Oct 26-Nov 1 | Oct 28: 15 min steady, up to 160 bpm | Oct 30: 40 min | Nov 1: 50 min |
 
-### Run 1 - Easy
+Every Wednesday session includes **15 minutes easy before the work and 10 minutes easy after**. Cruise intervals have **90 seconds of jogging between repetitions**, four recoveries in total.
 
-**40-50 minutes.**
+| Running duration | W1 | W2 | W3 | W4 |
+|---|---:|---:|---:|---:|
+| Full Wednesday session | 45 min | 51 min | 56 min | 40 min |
+| Total weekly running | 155 min | 171 min | 186 min | 130 min |
 
-Easy means easy.
+W1 is upper-Z3 tempo-light, not a threshold session disguised by a label. Cruise intervals stay controlled, around **RPE 6-7/10**.
 
-No pace target and no attempt to manufacture a particular cadence. I want a relaxed running pattern and a quiet groin, not another technique intervention copied from YouTube.
+In W3, the progression is five-minute repetitions instead of four. I am not simultaneously making high Z4 compulsory. HR may sit around **172-178 bpm in the later parts of repetitions**. Around 180 with rising effort prompts a pace check. These are programming guides, not biological walls.
 
-### Run 2 - Z2 run/walk
+HR lags. Accelerating early to force a number on the watch defeats the purpose. I establish controlled effort first and then observe the response.
 
-My second laboratory test placed Zone 2 at **140-149 bpm**.
+Easy and long runs stay around **RPE 2-3/10**, with full sentences possible. My reference range is **140-149 bpm**, without a requirement to hit a particular number. No fast finish.
 
-Instead of deliberately slowing my running mechanics to stay below the top of the range, I will use a simple alert system:
+The first 60-minute long assumes the recent 50 minutes were comfortable and the groin stayed quiet the next day. If that condition does not hold, I stop earlier and repeat a tolerable dose. The calendar does not get a casting vote.
 
-- run while HR is **140-149 bpm**,
-- when the 149 bpm alert fires, walk,
-- when HR drops below 140 bpm, run again.
+## Deload: keep the rhythm, remove work
 
-The interesting variable here is not pace.
+Week four keeps all six training sessions. Running falls from 186 to 130 minutes, a reduction of about **30%**.
 
-It is whether I can accumulate aerobic work inside the measured zone while allowing the movement itself to stay natural.
+Strength falls from up to **79 working sets in W3 to 36**, including core and counting unilateral sets once per exercise. That is roughly **54% less volume**. Cable crunch totals assume both trial sets were tolerated in W3.
 
-### Run 3 - Steady
+Loads can come down by roughly 10-15% from W3 if needed to keep the work easy. The target is RIR 5-6, not preserving the last week's effort with fewer sets.
 
-One controlled quality-lite session.
+## What decides whether I progress
 
-**40-50 minutes total**, with the working section in steady territory.
+W3 is the highest planned dose, not a minimum I owe the spreadsheet.
 
-No threshold ambition.
+Before adding sets or minutes, I check whether performance has recovered by the next exposure, whether the groin and back remain quiet, and whether lifting is compromising the runs.
 
-No cruise intervals.
+If Tuesday legs reduce Wednesday's quality, I reduce their dose. If Saturday legs make Sunday's easy run materially harder, leg press and curl lose sets. A poorly tolerated week gets repeated or reduced rather than automatically progressed.
 
-No 180+ bpm experiment.
+Increasing pain ends the provoking movement. A worse next-day response also blocks progression. Persistent symptoms need assessment rather than another clever adjustment to the table.
 
-The purpose is to keep some speed in the system without recreating the exact stimulus that has been irritating the groin.
+Missed sets and minutes are not repaid later.
 
-### StairMaster
+## Fuel and the review
 
-**30 minutes in Zone 2.**
+My starting intake is **2,500 kcal/day**, with roughly **150-180 g protein**. That is a starting point, not a number independent of workload. If weight loss accelerates or recovery and performance deteriorate as training grows, I adjust food rather than blaming discipline.
 
-This is the deliberate specificity trade.
+I will track load, reps and RIR, body-weight trend, symptoms the next day, and running pace at comparable HR and conditions. On longer runs, I also want to see what happens after 40-50 minutes: pace, HR and perceived effort.
 
-Running is still the primary aerobic modality, but not every cardiovascular adaptation requires another running session.
+A green recovery score is useful context. It does not overrule local symptoms or falling performance.
 
-For two weeks, stairs give me aerobic work without another round of repetitive running impact.
-
-## Strength: preserve patterns, cut the cost
-
-Strength stays at two full-body sessions per week.
-
-I do not want Active Rest to become random machine training completely detached from the movements I actually care about.
-
-So the main patterns stay:
-
-- squat,
-- press,
-- vertical pull,
-- horizontal pull,
-- triceps,
-- some biceps,
-- shoulder skill work.
-
-But the exercises and loads change enough to reduce direct specificity and accumulated stress.
-
-General rules:
-
-- approximately **50% of normal overload-day intensity and volume**,
-- **RIR 6+** as the practical governor,
-- no progression between Week 1 and Week 2,
-- no added sets,
-- no top sets,
-- no grinders,
-- stop any movement that reproduces the groin problem.
-
-The second week repeats the first.
-
-Feeling stronger is not permission to turn the second week into Week 1 of the next block.
-
-## Strength Session A
-
-| Exercise | Work | Decision |
-| --- | --- | --- |
-| Barbell Back Squat | 3 x 6-8 @ 40 kg | Free squat returns, but at roughly half-strength territory instead of continuing the Smith progression. |
-| Incline Dumbbell Press | 3 x 8-10, very easy | Keeps a chest pressing pattern while giving flat bench a complete break. |
-| Leg Extension | 2 x 10-12, easy | Quad stimulus without deep loaded hip flexion. |
-| One-Arm Dumbbell Row | 3 x 8-10, easy | Familiar horizontal pull, heavily backed off. |
-| One-Arm Overhead DB Triceps Extension | 2 x 10-12 @ ~8 kg | Same useful triceps pattern, far below the previous heavy 12 kg work. |
-| Dumbbell Curl | 2 x 10-12, easy | Minimal direct biceps work. |
-
-The squat stays because removing every specific strength pattern would solve the wrong problem.
-
-The previous block used the Smith machine. Returning to a 40 kg free squat gives me technical practice with a very small absolute load.
-
-Leg press does not get the same privilege.
-
-Deep heavy leg press was one of the first movements associated with the groin problem. I could test a different selectorized machine and hope that it behaves differently.
-
-There is no reason to.
-
-Two weeks without leg press costs nothing.
-
-## Strength Session B
-
-Before the working sets:
-
-### Handstand practice
-
-**5-10 minutes.**
-
-This is skill work, not conditioning.
-
-The previous block used wall handstand holds. Now I can spend a few minutes actually practicing the position and balance while the shoulders are fresh.
-
-Stop before fatigue turns skill practice into ugly pressing volume.
-
-Then:
-
-| Exercise | Work | Decision |
-| --- | --- | --- |
-| Seated Dumbbell Shoulder Press | 3 x 8-10, very easy | Reintroduces seated shoulder pressing with low load instead of repeating the old heavy pressing pattern. |
-| Leg Curl | 3 x 10-12, easy | One direct hamstring exposure per week is enough here. |
-| Lat Pulldown | 3 x 8-10, easy | Controlled vertical pulling without explosive pull-up work. |
-
-That is only nine normal working sets plus the handstand practice.
-
-Good.
-
-The goal is not to make Sessions A and B look symmetrical in a spreadsheet.
-
-The goal is recovery.
-
-## What is deliberately missing
-
-Several movements disappear completely for fourteen days:
-
-- flat bench press,
-- Smith squat,
-- leg press,
-- Bulgarian split squat,
-- box jumps,
-- explosive pull-ups,
-- hard core work that reproduces groin symptoms,
-- and hip thrust.
-
-Hip thrust deserves special mention.
-
-It has been productive for roughly nine months and reached 130 kg without being a problem.
-
-That is exactly why I am removing it.
-
-Not every removed exercise needs a replacement.
-
-Two weeks without hip thrust gives the pattern a genuine break and gives the glutes plenty of time to survive the devastating absence of 130 kg across my pelvis.
-
-They will cope.
-
-## Weekly structure
-
-The exact days can move, but the intended rhythm is:
-
-| Day | Session | Goal |
-| --- | --- | --- |
-| Monday | Off | Full rest |
-| Tuesday | Steady run | Controlled running stimulus |
-| Wednesday | Strength A | Light full-body strength |
-| Thursday | Z2 run/walk | Aerobic work inside 140-149 bpm |
-| Friday | Strength B | Light strength + handstand skill |
-| Saturday | Easy run | Relaxed running, low mechanical cost |
-| Sunday | StairMaster 30 min | Z2 cardio without another run |
-
-Week 2 repeats the same structure.
-
-There is no Week 2 progression.
-
-## What happens after the two weeks
-
-Active Rest is not the new training philosophy.
-
-It is a reset before the next macrocycle.
-
-The current direction is:
-
-1. **Active Rest - 2 weeks**
-2. **Cut / Hypertrophy - 3:1**
-3. **Cut / Hypertrophy - 3:1**
-4. **Mass / Hypertrophy - 4:1**
-5. **Strength mesocycle**
-6. Return to Hypertrophy and Strength as needed before a later peak
-
-The cut has a very practical reason.
-
-Bodyweight has moved to roughly **83.5 kg**, and I have added more body fat than I want. The initial target is around **80 kg**, likely using roughly **2500 kcal/day** and aiming for a controlled loss around 0.5 kg per week.
-
-The training objective during that phase will not be to build maximum new muscle.
-
-It will be to preserve muscle and strength while body fat comes down.
-
-Then calories can come back up and essentially the same hypertrophy principles can finally be used for their other job: building tissue instead of defending it.
-
-That is the larger change in how I want to train.
-
-The last year was mostly one long sequence of similar work.
-
-The next one should have actual phases with different jobs.
-
-For the next fourteen days, though, there is only one job:
-
-**Reduce cost without becoming inactive.**
+At the end of this block, the useful question is whether I handled more work while maintaining controlled effort and recovering between sessions. The next block will be built from that answer, not from the version of me that looked excellent on paper.
